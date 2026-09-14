@@ -1,5 +1,5 @@
 ! Title: Custom DNS Blocklist - Tracking-Telemetry
-! Updated: 2026-09-14 23:40:22 UTC
+! Updated: 2026-09-14 23:40:35 UTC
 ! Total Rules: 41566
 !
 ||0.fls.doubleclick.net^
