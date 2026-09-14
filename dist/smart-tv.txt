@@ -1,5 +1,5 @@
 ! Title: Custom DNS Blocklist - Smart-Tv
-! Updated: 2026-09-14 23:22:10 UTC
+! Updated: 2026-09-14 23:32:15 UTC
 ! Total Rules: 25
 !
 ||aax-us-east.amazon-adsystem.com^

@@ -1,5 +1,5 @@
 ! Title: Custom DNS Blocklist - Adult-Ads
-! Updated: 2026-09-14 23:22:10 UTC
+! Updated: 2026-09-14 23:32:15 UTC
 ! Total Rules: 41
 !
 ||a.plugrush.com^
