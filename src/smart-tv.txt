@@ -1,0 +1,37 @@
+# ==============================================================================
+# Smart TV & Streaming Device Telemetry & Ads
+# Targets Samsung, LG, Roku, FireTV ads without breaking video streaming
+# ==============================================================================
+
+# Samsung Smart TV Telemetry & Ads
+samsungads.com
+config.samsungads.com
+gpm.samsungqbe.com
+log-config.samsungacr.com
+samsungacr.com
+smetrics.samsung.com
+nmetrics.samsung.com
+
+# LG Smart TV Telemetry & Ads
+lgtvsdp.com
+ad.lgappstv.com
+ibs.lgappstv.com
+rdl.lgtvcommon.com
+aic-ngfts.lge.com
+emp-direct.lg.com
+
+# Roku Telemetry & Ads
+ads.roku.com
+cooper.logs.roku.com
+customer-controls.roku.com
+identity.roku.com
+logs.roku.com
+p.ads.roku.com
+track.sr.roku.com
+
+# Amazon FireTV / Echo Telemetry & Ads
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+aax-us-east.amazon-adsystem.com
+fls-na.amazon.com
+unagi-na.amazon.com

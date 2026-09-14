@@ -1,0 +1,26 @@
+# ==============================================================================
+# Critical Whitelist
+# Domains listed here will NEVER be added to any compiled blocklist.
+# ==============================================================================
+
+apple.com
+icloud.com
+google.com
+gmail.com
+youtube.com
+microsoft.com
+windowsupdate.com
+live.com
+github.com
+githubusercontent.com
+netflix.com
+nflxvideo.net
+spotify.com
+amazon.com
+steampowered.com
+playstation.com
+xboxlive.com
+nintendo.com
+cloudflare.com
+quad9.net
+tplinkwifi.net

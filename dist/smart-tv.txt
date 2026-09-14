@@ -1,0 +1,29 @@
+! Title: Custom DNS Blocklist - Smart-Tv
+! Updated: 2026-09-14 23:22:10 UTC
+! Total Rules: 25
+!
+||aax-us-east.amazon-adsystem.com^
+||ad.lgappstv.com^
+||ads.roku.com^
+||aic-ngfts.lge.com^
+||config.samsungads.com^
+||cooper.logs.roku.com^
+||customer-controls.roku.com^
+||device-metrics-us-2.amazon.com^
+||device-metrics-us.amazon.com^
+||emp-direct.lg.com^
+||fls-na.amazon.com^
+||gpm.samsungqbe.com^
+||ibs.lgappstv.com^
+||identity.roku.com^
+||lgtvsdp.com^
+||log-config.samsungacr.com^
+||logs.roku.com^
+||nmetrics.samsung.com^
+||p.ads.roku.com^
+||rdl.lgtvcommon.com^
+||samsungacr.com^
+||samsungads.com^
+||smetrics.samsung.com^
+||track.sr.roku.com^
+||unagi-na.amazon.com^

@@ -1,0 +1,45 @@
+! Title: Custom DNS Blocklist - Adult-Ads
+! Updated: 2026-09-14 23:22:10 UTC
+! Total Rules: 41
+!
+||a.plugrush.com^
+||ad-maven.com^
+||ads.trafficjunky.com^
+||adserver.juicyads.com^
+||adsterra.com^
+||adxad.com^
+||adxpansion.com^
+||bidgear.com^
+||bongacams.com^
+||cdn.trafficfactory.biz^
+||chaturbate-ads.com^
+||clickadu.com^
+||crakrevenue.com^
+||creative.tsyndicate.com^
+||delivery.trafficjunky.com^
+||deloton.com^
+||ero-advertising.com^
+||evadav.com^
+||exoclick.com^
+||hilltopads.net^
+||js.juicyads.com^
+||juicyads.com^
+||livejasmin-tracker.com^
+||main.exoclick.com^
+||media.trafficjunky.com^
+||monetag.com^
+||my.popcash.net^
+||notification-system.top^
+||plugrush.com^
+||popads.net^
+||popcash.net^
+||propellerads.com^
+||push-notification.top^
+||pushwelcome.com^
+||realsrv.com^
+||serve.popads.net^
+||stripchat-ads.com^
+||syndication.exoclick.com^
+||trafficfactory.biz^
+||trafficjunky.com^
+||tsyndicate.com^

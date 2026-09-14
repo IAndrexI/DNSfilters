@@ -1,0 +1,26 @@
+# ==============================================================================
+# General Tracking & Analytics Telemetry
+# ==============================================================================
+
+# Common app & mobile tracking SDKs
+app-measurement.com
+crashlytics.com
+appsflyer.com
+adjust.com
+branch.io
+kochava.com
+singular.net
+inmobi.com
+tapjoy.com
+vungle.com
+unityads.unity3d.com
+appl会上.com
+
+# Web analytics & session replay trackers
+hotjar.com
+mouseflow.com
+crazyegg.com
+fullstory.com
+smartlook.com
+luckyorange.com
+clarity.ms

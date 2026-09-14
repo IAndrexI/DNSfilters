@@ -1,0 +1,22 @@
+! Title: Custom DNS Blocklist - Tracking-Telemetry
+! Updated: 2026-09-14 23:22:10 UTC
+! Total Rules: 18
+!
+||adjust.com^
+||app-measurement.com^
+||appsflyer.com^
+||branch.io^
+||clarity.ms^
+||crashlytics.com^
+||crazyegg.com^
+||fullstory.com^
+||hotjar.com^
+||inmobi.com^
+||kochava.com^
+||luckyorange.com^
+||mouseflow.com^
+||singular.net^
+||smartlook.com^
+||tapjoy.com^
+||unityads.unity3d.com^
+||vungle.com^

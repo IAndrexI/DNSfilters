@@ -1,0 +1,53 @@
+# ==============================================================================
+# Adult Advertising Networks & Redirect Servers
+# Add one domain per line. Blank lines and lines starting with # are ignored.
+# ==============================================================================
+
+# ExoClick & TrafficJunky networks
+exoclick.com
+syndication.exoclick.com
+main.exoclick.com
+trafficjunky.com
+ads.trafficjunky.com
+media.trafficjunky.com
+delivery.trafficjunky.com
+
+# JuicyAds & PlugRush
+juicyads.com
+adserver.juicyads.com
+js.juicyads.com
+plugrush.com
+a.plugrush.com
+
+# TrafficFactory & PopCash & PopAds
+trafficfactory.biz
+cdn.trafficfactory.biz
+popads.net
+serve.popads.net
+popcash.net
+my.popcash.net
+
+# Other prevalent adult ad / cam / redirect networks
+ero-advertising.com
+adxpansion.com
+adxad.com
+crakrevenue.com
+bongacams.com
+chaturbate-ads.com
+stripchat-ads.com
+realsrv.com
+deloton.com
+livejasmin-tracker.com
+tsyndicate.com
+creative.tsyndicate.com
+adsterra.com
+hilltopads.net
+clickadu.com
+bidgear.com
+evadav.com
+monetag.com
+propellerads.com
+ad-maven.com
+push-notification.top
+pushwelcome.com
+notification-system.top
