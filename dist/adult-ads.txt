@@ -1,5 +1,5 @@
 ! Title: Custom DNS Blocklist - Adult-Ads
-! Updated: 2026-09-14 23:40:00 UTC
+! Updated: 2026-09-14 23:40:22 UTC
 ! Total Rules: 73608
 !
 ||0-0.asia^

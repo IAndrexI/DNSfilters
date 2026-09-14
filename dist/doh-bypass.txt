@@ -1,5 +1,5 @@
 ! Title: Custom DNS Blocklist - Doh-Bypass
-! Updated: 2026-09-14 23:40:00 UTC
+! Updated: 2026-09-14 23:40:22 UTC
 ! Total Rules: 16276
 !
 ||000000555.xyz^
