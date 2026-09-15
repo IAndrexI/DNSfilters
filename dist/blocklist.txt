@@ -1,5 +1,5 @@
 ! Title: DNSfilters Unified Blocklist
-! Updated: 2026-09-15 04:31:42 UTC
+! Updated: 2026-09-15 04:32:16 UTC
 ! Total Rules: 162240
 !
 ||0--4.com^
