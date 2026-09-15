@@ -67,10 +67,11 @@ def append_to_file(filename, new_domains, header=""):
     print(f"Updated {filename}: now has {len(total)} domains.")
 
 def main():
-    # 1. Adult Ads & Popunders
+    # 1. Adult Ads, Popups & Popunder Networks
     adult_domains = set()
     adult_urls = [
-        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt"
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt",
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt"
     ]
     for u in adult_urls:
         adult_domains.update(fetch_domains(u))
