@@ -1,17 +1,21 @@
-name: Auto-Compile DNS Blocklists
+name: Sync and Compile Blocklists
 
 on:
+  schedule:
+    # Runs every day at 03:00 UTC
+    - cron: '0 3 * * *'
   push:
     paths:
       - 'src/**'
       - 'build.py'
+      - 'populate.py'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  update-blocklists:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,11 +27,14 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Compile Blocklists
+      - name: Fetch Latest Recommended Feeds
+        run: python populate.py
+
+      - name: Deduplicate and Compile Single Blocklist
         run: python build.py
 
-      - name: Commit and push changes
+      - name: Commit and Push Updated Blocklist
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-compile DNS blocklists [skip ci]"
-          file_pattern: "dist/*.txt"
+          commit_message: "Auto-sync and compile blocklist [skip ci]"
+          file_pattern: "dist/blocklist.txt src/*.txt"
