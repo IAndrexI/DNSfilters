@@ -497,6 +497,7 @@
 1k3j1blg.com
 1ldlv4m7.com
 1proxy.de
+1proxy.in
 1qudbw7oug.duckdns.org
 1svpn.biz
 1svpn.com
@@ -902,6 +903,10 @@
 8tiodxhk8a.execute-api.us-east-1.amazonaws.com
 8urqn7kg.com
 8v9m.com
+91.234.147.10.best-domain.ir
+91.234.147.11.best-domain.ir
+91.234.147.12.best-domain.ir
+91.234.147.13.best-domain.ir
 91.234.147.5.aprawood.ir
 91.234.147.6.aprawood.ir
 91.234.147.7.aprawood.ir
@@ -1256,6 +1261,7 @@ adg.yybyy.wiki
 adg5yvi.ngatngay.net
 adgaurd.lingmont.net
 adgh.imtsui.com
+adgh.xrossj.top
 adghome.charleschan.net
 adghome.ru
 adghs.de
@@ -1489,6 +1495,7 @@ adh.blogcuahieu.com
 adh.fastpacefixit.info
 adh.olesgroup.com
 adhome.2011101.xyz
+adhome.maige.fun
 adk.qcloud.work
 admin-dns.unpak.ac.id
 admin.homedns.uk
@@ -1501,6 +1508,7 @@ admir21.ru
 adns.3am.la
 adns.onlinetools.rocks
 adresseip.com
+ads.hunga1k47.com
 ads.therman.eu
 ads.x88.in
 adsimix.com
@@ -1615,6 +1623,7 @@ aisd.mathforkids.buzz.cdn.cloudflare.net
 aisigma-vpn.help
 aiskyapp.com
 aisleep.info
+aitkcrev.minhduc.pw
 aivpn.mom
 aivpn.space
 aiyun007.top
@@ -1626,6 +1635,7 @@ ajh.boats
 ajh.college
 ajh.college.cdn.cloudflare.net
 ajh.eats-logi.lol
+ajh.quest
 ajh.quest.cdn.cloudflare.net
 ajh.wtf
 ajhmath.org
@@ -1705,6 +1715,7 @@ alohaprofile.com
 alon93rus.ru
 alpha.cixy.xyz
 alphabr.online
+alphabrowser.xyz
 alphagame.co
 alphavpn.info
 alternatepath.net
@@ -1762,6 +1773,7 @@ andrey93rus.ru
 androidconnect.fyi
 androidruleonline.xyz
 androidshopweb.rocks
+androvpn.com
 andryk111.duckdns.org
 andrykarcew.duckdns.org
 andstaticcache.b-cdn.net
@@ -5620,6 +5632,7 @@ doitnow.ir
 dojianguo.com
 dojifeng.com
 dojikuai.com
+dokhtar.kocholo.co.uk
 dokhtar.nanaz.co.uk
 dokoala.net
 dokuaigou.com
@@ -6962,6 +6975,7 @@ freedomproxy.com
 freedomun.netlify.app
 freeeuroproxy.com
 freehiddenvpn.gq
+freeinternet.skin
 freelearn.myclarevision.com
 freelux.world
 freemicvpn.com
@@ -7481,6 +7495,7 @@ grammarhelpers.com
 grandcinemachat.org
 grandjuniperpark.com
 grandmaster.sytes.net
+granite.mtproxy.zip
 granitvpn.com
 granules.us
 grape-global.mysynology.net
@@ -8579,6 +8594,7 @@ iq4nrowd.online
 iqbbhmzh.com
 iqia.org
 ir.ataman.info
+ir.bazzawill.info
 ir.cheap-ass-domain.info
 ir.closcloud.co.uk
 ir.engematica.info
@@ -8589,6 +8605,7 @@ ir.gnutella2.info
 ir.grumpyoldmen.info
 ir.makkers.co.uk
 ir.panhandleflyers.info
+ir.qkzheng.info
 ir.rebol.info
 ir.speed.finecooking.info
 iranian.billblog.co.uk
@@ -9059,6 +9076,7 @@ khajujawegifwqaiugwa.tcp64.de
 khalije-ta-abad-fars.ir.pugfhtrdyted.info
 khanacademy.mom
 khanacademy.mom.cdn.cloudflare.net
+khaste.delroba.co.uk
 khaterate.2nafare.info
 khome.site
 khpkadmig.click
@@ -10751,6 +10769,7 @@ noblocc.co.uk
 noblocc.com
 noblocc.uk
 nocensor.work
+nocloudnew.co.uk
 node.network
 node3.b4el.ru
 node9.servernode.store
@@ -11391,6 +11410,7 @@ personalvpn.biz
 personalvpn.com
 personaly.click
 pervilo.ru
+pesar.kocholo.co.uk
 pesar.nanaz.co.uk
 petervpn.com
 petezah.pages.dev
@@ -13582,6 +13602,7 @@ szvy.xyz
 szyrzyk.pl
 t-dz.com
 t-kuailian.com.cn
+t.meow-network.com
 t2c.240130034.xyz
 t7t2qxvg.com
 taarique.shop
@@ -13904,6 +13925,7 @@ topiran.baby
 topman8848.com
 toppal.tech
 toppeopleverse.top
+topproxt.asia
 topsecure.info
 topspeedvpn.homes
 topstudio.one
@@ -15940,6 +15962,7 @@ yj-17.net
 yj-19.net
 yj-20.net
 ykdnrpe.com
+ykima.davay.click
 yksjmwjf.com
 ylink.info
 ylkirc.com
