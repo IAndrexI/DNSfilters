@@ -21,6 +21,7 @@
 09vpn.com
 0a7velfsvpgyy.online
 0ezvtthf.com
+0gg000.ir.ir.ir.meli-n12.info
 0h6v3eg8.com
 0l682vm5.com
 0ms.dev
@@ -525,6 +526,7 @@
 2.baiyue.eu.org
 2.dns.noridev.moe
 2.dnscrypt-cert.browser.yandex.net
+2.dnscrypt-cert.quad9.net
 2.thetravelingtourguide.com
 20010114.xyz
 200779.xyz
@@ -1740,6 +1742,7 @@ alohabrowser.app
 alohabrowser.com
 alohaprofile.com
 alon93rus.ru
+alpha-dns.quad9.net
 alpha.cixy.xyz
 alphabr.online
 alphabrowser.xyz
@@ -4208,6 +4211,7 @@ decorous-mouth.surge.sh
 ded-ios.ru
 dedavpn.ru
 dedicated-afflink.com
+dedicated.syscloudio.co.uk
 dedidl.com
 dedmax.com
 dedvpn.biz
@@ -4414,6 +4418,7 @@ dns-idx2.itsec.my.id
 dns-lb.unpak.ac.id
 dns-malwaresec.nordthreatprotection.com
 dns-mum.daryllswer.net
+dns-nosec.quad9.net
 dns-nyc.aaflalo.me
 dns-one.lins.co.tt
 dns-ovh.panszelescik.pl
@@ -5061,6 +5066,7 @@ dns.qkc.fr
 dns.qpt.one
 dns.qq.com
 dns.qrtz.club
+dns.quad9.net
 dns.quanhd.net
 dns.quickline.ch
 dns.quiet.rocks
@@ -5338,6 +5344,10 @@ dns1.thylacine.co.nz
 dns1.timothy-dev.com
 dns1.understandingcyber.co.uk
 dns1.wyss.network
+dns10.quad9.net
+dns11.quad9.net
+dns12.quad9.net
+dns13.quad9.net
 dns19.854000.xyz
 dns2.afastserver.com
 dns2.alekberg.net
@@ -5383,6 +5393,7 @@ dns4eu.online
 dns4me.net
 dns6.web.id
 dns8.org
+dns9.quad9.net
 dnsbk.wns.watch
 dnsblock.grisumedia.de
 dnsbycomodo.com
@@ -7864,6 +7875,8 @@ hfgx.shop
 hgmbzgls.com
 hgo28a5v.com
 hgrps.eu
+hh0000.ir.ir.ir.meli-n12.info
+hh999o.masi.ir.he6fhd.ru
 hhecsdpi.cc
 hhgasdygqwueysbjadasghds.com
 hhnnfb.com
@@ -8485,6 +8498,7 @@ ight.vercel.app
 iguoniejichang.com
 ih8nb.ir.meli-n13.info
 ihctw.synology.me
+ii0000.ir.ir.ir.meli-n12.info
 iictwid.com
 iij.jp
 iimjbysd.com
@@ -8707,6 +8721,7 @@ ir.qkzheng.info
 ir.rebol.info
 ir.simpleelegance-us.info
 ir.speed.finecooking.info
+ir.xeonxu.info
 iranian.billblog.co.uk
 irckyb7t9a.com
 ire.danielfreyr.com
