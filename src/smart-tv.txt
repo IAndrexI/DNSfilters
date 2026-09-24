@@ -127,10 +127,12 @@ ads-us-west-2.delivery.roku.com
 ads.amazon.com
 ads.beta.roku.com
 ads.gcp.roku.com
+ads.lgtvcommon.com
 ads.roku.com
 ads.staging.roku.com
 adserver.pubtech.amazon.dev
 adservices.roku.com
+adts.lgtvcommon.com
 advertising-api-eu.amazon.com
 advertising-qa.us-east-1.dev.msc.roku.com
 advertising-v3-qa.us-east-1.dev.msc.roku.com
@@ -269,6 +271,8 @@ cd-ad-lgsmartad-com.aws-prd.net
 cdn-a.amazon-adsystem.com
 cdn-d.amazon-adsystem.com
 cdn-t.amazon-adsystem.com
+cdpbeacon.lgtvcommon.com
+cdpbeacon2.lgtvcommon.com
 cg-ad-lgsmartad-com.aws-prd.net
 ch-ad-lgsmartad-com.aws-prd.net
 ch-info-lgsmartad-com.aws-prd.net
@@ -574,6 +578,7 @@ rdl.lgtvcommon.com
 rdx2.lgtvsdp.com
 rdx2.nextlgsdp.com
 re-ad-lgsmartad-com.aws-prd.net
+recommend.lgtvcommon.com
 regi.di.atlas.samsung.com
 report.gras.samsungdm.com
 ro-ad-lgsmartad-com.aws-prd.net
@@ -760,6 +765,7 @@ target-us.samsung.com
 test.samsungrm.net
 tg-ad-lgsmartad-com.aws-prd.net
 th-ad-lgsmartad-com.aws-prd.net
+thinqrecommend.lgtvcommon.com
 tk-beta.amazon-adsystem.com
 tk-eu.amazon-adsystem.com
 tk-gamma.amazon-adsystem.com
@@ -848,6 +854,7 @@ vfwm-us.amazon-adsystem.com
 vfwm.amazon-adsystem.com
 vfws.amazon-adsystem.com
 video-ads.a2z.com
+videoads.lgtvcommon.com
 vn-ad-lgsmartad-com.aws-prd.net
 vq-eu-west-1.amazon-adsystem.com
 vq-fe-us-west-2.amazon-adsystem.com
@@ -855,6 +862,7 @@ vq-test-us-east-1.amazon-adsystem.com
 vq-us-east-1.amazon-adsystem.com
 vq-us-west-2.amazon-adsystem.com
 vu-ad-lgsmartad-com.aws-prd.net
+wiseconfig.lgtvcommon.com
 wms-eu.amazon-adsystem.com
 wms-fe.amazon-adsystem.com
 wms-in.amazon-adsystem.com
