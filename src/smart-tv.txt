@@ -129,6 +129,7 @@ ads.beta.roku.com
 ads.gcp.roku.com
 ads.lgtvcommon.com
 ads.roku.com
+ads.rokuapi.net
 ads.staging.roku.com
 adserver.pubtech.amazon.dev
 adservices.roku.com
