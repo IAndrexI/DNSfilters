@@ -555,6 +555,9 @@
 212.108.98.103.aprawood.ir
 212.108.98.104.aprawood.ir
 212.108.98.105.aprawood.ir
+212.108.98.24.suser.ir
+212.108.98.244.suser.ir
+212.108.98.25.suser.ir
 212.108.98.4.aprawood.ir
 212.108.98.6.aprawood.ir
 212.108.98.7.aprawood.ir
@@ -3390,6 +3393,7 @@ cloud25075.info
 cloudbenders.fun
 cloudbob.fr
 cloudburstcdn.com
+cloudemulator.net
 cloudflaracdn.com
 cloudflare-dns.com
 cloudflare-gateway.com
@@ -6505,6 +6509,7 @@ fallbreaksover.info.north-kazakhstan.su.cdn.cloudflare.net
 fallin.app
 family.adguarddns.com
 family.dns.doubleangels.com
+family.dns.dremaxx.com
 family.dns.teknoholistik.com
 family.mydns.network
 familyfirst.church
@@ -7327,6 +7332,7 @@ gecko.fun
 geckovpn.xyz
 geekproxy.com
 geekspeed.app
+geelark.com
 geharo.xyz
 gehira.xyz
 gehler.xyz
@@ -9727,6 +9733,7 @@ layang.org
 laybreast.com
 layer1.jnraptor.net
 ldaman.duckdns.org
+ldcloud.net
 le-mesle.fr
 le-vpn.com
 leap.se
@@ -10087,6 +10094,8 @@ m1dv65c8.com
 m21nhiny.com
 m247-br-01.live
 m2bw3p7s.com
+m772l.ir.ir.ir.meli-n12.info
+m77z.masi.ir.he6fhd.ru
 m7x2hdre.com
 m9ynqi6d.com
 ma.hastim.co.uk
@@ -10524,6 +10533,7 @@ moonlight.sparks.ddns-ip.net
 moph.go.th
 morbitzer.de
 more.registration.abrdns.com
+morelogin.com
 morenzo.ru
 morevpn.com
 morgenegg.duckdns.org
@@ -11317,6 +11327,7 @@ op6qjgot.com
 open-bastion.net
 open-resolver1.unima.ac.id
 open-shadow.easterndns.com
+open.dns.dremaxx.com
 openaccessnode.com
 openaipro.cloud
 openanalyticsys.online
@@ -12583,6 +12594,7 @@ recap.utopia.menorahscrazyblog.com
 recharger.link
 red-vpn.mom
 red.global.ssl.fastly.net
+redfinger.com
 redhoodie.site
 redproxy.pw
 redschool.info
@@ -14443,6 +14455,7 @@ ufsnmvbmgwvkhirfnptm.supabase.co
 ugdsoft.com
 ugfd-proxy-offical.vercel.app
 ughhhhcuminmedaddypleaseimsofuckingwetaughhh.cfd
+ugphone.com
 ugyjfbsdrtghbfvxdrgtf.dfgvbhgfcvb.bonded-game.com
 uhhhhhh.ignorelist.com
 uhhidk.cxhzegpg.shop
@@ -15019,6 +15032,7 @@ vlspeed.xyz
 vm.delfini.online
 vm.mathfilm.dk
 vm596152.eurodir.ru
+vmoscloud.com
 vmpdyias.cc
 vn.dns.abpvn.com
 vnaxhmfs.com
@@ -15500,6 +15514,7 @@ vsela.ru
 vserv.wkind.de
 vsiquiqk.com
 vski.172896.xyz
+vsphone.com
 vsrv15195.customer.xenway.de
 vst-sh-se.mooo.com
 vstkp.click
