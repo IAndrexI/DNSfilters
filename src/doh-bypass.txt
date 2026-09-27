@@ -2946,6 +2946,7 @@ burrvillees.org
 burrvillees.org.cdn.cloudflare.net
 business-integration.online
 businessschool.cc
+busyproxy.net
 butidontwanttacos.duia.us
 butoo.nas64.de
 butterfing.org
@@ -4172,6 +4173,7 @@ datacloudplatform.org
 datadispatch.xyz
 datadistribute.cloud
 datadistribute.live
+datadonkey.app
 dataflowers.net
 datafrenzy.org
 dataimpulse.com
@@ -5254,6 +5256,7 @@ dns.vaioswolke.xyz
 dns.valbatos.pro.vn
 dns.vancrafter.click
 dns.vault81.de
+dns.vdl.lat
 dns.vectorsigma.ru
 dns.veikus.com
 dns.velyn.my.id
@@ -7001,6 +7004,7 @@ fontsgoogleapis.net
 fooksun.xyz
 for-iran.goooalir.co.uk
 for-iran.tryzub-it.co.uk
+for-iranian-users.ir.gole-baghche.info
 for-privacy.net
 for-veto.ru
 for.download.ir.zigoraaat.info
@@ -7758,6 +7762,7 @@ h-vpn.org
 h.gjrick.tw
 h.ra3.in
 h0w.cc
+h2o.miandoabs.info
 h4g3z1-doh-vpn-proxy-bypass.web.app
 h4i4fl66.com
 ha.o51r15.com
@@ -7786,6 +7791,7 @@ haita.io
 haita.link
 haita.org
 haita.us
+hamishegi.ir.gole-baghche.info
 hammerhead-shark.wifizone.org
 hammerhead.iot64.de
 hamrah.mci.ir.pugfhtrdyted.info
@@ -9241,6 +9247,7 @@ khanacademy.mom
 khanacademy.mom.cdn.cloudflare.net
 khaste.delroba.co.uk
 khaterate.2nafare.info
+khiar.telbet.app
 khome.site
 khpkadmig.click
 khutnkfo.cc
@@ -10112,6 +10119,7 @@ mail.hilton-groups.com
 mail.sailforeducation.org
 mailer.amlegion.org
 mailproxy.info
+main.tosenortejarat.info
 maincloud.ir
 mainframe.dewed.de
 mainlandvpnapp.com
@@ -12035,6 +12043,9 @@ proxy-creator-shadow-browser-1.duckdns.org
 proxy-creator-shadow-browser-2.duckdns.org
 proxy-creator-shadow-browser-3.duckdns.org
 proxy-croxy.id
+proxy-daemi-s1.server-space52.info
+proxy-daemi-s2.server-space52.info
+proxy-daemi-s3.server-space52.info
 proxy-german.de
 proxy-ipv4.com
 proxy-list.download
@@ -12704,6 +12715,7 @@ rh.kindlytouch.me
 rh4.ext.rocks
 rhproxy.kozow.com
 rhrplgsb.cc
+rich-and-ckleck.tosenortejarat.info
 richardo.net
 ricko.is
 riftvpn.ai
@@ -12948,6 +12960,7 @@ saoudiproxy.info
 sapphire.complex.abrdns.com
 sarakou.easterndns.com
 sarawut.ddns.net
+sarma.miandoabs.info
 sascha-rabold.de
 sat.api.ksfto.dpdns.org
 sat.ksf.qzz.io
@@ -13530,6 +13543,7 @@ ssgreen.org
 ssh-free.com
 ssh-storage.ru
 ssh.meow0.co.uk
+ssh2.best-moz.info
 sshagan.net
 sshd.me
 sshdropbear.net
@@ -14369,6 +14383,7 @@ turbovpn.mom
 turbovpnapp.net
 turezim.my
 turk.dasy2k1.co.uk
+turkish-kish-mish.tosenortejarat.info
 turkmenvibe.ru
 turmericrecipes.com
 turtle.happyforever.com
@@ -15701,6 +15716,7 @@ whatsonthebox.net
 whatsuprox.com
 whipstall.karrozzin.cloud-ip.cc
 whiskergalaxy.com
+white.antony-gordon.co.uk
 whiteblox.org
 whitehatvpn.com
 whitevpn.help
@@ -15824,6 +15840,7 @@ worldvpn.net
 worldwideproxy4u.win
 wormhole.is.your-savior.spacejamhd.com
 wossow.com
+wow.wow.wow.gole-baghche.info
 wowinterstellar.pages.dev
 wp-test.fvds.ru
 wplkdmqra.com
