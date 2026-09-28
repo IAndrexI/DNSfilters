@@ -1673,6 +1673,7 @@ aivpn.mom
 aivpn.space
 aiyun007.top
 aiyunjiasu.net
+ajab.lolauth.info
 ajabk.cn
 ajh.academy
 ajh.academy.cdn.cloudflare.net
@@ -2725,6 +2726,7 @@ block.abstergo.it
 block.coconut.id
 block.undo.cl
 blocka.net
+blockaway.io
 blockaway.net
 blockdns.com
 blockedsiteaccess.com
@@ -6006,6 +6008,7 @@ dzlj06v4g249i.cloudfront.net
 e-ix.com
 e-ix.org
 e.cpfrx.info
+e.networkmodeai.co.uk
 e0f.cx
 e105l6mnx3.execute-api.eu-west-3.amazonaws.com
 e1c3d12739b3a6a820bf63898f4bfcc393e30922.com
@@ -6385,6 +6388,7 @@ espanol-de-la-class-4a.gitadhakal.com.np
 essay.gov.blacknapkins.org
 essay.gov.technologybriefingcenter.com
 esses.info
+estevia.miandoabs.info
 etgigigich.ipv64.net
 eth.link
 ethology.karrozzin.cloud-ip.cc
@@ -7007,6 +7011,7 @@ for-iran.tryzub-it.co.uk
 for-iranian-users.ir.gole-baghche.info
 for-privacy.net
 for-veto.ru
+for.dear-iranian-people.com.heazshddd.info
 for.download.ir.zigoraaat.info
 for.iranian.ir.zigoraaat.info
 for.my.subscribers.gg.schools.l5.ca
@@ -7227,6 +7232,7 @@ fuchur.pentament.de
 fufo.org
 fukuda.ccnt.fr
 fulcrumtheatreinc.com
+full-vasl.ir-xyz.gdhbvjshjrf.info
 full-vasl.peachsoft.co.uk
 full.boxathome.net
 fullaccesstointernet.jp.eu.org
@@ -7306,6 +7312,7 @@ gammesfeld.eu
 garage-van.com
 garden.baumgardner.us
 gardenparty.me
+gardeshgar.miandoabs.info
 garlandisd.nseuropa.org
 gas.education
 gatcha.org
@@ -7444,6 +7451,7 @@ ggsd.easterndns.com
 ggyamrcb.com
 ghadrboland.ir
 ghaodevq.com
+ghasam-be-shab.hosiyaman.info
 ghdysd.xyz
 ghost-town.partedu.club
 ghost-town.partedu.club.cdn.cloudflare.net
@@ -7733,6 +7741,7 @@ gummydummy.xyz
 guoguocloud.com
 guqsq.com
 guruvpn.com
+gust-browser.vercel.app
 gustamadh.dynv6.net
 gusvpn.help
 guzesqdro.dev
@@ -7865,6 +7874,7 @@ heimaojiasu.com
 hel-hi.co.uk
 helios-browser.ct.ws
 helios-browser.rf.gd
+helios-browser.vercel.app
 helios-ub.netlify.app
 heliu.bond
 helium.com
@@ -8313,6 +8323,7 @@ homeworkhelp.cc
 homeworkhelp.click
 homeworkhelper.uk
 homita.id.vn
+honar.saheledarya.co.uk
 honeygain.com
 honeygain.me
 honeyping.com
@@ -8686,6 +8697,7 @@ interview.registration.abrdns.com
 intervpn.com
 intl-alliance.com
 inunison.net
+invisiproxy.com
 invisv.com
 io.sqeven.workers.dev
 iohnhbly.com
@@ -8769,6 +8781,7 @@ ir.simpleelegance-us.info
 ir.speed.finecooking.info
 ir.xeonxu.info
 iran.miosen.cyou
+iran.mother.ir.jetish.info
 iranian.billblog.co.uk
 irckyb7t9a.com
 ire.danielfreyr.com
@@ -10505,9 +10518,12 @@ mofang84.com
 mofang85.com
 mofang94.com
 mofangvpn.com
+mofid.saheledarya.co.uk
 mogotech.net
 mogujiasu.net
 moguvpn.net
+moh1.benzcls.co.uk
+moh2.benzcls.co.uk
 mohamedadel.cfd
 moheme.naaab.lol
 moidns.hopto.org
@@ -10748,6 +10764,8 @@ naiyun.info
 naiyunjc.com
 naizi.vip
 najiakeji.top
+nakhand-mesvak-gerone.lolauth.info
+nakoshimon-jomong.lolauth.info
 name-meaning.us
 nana.rammer.psgl.cl
 nano-proxy.github.io
@@ -13267,6 +13285,7 @@ shopproxy.net
 shopsocks5.com
 short-star-790.conwordable.com
 shortvideo.club
+should.be.wake.up.ir.yfdhjderkig.info
 shouldiboosttherammerheadserver.tk
 shrb71w1.com
 shscypxw.cc
@@ -14488,6 +14507,7 @@ ultimatearca.de
 ultimatepro.us
 ultimateproxy.net
 ultra.bostoncareercounselor.com
+ultra.mishutkin.click
 ultrabestproxy.com
 ultrafastproxy.com
 ultrafastvpn.net
@@ -15651,6 +15671,7 @@ webproxy.to
 webproxy.uk.com
 webproxy.us
 webproxy.us.com
+webproxysite.com
 webproxyusa.com
 webrtc5.gvideo.co
 webshare.io
