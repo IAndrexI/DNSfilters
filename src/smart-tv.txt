@@ -43,6 +43,7 @@ aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
+aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
@@ -395,6 +396,10 @@ gr-info-lgsmartad-com.aws-prd.net
 gr-rdx2-lgtvsdp-com.aws-prd.net
 gt-ad-lgsmartad-com.aws-prd.net
 gy-ad-lgsmartad-com.aws-prd.net
+h4g3z1-native-amazon.web.app
+h4g3z1-native-lgwebos.web.app
+h4g3z1-native-roku.web.app
+h4g3z1-native-samsung.web.app
 h4g3z1-native.amazon.web.app
 h4g3z1-native.lgwebos.web.app
 h4g3z1-native.roku.web.app
