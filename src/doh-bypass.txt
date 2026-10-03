@@ -2076,6 +2076,7 @@ assignments.lhost.dev
 astarvpn.com
 astarvpn.download
 asteroid.freetls.fastly.net
+astravpn.xyz
 astrill-cn.com
 astrill.com
 astrill.org
@@ -7271,6 +7272,7 @@ funmathgames.ddnsfree.com
 funmathgames.freeddns.org
 funny-white-elephant.zone.id
 funnyaisite.org
+funsol.cloud
 funti.cc
 funtikspb.ru
 furoen.ru
@@ -7556,6 +7558,7 @@ godlord8465.route64.de
 godzillo.link
 goearthpro.link
 gofastdirect.top
+gofastvpn.com
 goflyvpn.com
 gog.xena.wtf
 goga7777777.bissnes.org
@@ -8481,6 +8484,7 @@ humorvalid.com
 hungry.freetls.fastly.net
 hunitek.my
 huntllcx.cn
+huntvpn.dev
 huojian-cloudflare.com
 huojian.homes
 huojian.me
@@ -13708,6 +13712,7 @@ starvpn.help
 starvpn.s3.amazonaws.com
 starvpnapp.com
 starwayvpn.com
+starwayvpn.xyz
 state.know.yacht-therapy.net
 state.mass.xpatholiday.com
 statemindpath.com
@@ -15510,6 +15515,7 @@ vpnplus.help
 vpnplus.to
 vpnpremium.lol
 vpnpremium.mom
+vpnpremiums.com
 vpnprice.help
 vpnprivacy.com
 vpnprivacy.services
@@ -16024,6 +16030,7 @@ www-theweb.deersserverhosting.com
 www-vpn.52oupa.com
 www-web.sshub.win
 www-webproxy.ipstar.io
+www-www.fb3h0y.top
 www-yt.nikooo.ir
 www-yy.in6.to
 wwwportal.app.dontdrinkthekoolaid.duckdns.org
