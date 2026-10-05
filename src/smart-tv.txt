@@ -458,6 +458,7 @@ kw-ad-lgsmartad-com.aws-prd.net
 kz-ad-lgsmartad-com.aws-prd.net
 lb-ad-lgsmartad-com.aws-prd.net
 lbs-samsung.swypeconnect.com
+lgads.adsmeasurement.com
 lgads.tv
 lgsmartad.com
 lgtvcommon.com
