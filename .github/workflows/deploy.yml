@@ -1,0 +1,27 @@
+name: Deploy DNSfilters to LXC
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    timeout-minutes: 10
+    steps:
+      - name: Pull and rebuild DNSfilters in LXC
+        run: |
+          TARGET_DIR="/opt/DNSfilters"
+          if [ ! -d "$TARGET_DIR" ]; then
+            TARGET_DIR="$(pwd)"
+          fi
+          cd "$TARGET_DIR"
+          git fetch origin main
+          git reset --hard origin/main
+          if [ -f build.py ]; then
+            python3 build.py || true
+          fi
+          if systemctl is-active --quiet AdGuardHome 2>/dev/null; then
+            systemctl restart AdGuardHome
+          fi
