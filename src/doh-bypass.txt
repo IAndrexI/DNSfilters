@@ -33,6 +33,7 @@
 1.dns.noridev.moe
 1.hide.newflamingodomain.co.uk
 1.hotelne.com
+1.iraj.trsr57d.co.uk
 1.masi.ir.he6fhd.ru
 1.rock-review.ru
 1.thetravelingtourguide.com
@@ -3636,6 +3637,7 @@ croxy.org
 croxy.red
 croxyproxy.app
 croxyproxy.best
+croxyproxy.cc
 croxyproxy.co.in
 croxyproxy.com
 croxyproxy.com.in
@@ -4383,6 +4385,7 @@ dialertoserver.com
 dicebolsa.com
 dicefan.com
 dichvusocks.net
+dicloak.com
 diddle.club.cdn.cloudflare.net
 diddy.info.north-kazakhstan.su.cdn.cloudflare.net
 diddyblud.cxhzegpg.shop
@@ -5825,6 +5828,7 @@ donoen.ipv64.net
 donord.net
 donpv.com
 donsalvatore.info
+dont-hack-me.xyz
 dontblock.networkoutpost.com
 dontblockme.org
 dontfilter.us
@@ -6397,6 +6401,7 @@ endis.ydns.eu
 endiscracker.loseyourip.com
 endorseattic.com
 endravo.ru
+energent.ai
 energys.ir
 english-jp.easterndns.com
 english.iloveyouxav.com
@@ -6434,6 +6439,7 @@ es-proxy.com
 esbdgef.com
 esel.stusta.mhn.de
 esgmemasigma.motorwisemechanical.com.au
+eskil.cloud
 espanol-de-la-class-4a.gitadhakal.com.np
 essay.gov.blacknapkins.org
 essay.gov.technologybriefingcenter.com
@@ -6893,6 +6899,8 @@ ferny.pxi-fusion.com.cdn.cloudflare.net
 ferunat.baby
 feytra.ru
 fezgate.ovh
+ff16g.ir.meli-n13.info
+ff661g.ir.meli-n13.info
 ffd.travelpage.biz.cdn.cloudflare.net
 ffjoksna7farrbzd.online
 ffpwishw.cc
@@ -7137,6 +7145,7 @@ free-webproxy.com
 free.shecan.ir
 free2surfvpn.com
 freeanimesonline.com
+freeanonymousproxy.net
 freebrowser.org
 freecanadavpn.com
 freecityvpn.com
@@ -7176,6 +7185,7 @@ freeproxy.io
 freeproxy.me
 freeproxy.top
 freeproxy.win
+freeproxy.world
 freeproxyaccess.com
 freeproxydb.com
 freeproxylist.online
@@ -8085,6 +8095,8 @@ hideipvpn.com
 hidejustfor.fun
 hideman.net
 hideme.be
+hideme.in
+hideme.live
 hideme.ru
 hidemebro.com
 hidemefast.net
@@ -8501,6 +8513,7 @@ httpinjector.com
 https-cdn-ddns.itdeveloper.info
 httpsdns.baidu.com
 httpsingsnode.timegear.site
+httptunnell.ge
 htyrqg.com
 huarenjsq.top
 huawaakiskokoa.duckdns.org
@@ -8792,6 +8805,7 @@ ipbuzz.net
 ipchanger.net
 ipchanging.com
 ipdatafone.net
+ipfighter.com
 ipfly.net
 ipfreely.io
 iphoneget.fyi
@@ -8813,6 +8827,7 @@ iproyal.sjv.io
 ipsec-vpn.help
 ipservers.xyz
 ipsharkk.com
+ipspeed.info
 ipunblock.com
 ipunblocker.com
 ipvanish.com
@@ -8825,6 +8840,7 @@ iqia.org
 ir-ir.engematica.info
 ir-ir.gnutella2.info
 ir-ir.grumpyoldmen.info
+ir-ir.rebol.info
 ir.ariely.info
 ir.ataman.info
 ir.atcfirealarms.co.uk
@@ -10042,6 +10058,7 @@ literacyadventures.com
 literally.info
 litevpn.app
 litevpn.top
+litport.net
 little-oak-bistro.com
 littlepiggies571s.tvjumbleanswers.com
 liulangdiqiu-host.top
@@ -10147,6 +10164,7 @@ lqwnlfw.cn
 lqz30c6o.com
 lr834jgr.com
 lrga.space
+ls.app
 lsfilter.com
 lslnyjq.uk
 lsmdm.cf
@@ -10990,6 +11008,7 @@ new.iasggas.info
 new.lambforkebeb.co.uk
 new.nchnch.co.uk
 new2.lambforkebeb.co.uk
+new7.mizanmizanesgh.co.uk
 newcovumc.org
 newd.rezyro.com
 newhavenps.org
@@ -11230,6 +11249,7 @@ notvpn.net
 novatech.fun
 novayjr9g.info
 novproxy.com
+noway.iraj.trsr57d.co.uk
 nowcache.com
 nowgg.cfd
 nowvpn.pro
@@ -11394,6 +11414,7 @@ ointernet.ru
 oixaqgnk.com
 ok-ishot.global.ssl.fastly.net
 ok-vpn.io
+ok.iraj.trsr57d.co.uk
 okado.online
 okartoshka.ru
 okayfreedom.com
@@ -11401,6 +11422,7 @@ okayvpn.com
 okedr.ru
 okgfw.top
 oklubnika.ru
+okproxy.com
 okryjovnik.ru
 okvpn.io
 okyuovkg.com
@@ -11576,6 +11598,7 @@ ovpnspider.com
 owa.pvmedia.ru
 owenforzono.entergod.com
 owenforzonoiseeyou.entergod.com
+owlproxy.com
 owlvpn.net
 own-kuailian.com.cn
 owo.rawr.africa.com
@@ -12023,6 +12046,7 @@ potatovpn.com
 potatovpn.help
 potatovpn.io
 poteito-shadow.easterndns.com
+pouyatx.ir
 povc3.xyz
 povlah.com
 powers.superportret.ru
@@ -12180,6 +12204,7 @@ proxite.ws
 proxiware.com
 proxjdf.jamesferrand.fr
 proxking.com
+proxora.io
 proxpn.com
 proxssl.com
 proxtstar.live
@@ -12257,12 +12282,14 @@ proxy5.net
 proxy5.startpage.com
 proxy62.com
 proxyadult.org
+proxyan.net
 proxyapi.pot8o.dev
 proxyarab.com
 proxybase.org
 proxybits.com
 proxyboost.net
 proxybox.ru
+proxybreeze.com
 proxybros.com
 proxybrowse.info
 proxybrowser.app
@@ -12306,6 +12333,7 @@ proxyhub.me
 proxyisp.com
 proxyist.com
 proxyium.com
+proxyium.com.in
 proxyium.org
 proxyiumi.com
 proxyjet.io
@@ -12378,6 +12406,7 @@ proxysocks5.com
 proxyspace.pro
 proxyspace.pro.cdn.cloudflare.net
 proxyssl.org
+proxysupply.com
 proxysurfing.org
 proxytime.net
 proxytitan.com
@@ -12946,6 +12975,7 @@ rockwell.website
 rockwhisper.com
 roelgianotten.ddnsfree.com
 rohex.xyz
+rola-ip.co
 romania.privacy-dns.pw
 romanschrom.com
 romathebest.bumbleshrimp.com
@@ -13642,6 +13672,7 @@ spaceis.bad.mn
 spaceiscool.is-not.cool
 spaceiscool.is-not.cool.cdn.cloudflare.net
 spacevpn.io
+sparkproxy.io
 spbyjzu.cn
 spearhead.bury.abrdns.com
 speed-speed.co.uk
@@ -13695,6 +13726,7 @@ spotty-hope.surge.sh
 sprague.is.best.spacejamhd.com
 spread-the-gospel.aitask.me
 springmultimedia.space
+spyderproxy.com
 spyoff.com
 spys.one
 spysurfing.com
@@ -13768,6 +13800,7 @@ staging.partedu.club
 staging.partedu.club.cdn.cloudflare.net
 staging.sailforeducation.org
 standard.mask.ad
+standardized-testing-metrics-hub.com
 star-vpn.shop
 star.talebi.co.uk
 star01-cmzdkkce.top
@@ -14148,6 +14181,7 @@ teranhavaei.charkhofalak.info
 terbium-46q.pages.dev
 terbium.top
 terbiumon.top
+termsnal.co.uk
 teslacoils.org.uk
 test-4nr.pages.dev
 test.adg.siudzinski.net
@@ -15801,6 +15835,7 @@ wavemesh.cyou
 waves.lat
 waves.vseesa.gpu74.ru
 wavy.tent.cloud-ip.cc
+way2proxy.com
 waydnes.ru
 wayen.eu
 wb-letsvpn.com
@@ -16092,6 +16127,7 @@ www-pa.linkall.uk
 www-pro.kosite.net
 www-pro.nolife.uk
 www-proxy.2d.su
+www-proxy.bdplab.cc
 www-proxy.codingcrafter-dev.de
 www-proxy.dariomingio.it
 www-proxy.deersserverhosting.com
@@ -16537,6 +16573,7 @@ youyun666.com
 youyun688.com
 youyun688.net
 yovbak.com
+yowhatsthe.date
 yowus.html-5.me
 yoygstbx.com
 yoyovpn.org
