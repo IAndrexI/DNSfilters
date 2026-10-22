@@ -1,6 +1,6 @@
 ! Title: DNSfilters Unified Blocklist
-! Updated: 2026-10-21 08:08:12 UTC
-! Total Rules: 214023
+! Updated: 2026-10-22 08:08:40 UTC
+! Total Rules: 214960
 !
 ||0--4.com^
 ||0--d.com^
@@ -786,6 +786,7 @@
 ||02876.com^
 ||02887.com^
 ||028930.com^
+||028zhuang.com^
 ||029-bnh-970.mktoresp.com^
 ||02901.com^
 ||02902.com^
@@ -1096,6 +1097,7 @@
 ||0512tour.com^
 ||0513.me^
 ||0513kongyaji.com^
+||0513tc.com^
 ||0514hr.com^
 ||05159.com^
 ||05169.com^
@@ -4696,6 +4698,7 @@
 ||18plusworld.net^
 ||18porn.best^
 ||18porn.co^
+||18porn.com.es^
 ||18porn.id^
 ||18porn.in^
 ||18porn.name^
@@ -5005,6 +5008,7 @@
 ||19teentube.com^
 ||19th-amendment-centennial.org^
 ||19thct.com^
+||19tv.shop^
 ||19vip19.com^
 ||19xxxbluefilm.co.uk^
 ||19yangsite3.com^
@@ -6150,6 +6154,7 @@
 ||285fpi.top^
 ||285xxx.com^
 ||287-hcv-100.mktoresp.com^
+||287724.com^
 ||2878644238.com^
 ||288-azs-731.mktoresp.com^
 ||288-lni-640.mktoresp.com^
@@ -6623,6 +6628,7 @@
 ||31vktiadultaww.cfd^
 ||31vktiadultaz.cyou^
 ||31vktiadulttrk.cyou^
+||31vktipornoalt.cyou^
 ||31vktipornoalt.shop^
 ||31vktipornoalty.cyou^
 ||31vktipornoaww.cfd^
@@ -6682,10 +6688,12 @@
 ||32azzino777.net^
 ||32cards.com^
 ||32crash.com^
+||32m8.com^
 ||32nk.com^
 ||32sex.com^
 ||33.antony-gordon.co.uk^
 ||33.assassinationpuma.co.uk^
+||33.benzcls.co.uk^
 ||33.itpokfares.info^
 ||33.mtprotonewrunningproxasia.info^
 ||33.nasakhamia.co.uk^
@@ -8489,6 +8497,7 @@
 ||590578zugbr8.com^
 ||591-qhz-135.mktoresp.com^
 ||5912345.cn^
+||5917bzh.com^
 ||5919.cc^
 ||591duanxin.com^
 ||592-kpw-150.mktoresp.com^
@@ -8970,6 +8979,7 @@
 ||69yed.com^
 ||6a2002.top^
 ||6a2014.top^
+||6a2028.top^
 ||6a7eac2034.com^
 ||6angebot.ch^
 ||6angels.ch^
@@ -9207,6 +9217,7 @@
 ||74invest.com^
 ||74pd.com^
 ||74sr.com^
+||74tc.com^
 ||750-jfa-337.mktoresp.com^
 ||751-kxz-731.mktoresp.com^
 ||751-qqy-459.mktoresp.com^
@@ -9872,6 +9883,7 @@
 ||89sa.com^
 ||89thz.com^
 ||89tm.cc^
+||89toto.lol^
 ||89yq10wlfdf.online^
 ||8a41766c30.com^
 ||8a6bn3.com^
@@ -10118,6 +10130,7 @@
 ||91fb.com^
 ||91fengliu.club^
 ||91ftq.com^
+||91gsy.com^
 ||91hdporn.shop^
 ||91heiliao.sbs^
 ||91hubs.com^
@@ -10264,6 +10277,7 @@
 ||91porny9.wiki^
 ||91pornyv.wiki^
 ||91pornz.net^
+||91pornzy.com^
 ||91proporn.shop^
 ||91rb.com^
 ||91rb.net^
@@ -10496,6 +10510,7 @@
 ||991-jsn-701.mktoresp.com^
 ||99116777.com^
 ||9919play5.com^
+||991porn.com^
 ||991uxt.top^
 ||99226777.com^
 ||992351.com^
@@ -10593,6 +10608,7 @@
 ||9caoab.com^
 ||9cbj41a5.de^
 ||9cf6e88edb.com^
+||9cs1fibvfp.com^
 ||9d78d8n.ir.ir.ir.meli-n12.info^
 ||9da6e47c01.e04ab2ef0e.com^
 ||9ddo.top^
@@ -11035,6 +11051,7 @@
 ||aalfpjfmmv.com^
 ||aaliyahlove.com^
 ||aamchor.com^
+||aamirm.org^
 ||aan.amazon.co.jp^
 ||aan.amazon.co.uk^
 ||aan.amazon.com^
@@ -11285,6 +11302,7 @@
 ||abkbmamulx.in^
 ||abkgu39v.com^
 ||abkingdom.com^
+||abkweb-whatsapp.com^
 ||abkxpohfu.com^
 ||abkxyinpiffsk.site^
 ||abl-finance.com^
@@ -11676,6 +11694,7 @@
 ||acedirect.net^
 ||acediscord.com^
 ||acediscover.com^
+||aceeasyg.com^
 ||acefeiji.com^
 ||acefeiji.net^
 ||acefeima.com^
@@ -11831,6 +11850,11 @@
 ||acgmhn.com^
 ||acgngames.com^
 ||acgsu5500.xyz^
+||acgsu6000.xyz^
+||acgsu6100.xyz^
+||acgsu6200.xyz^
+||acgsu6300.xyz^
+||acgsu6400.xyz^
 ||acgsu6500.xyz^
 ||acgwolf.com^
 ||acgxmh.com^
@@ -11974,6 +11998,7 @@
 ||actingadult.com^
 ||actingturk.com^
 ||action-sure.com^
+||action-whatsapp.com^
 ||actiondesk.com^
 ||actiongirls.com^
 ||actiongirlsxxx.com^
@@ -12050,6 +12075,7 @@
 ||acuityads.com^
 ||acuityplatform.com^
 ||aculpaedasbolachas.com^
+||aculture.site^
 ||aculturerpa.info^
 ||acumocceemuqj.space^
 ||acute-xxxvideos.com^
@@ -13840,6 +13866,7 @@
 ||adult-cam-sites.net^
 ||adult-cams.net^
 ||adult-channel.info^
+||adult-chat.com^
 ||adult-chat.singles^
 ||adult-chat.top^
 ||adult-chum.com^
@@ -13972,6 +13999,7 @@
 ||adult-video.tokyo^
 ||adult-villa.com^
 ||adult-visual-novel.com^
+||adult-vod.tv^
 ||adult-voices.com^
 ||adult-vr-game-room.itch.io^
 ||adult-webcam-faq.com^
@@ -14078,6 +14106,7 @@
 ||adultchat.at^
 ||adultchat.cam^
 ||adultchat.cc^
+||adultchat.com^
 ||adultchat.net^
 ||adultchat.network^
 ||adultchat.org.uk^
@@ -14232,6 +14261,7 @@
 ||adultfriendfinder.ltd^
 ||adultfriendfinder.us^
 ||adultfriendfindewr.com^
+||adultfriendfineder.com^
 ||adultfriendlfinder.com^
 ||adultfriendrfinder6.info^
 ||adultfriendsite.com^
@@ -14372,6 +14402,7 @@
 ||adultmoviegroup.com^
 ||adultmoviehub.com^
 ||adultmoviemart.com^
+||adultmovies.com^
 ||adultmovies7.com^
 ||adultmoviesplus.com^
 ||adultmovz.com^
@@ -14498,6 +14529,7 @@
 ||adultsitebrokertalk.com^
 ||adultsitedating.com^
 ||adultsiteerabikata.com^
+||adultsiterank.com^
 ||adultsiterank.top^
 ||adultsiteranking.com^
 ||adultsiteranking.net^
@@ -14622,6 +14654,7 @@
 ||adultways.com^
 ||adultweb.pics^
 ||adultwebcam.name^
+||adultwebcam.net^
 ||adultwebcamawards.com^
 ||adultwebcamchat.org^
 ||adultwebcamdownloads.org^
@@ -14649,6 +14682,8 @@
 ||adultworldmedia.com^
 ||adultworxcams.com^
 ||adultwrk.com^
+||adultx.space^
+||adultxawards.com^
 ||adultxcamz.com^
 ||adultxhub.com^
 ||adultxjlrln.sbs^
@@ -15402,6 +15437,7 @@
 ||aggregateknowledge.com^
 ||aggregationdestructoppression.com^
 ||aggregationmodest.com^
+||aggregator-whatsapp.com^
 ||aggressive-master.com^
 ||aggressive-winter.pro^
 ||aggressivebabes.com^
@@ -15592,6 +15628,8 @@
 ||ahbx.org.cn^
 ||ahcdsply.com^
 ||ahcek.com^
+||ahcym.com^
+||ahduocai.com^
 ||aheadday.com^
 ||ahegames.itch.io^
 ||ahegao.online^
@@ -15667,6 +15705,7 @@
 ||ahslgcjx.com^
 ||ahsmrabukawc.in^
 ||ahssite.xyz^
+||ahsueijh.club^
 ||aht42trk.com^
 ||ahtaidu.com^
 ||ahtops.com^
@@ -15870,6 +15909,7 @@
 ||aifapper.com^
 ||aifcjd.org.cn^
 ||aifmpdaqommzn.store^
+||aifmworld.com^
 ||aifode.com^
 ||aiforgoodsummit.org^
 ||aifruitloveislandporn.com^
@@ -16192,6 +16232,7 @@
 ||airpornhub.xyz^
 ||airpornsite.com^
 ||airportcare11.life^
+||airporttransfer.lat^
 ||airpurifieroutlet.com^
 ||airsalo.com^
 ||airseahawaii.com^
@@ -16265,6 +16306,7 @@
 ||aitanhome.com^
 ||aitechinpharma.com^
 ||aiteentube.com^
+||aitewujin.com^
 ||aithauwhosaign.com^
 ||aitimaforou.web.app^
 ||aitkcrev.minhduc.pw^
@@ -16461,10 +16503,12 @@
 ||ajxx98.online^
 ||ajytop.com^
 ||ajyy.buzz^
+||ajz-whatsapp.com^
 ||ajzskyjtag.in^
 ||ak-army.com^
 ||ak-is.net^
 ||ak-is2.net^
+||ak-sp.com^
 ||ak-tracker.com^
 ||ak.asiarchinnards.com^
 ||ak.unblitzlean.com^
@@ -16485,6 +16529,7 @@
 ||akakamaized.net^
 ||akamai360.net^
 ||akaneporn.com^
+||akar777.lol^
 ||akarevents.com^
 ||akari.anime.com.my^
 ||akaroafrypan.com^
@@ -16493,21 +16538,26 @@
 ||akashopc.info^
 ||akavita.com^
 ||akazgashahdom.cyou^
+||akb-whatsapp.com^
 ||akbardds.com^
 ||akbatiescort.site^
 ||akbb.one^
 ||akbiuae.com^
 ||akbqloibkil.com^
 ||akbrass.com^
+||akc-whatsapp.com^
 ||akcakocaescort.cfd^
 ||akcdn88.com^
 ||akcjasamsung.e-kei.pl^
+||akd-whatsapp.com^
 ||akdbr.com^
 ||akdenizescortgo.xyz^
 ||akdigolema.com^
 ||akdrclfipxvkj.store^
+||ake-whatsapp.com^
 ||ake.net^
 ||akelnet.com^
+||aken-mode-de.com^
 ||akenai.tg^
 ||akenor.com^
 ||akensqoifwcmt.com^
@@ -16517,6 +16567,7 @@
 ||akespwccvxzsoj.com^
 ||akexijkjqfuww.com^
 ||akf-h.tlnk.io^
+||akf-whatsapp.com^
 ||akfwcyhri.com^
 ||akfzziowsd.in^
 ||akgenclikizmir.com^
@@ -16533,6 +16584,7 @@
 ||akillirehber.site^
 ||akillitavsan.com^
 ||akinswreckersales.com^
+||akisgrup.online^
 ||akitchentime.com^
 ||akj-crypto.com^
 ||akkclo11.com^
@@ -16617,6 +16669,7 @@
 ||akustikholz.shop^
 ||akutapro.com^
 ||akuto23.com^
+||akvjxr.com.cn^
 ||akvsupphan.com^
 ||akvvkmqezvzlv.top^
 ||akvwifdi.com^
@@ -16627,6 +16680,7 @@
 ||akxmagzkoo.com^
 ||akxsrsdbursfpx.bid^
 ||akxttaqmivp.in^
+||akxzs.com^
 ||akyakaescort.cfd^
 ||akydw.com^
 ||akylah.zapto.org^
@@ -16650,6 +16704,7 @@
 ||al4s.com^
 ||al5sm.com^
 ||ala-logistics.com^
+||ala-whatsapp.com^
 ||alabafpyhfmdx.site^
 ||alabamawomen100.org^
 ||alacam.org^
@@ -16701,10 +16756,12 @@
 ||alastonsuomitreffit.com^
 ||alasvow.com^
 ||alaturcacafe.com^
+||alb-whatsapp.com^
 ||alb.reddit.com^
 ||albacontainersgmbh.de^
 ||albacross.com^
 ||alberta3d.com^
+||albertamarket.online^
 ||albertaprogressiveconservatives.com^
 ||albertcoolters.server.warhawkenterprises.com^
 ||alblazikener.com^
@@ -16718,6 +16775,7 @@
 ||albumyes.com^
 ||albutch.com^
 ||albuterolnorx.online^
+||alc-whatsapp.com^
 ||alcatza.com^
 ||alcelebir.com^
 ||alchemyaenergy.xyz^
@@ -16728,6 +16786,7 @@
 ||alcoveardouroutspoken.com^
 ||alcroconawa.com^
 ||alcy.cc^
+||ald-whatsapp.com^
 ||aldanefissate.com^
 ||aldcrts0a0f4wfxm.com^
 ||alderhofatelier.myshopify.com^
@@ -16746,6 +16805,7 @@
 ||aldriftus-t-nasolarus-lodeltaus.com^
 ||aldu.org^
 ||aldy.com.cn^
+||ale-whatsapp.com^
 ||alea-mode.com^
 ||aleassbun.site^
 ||alechardyxxx.com^
@@ -16753,6 +16813,7 @@
 ||aleefai.com^
 ||aleilu.com^
 ||aleixs.com^
+||alejandracofino.com^
 ||alejandramarroquin.com^
 ||alelaski.pl^
 ||alert1dhlshipment.info^
@@ -16807,9 +16868,11 @@
 ||alexwap.net^
 ||alexwilcke.com^
 ||alexxa.nl^
+||alexxx.me^
 ||alexxxl.net^
 ||alexxxxpages.info^
 ||alexysexy.com^
+||alf-whatsapp.com^
 ||alfa-aesar.fr^
 ||alfacams.com^
 ||alfacams.live^
@@ -16838,6 +16901,7 @@
 ||alfredvariablecavalry.com^
 ||alfrescodurable.com^
 ||alfsf4.xyz^
+||alfxxx.top^
 ||alfz999.com^
 ||algaudit.com^
 ||algebra-help-and-lessons.vercel.app^
@@ -16992,6 +17056,7 @@
 ||all-dojki.ru^
 ||all-drift.online^
 ||all-eco.eu^
+||all-escortankara.com^
 ||all-festivals.com^
 ||all-free-erotic-stories.com^
 ||all-freeporn.com^
@@ -17102,6 +17167,7 @@
 ||allclothes.club^
 ||allcoolposts.com^
 ||allcountyescorts.com^
+||allcountyservicesnj.com^
 ||allcourse.online^
 ||allcowswilldefinitelygo.mooo.com^
 ||allcrew.online^
@@ -17244,6 +17310,7 @@
 ||allindiansex.asia^
 ||allink.info^
 ||allinka.ru^
+||allinkio.com^
 ||allinkstous.com^
 ||allinone-media.de^
 ||allinoneadult.com^
@@ -17422,6 +17489,23 @@
 ||allsexclips.com^
 ||allsexhub.com^
 ||allsexinhere.asia^
+||allsexinhere.beer^
+||allsexinhere.buzz^
+||allsexinhereapp.beauty^
+||allsexinhereapp.boats^
+||allsexinhereapp.bond^
+||allsexinhereapp.buzz^
+||allsexinherehq.baby^
+||allsexinherehq.boats^
+||allsexinherehub.baby^
+||allsexinherehub.beauty^
+||allsexinherehub.bond^
+||allsexinherelabs.beauty^
+||allsexinherelabs.beer^
+||allsexinherelabs.bond^
+||allsexinherely.baby^
+||allsexinherely.beer^
+||allsexinherely.buzz^
 ||allsexlife.com^
 ||allsexpix.com^
 ||allsexstories.info^
@@ -17767,6 +17851,7 @@
 ||alter48.fr^
 ||alterassumeaggravate.com^
 ||alterepornofilme.com^
+||altergreene.site^
 ||alterhimdecorate.com^
 ||alterinvest.fr^
 ||alternads.info^
@@ -17855,6 +17940,7 @@
 ||altyazilipornohd.cfd^
 ||altyazilipornoizle.shop^
 ||altyazilipornokoleksiyon.shop^
+||altyazilipornokutup.shop^
 ||altyazilipornomun.shop^
 ||altyazilipornosahne.shop^
 ||altyazilipornotr.online^
@@ -17958,6 +18044,7 @@
 ||am15.net^
 ||am2484.top^
 ||ama-wave.info^
+||ama-whatsapp.com^
 ||amaabfvuyispa.space^
 ||amaadult.com^
 ||amabileblocage.com^
@@ -17983,6 +18070,7 @@
 ||amambiguityasia.com^
 ||amamodeling.com^
 ||amamorimo.com^
+||aman138.lol^
 ||amandacane.com^
 ||amandacarlisledesign.com^
 ||amandahugnkiss.org^
@@ -18102,6 +18190,7 @@
 ||amateurbondagevideos.com^
 ||amateurboyscams.com^
 ||amateurbrazil.com^
+||amateurbusters.com^
 ||amateurcam.tv^
 ||amateurcam4u.com^
 ||amateurcams-24.com^
@@ -18269,7 +18358,9 @@
 ||amateursex-x.com^
 ||amateursex.cc^
 ||amateursex.com^
+||amateursex.gratis^
 ||amateursex.rocks^
+||amateursex.xxx^
 ||amateursex7.com^
 ||amateursexdates.com^
 ||amateursexdrive.com^
@@ -18350,6 +18441,7 @@
 ||amateurzoosex.com^
 ||amator.sex.hu^
 ||amatoraltyazi.cyou^
+||amatoraltyaziliporno.shop^
 ||amatori.info^
 ||amatorialesesso.com^
 ||amatorporno.hu^
@@ -18388,6 +18480,7 @@
 ||amaturetube.com^
 ||amatuteca.com^
 ||amaxuan.com^
+||amazcn.co^
 ||amazedates.net^
 ||amazedatlng.com^
 ||amazedatlngs.com^
@@ -18428,12 +18521,14 @@
 ||amazonliw.com^
 ||amazonstock.life^
 ||amb-norvege.ca^
+||amb-whatsapp.com^
 ||ambaab.com^
 ||ambabe.com^
 ||ambaryceded.qpon^
 ||ambasador.com.pl^
 ||ambazsfzo.com^
 ||ambeerskoo.com^
+||amber-fork.site^
 ||amber-fox-bakery.com^
 ||ambercalledmethod.com^
 ||ambercutie.com^
@@ -18468,15 +18563,18 @@
 ||ambulanceappealingrut.com^
 ||ambulancespeedilyregional.com^
 ||ambushmassage.com^
+||amc-whatsapp.com^
 ||amc215.com^
 ||amcaotomotiv.com^
 ||amcleacoflg.net^
 ||amcombank.co.com^
 ||amcoraka.pro^
 ||amcraoizaqijs.site^
+||amd-whatsapp.com^
 ||amdc.m.taobao.com^
 ||amdlucxrofi.com^
 ||amdpouka.com^
+||ame-whatsapp.com^
 ||amehuns.cc^
 ||ameise.shop^
 ||amelatrina.com^
@@ -18531,9 +18629,11 @@
 ||amew.aweyqaqkryzv.top^
 ||ameybike.site^
 ||amezpay.com^
+||amf-whatsapp.com^
 ||amffrance.com^
 ||amffrance.org^
 ||amfgozboqtpjf.online^
+||amg-whatsapp.com^
 ||amgardevoirtor.com^
 ||amgaxxocn.com^
 ||amgay.click^
@@ -18542,6 +18642,7 @@
 ||amgr.asuscomm.com^
 ||amgugut.com^
 ||amgwebgroup.com^
+||amh-whatsapp.com^
 ||amhsatowrjaf.in^
 ||amiabledelinquent.com^
 ||amichi.info^
@@ -18563,9 +18664,13 @@
 ||amigosporn.com^
 ||amilfs.com^
 ||amin88.lol^
+||aminaverdutti.com^
 ||amineporn.com^
+||amino15.mom^
+||amino21.mom^
 ||aminopay.net^
 ||amintoredgers.com^
+||amintotoluck.mom^
 ||amintotoroot.lol^
 ||amiquinn.com^
 ||amirahadaraxxx.com^
@@ -18588,6 +18693,7 @@
 ||amm88.com^
 ||ammankeyan.com^
 ||ammhamor.com^
+||ammkaqpak.in^
 ||ammlwyacthit.com^
 ||ammnugdazobz.in^
 ||ammoavailability.com^
@@ -18830,6 +18936,7 @@
 ||anadoluyakasi.page^
 ||anadoluyakasiescort.com.tr^
 ||anadoluyakasiescort.xyz^
+||anadoluyakasiescortg.xyz^
 ||anadoluyakasiescortum.com^
 ||anadoluyakasiyabanciescort.cfd^
 ||anahatagroup.com^
@@ -18975,6 +19082,7 @@
 ||analnoeporno.space^
 ||analnonstop.com^
 ||analogix.cn^
+||analogrevenant.lol^
 ||analogsoul.de^
 ||analogydid.com^
 ||analonly.com^
@@ -19242,6 +19350,7 @@
 ||anayltics.kuikr.com^
 ||anbauny.com^
 ||anbbhgjx.com^
+||anc-whatsapp.com^
 ||ancensored.com^
 ||ancesttyor.garden^
 ||anchi-smg.online^
@@ -19332,17 +19441,21 @@
 ||andysgirls.com^
 ||andystubbs.co.uk^
 ||andyvpn.cc^
+||ane-whatsapp.com^
 ||aneaf.es^
 ||anekbook.ru^
 ||aneld.com^
+||anellapants.xxx^
 ||anemiachoky.com^
 ||anemicfestival.cz^
 ||anemone.blue^
 ||anenstscance.qpon^
 ||aneros.com^
 ||anewfeedliberty.com^
+||anf-whatsapp.com^
 ||anfinag.com^
 ||anfzdatekjeck.space^
+||ang-whatsapp.com^
 ||angarebbores.com^
 ||angdwml6.com^
 ||angebote-erstellen.de^
@@ -19404,6 +19517,7 @@
 ||angelzubehoerladen.com^
 ||angenehme.de^
 ||angermaierwiesn.de^
+||angester.lol^
 ||anget-direct.info^
 ||angiexxx.com^
 ||angkanet31.com^
@@ -19426,6 +19540,7 @@
 ||angularbufferattraction.com^
 ||angularpoppyrobbing.com^
 ||angularsg.com^
+||anh-whatsapp.com^
 ||anhaenger-brennholz.de^
 ||anhaenger-geraete.com^
 ||anhaenger-gross.de^
@@ -19467,6 +19582,7 @@
 ||anhsexdep.com^
 ||anhtrxiyxgy.com^
 ||anhuigov.com^
+||anhuoh.com^
 ||ani--zoo.com^
 ||ani.pm^
 ||aniafitnut.com^
@@ -19714,6 +19830,7 @@
 ||anixart.tv^
 ||anixlab.com^
 ||anizkorner.com^
+||anj-whatsapp.com^
 ||anjanstarved.com^
 ||anjbfonzoz.com^
 ||anjellece.com^
@@ -19744,6 +19861,7 @@
 ||ankarabahcelievlerescortg.xyz^
 ||ankarabayanescort.info^
 ||ankarabayanescort.net^
+||ankarabayaneskortlar.net^
 ||ankaracankayaescort.net^
 ||ankarada-escort.net^
 ||ankaradaescortlar.biz^
@@ -19846,6 +19964,7 @@
 ||ankulo.com^
 ||anlage-kauf.de^
 ||anlassgeschenke.com^
+||anlijidian.com^
 ||anlxwagwa.in^
 ||anlytics.co^
 ||anmature.com^
@@ -20019,6 +20138,7 @@
 ||anpustream.com^
 ||anqila.lat^
 ||anqingjie.com^
+||anriqg.com^
 ||anruf-sex.com^
 ||anshe10.com^
 ||anskarasincanescort.cfd^
@@ -20158,6 +20278,7 @@
 ||anuchka.store^
 ||anudeart.com^
 ||anudepics.com^
+||anuelaatickets.com^
 ||anuncios-adultos.net.br^
 ||anuncios-gay-argentina.lat^
 ||anuncios-gay-chile.lat^
@@ -20401,6 +20522,7 @@
 ||aougwyxo.com^
 ||aoutrametade.com.br^
 ||aovchina.com^
+||aovdyw.com.cn^
 ||aovoasbmjf.com^
 ||aowvrr.datingfunn.com^
 ||aowvrr.wemattchnow.com^
@@ -20504,6 +20626,7 @@
 ||apex-cms.com^
 ||apex-dianzi-online.com^
 ||apex-legends-porn.com^
+||apex303.com^
 ||apexcucumber.com^
 ||apexdealeros.com^
 ||apexflora.com^
@@ -20527,6 +20650,7 @@
 ||aphroditecards.com^
 ||aphroditeporntube.com^
 ||aphrodizlove.fr^
+||aphuifeng.com^
 ||api-ad-adapter.wps.com^
 ||api-analytics-in.huami.com^
 ||api-analytics-qa.samsungknox.com^
@@ -20674,38 +20798,55 @@
 ||api2.medhata.org^
 ||api2.wshareit.com^
 ||api999.com^
+||apiauth-whatsapp.com^
+||apibox-whatsapp.com^
 ||apibyjc.cn^
+||apichat-whatsapp.com^
+||apicloud-whatsapp.com^
 ||apicloud.ru^
 ||apidagecloud.com^
 ||apidata.info^
 ||apidelv.com^
+||apidev-whatsapp.com^
 ||apidns.kwd.inkuai.com^
 ||apieast.touchcommerce.com^
 ||apiecelee.com^
 ||apieceoftissue.itch.io^
 ||apieceswallow.com^
+||apiedge-whatsapp.com^
 ||apiget.ru^
 ||apigoogle.eu^
 ||apiguinee.org^
 ||apihb.com^
+||apihost-whatsapp.com^
+||apihub-whatsapp.com^
 ||apihut.info^
 ||apiiksn.top^
 ||apiin.lbesecapi.com^
 ||apiinit.amap.com^
 ||apijav.com^
+||apilab-whatsapp.com^
+||apilink-whatsapp.com^
 ||apilj.com^
 ||apilond.com^
 ||apilsbzy1.com^
+||apimail-whatsapp.com^
+||apinet-whatsapp.com^
+||apinode-whatsapp.com^
+||apiops-whatsapp.com^
 ||apis.appnxt.net^
 ||apis.quiz.courses^
 ||apiserv.org^
+||apisys-whatsapp.com^
 ||apivpn.io^
 ||apiyutu.com^
 ||apjiaqing.com^
+||apjlio.com.cn^
 ||apk-kuailian.com^
 ||apkbbfstoto.com^
 ||apkfdc.vass-24.net^
 ||apkq-cm.ksmobile.net^
+||apkseal.com^
 ||apkwell.com^
 ||aplamzelte.com^
 ||aplamzelte.de^
@@ -20731,6 +20872,7 @@
 ||apoilpnwr.com^
 ||apokreaboil.shop^
 ||apollo.kingsoft.com^
+||apollobros.lol^
 ||apollonetwork.com^
 ||apolloprogram.com^
 ||apolloprogram.io^
@@ -20873,6 +21015,7 @@
 ||app.robex-ai.com^
 ||app.sailforeducation.org^
 ||app.suckmongif.com^
+||app.telbet.app^
 ||app.theuolo.com^
 ||app.top1mobiad1.com^
 ||app.trackappr.com^
@@ -20893,6 +21036,7 @@
 ||appad-api.perfectcorp.cn^
 ||appads.com^
 ||appalytic.net^
+||appapi-whatsapp.com^
 ||apparel-bd.com^
 ||apparel360.info^
 ||apparelgearbox.com^
@@ -20903,27 +21047,34 @@
 ||appart.yoannchappaz.best^
 ||appav.site^
 ||appbank.online^
+||appbetpasgir.icu^
 ||appblizz.com^
 ||appboy-images.com^
 ||appboy.com^
 ||appcar.online^
 ||appcasa.online^
 ||appcastingcouchx.com^
+||appcdn-whatsapp.com^
 ||appchoice.info^
 ||appci.info^
 ||appclick.rqmob.com^
+||appcloud-whatsapp.com^
 ||appcloud.ironbeast.io^
 ||appcloud.ksmobile.com^
 ||appco.info^
 ||appconget.com^
+||appdev-whatsapp.com^
+||appdoc-whatsapp.com^
 ||appearancechambers.com^
 ||appearancte.com^
 ||appearedon.com^
 ||appearedsuspendedcommands.com^
+||appearino.lol^
 ||appearshundred.com^
 ||appearsloin.com^
 ||appearstick.com^
 ||appeasehermione.com^
+||appedge-whatsapp.com^
 ||appendad.com^
 ||appendixhappenidiom.com^
 ||appendixwarmingauthors.com^
@@ -20933,10 +21084,14 @@
 ||appfit.info^
 ||appfly.mobi^
 ||apphacks.co^
+||apphao123.com^
 ||apphasten.com^
 ||apphomeforbests.com^
+||apphost-whatsapp.com^
+||apphub-whatsapp.com^
 ||appieid.us.com^
 ||appier.net^
+||appimg-whatsapp.com^
 ||appimule.com^
 ||appinc.info^
 ||appinfocdn.ksmobile.net^
@@ -21011,10 +21166,12 @@
 ||appmemekombatclaim.pages.dev^
 ||appmeta.info^
 ||appnav.xyz^
+||appnet-whatsapp.com^
 ||appnext-a.akamaihd.net^
 ||appnext.com^
 ||appnext.hs.llnwd.net^
 ||appnexus.com^
+||appnode-whatsapp.com^
 ||appnplaymobi.com^
 ||appo-kuailian.com^
 ||appoineditardwide.com^
@@ -21023,6 +21180,7 @@
 ||appollo-plus.com^
 ||appolvintop.click^
 ||appoogee.com^
+||appops-whatsapp.com^
 ||apppleheaddd.jp^
 ||appporn.shop^
 ||appraisevariability.com^
@@ -21062,6 +21220,7 @@
 ||appsadphonetopapp.win^
 ||appsamurai.com^
 ||appsdl.org^
+||appsec-whatsapp.com^
 ||appsee.com^
 ||appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com^
 ||appsflyer.com^
@@ -21291,6 +21450,7 @@
 ||arabellaescort.com^
 ||arabellafae.com^
 ||arabeng.org^
+||arabescortsistanbul.biz^
 ||arabesex.com^
 ||arabfuckers.com^
 ||arabgay.porn^
@@ -21377,11 +21537,14 @@
 ||arabsex1.click^
 ||arabsex1.com^
 ||arabsex1.lat^
+||arabsex18xnxx.top^
+||arabsex2.lat^
 ||arabsex4.best^
 ||arabsex4.guru^
 ||arabsex4.lol^
 ||arabsex4.skin^
 ||arabsex4.wtf^
+||arabsex4a.lol^
 ||arabsexdates.nl^
 ||arabsexeporn.net^
 ||arabsexflesh.com^
@@ -21437,6 +21600,7 @@
 ||arabysexy.mobi^
 ||arabysexy.org^
 ||arac360.online^
+||aracdonanim.online^
 ||aracdunyasi.xyz^
 ||aradia.com.br^
 ||aradia.info^
@@ -21444,6 +21608,7 @@
 ||aradia.wtf^
 ||aragon19.org^
 ||aralego.com^
+||aralester.site^
 ||aralithmoon.com^
 ||aralomomolachan.com^
 ||arandi-tech.com^
@@ -21562,6 +21727,7 @@
 ||ardaporno.cfd^
 ||ardaporno.live^
 ||ardaporno7.live^
+||ardasocial.online^
 ||ardebill.miandoabs.info^
 ||ardentblacksex.com^
 ||ardentcunt.com^
@@ -21591,6 +21757,7 @@
 ||are.ajjab.co.uk^
 ||are.sexy^
 ||area-trustwallet.com^
+||area.allistonwstbry.org^
 ||area.level.southtrestle.com^
 ||area51.mywire.org^
 ||area51.porn^
@@ -21617,6 +21784,7 @@
 ||arem.shop^
 ||arena-jeux.com^
 ||arena338.lol^
+||arena889.lol^
 ||arenabokep.com^
 ||arenaev.xyz^
 ||arenagame.info^
@@ -21685,6 +21853,7 @@
 ||aridia.ru^
 ||ariellebridal.com^
 ||arielteam.com^
+||arifzade.online^
 ||arightdaturic.shop^
 ||arihomes.com^
 ||ariidaebuoy.top^
@@ -21709,6 +21878,7 @@
 ||arithmetictow.com^
 ||arithpouted.com^
 ||arival.site^
+||arizonarent2own.com^
 ||arizonay.site^
 ||arjjmyaxzopc.in^
 ||arjr.cn^
@@ -21746,6 +21916,7 @@
 ||arludoom.com^
 ||arm.adblocker.eu.org^
 ||armada.uno^
+||armada888.online^
 ||armageddon.org^
 ||armanet.co^
 ||armanet.us^
@@ -21951,8 +22122,10 @@
 ||artificialintelligencepornography.com^
 ||artikelbokep.com^
 ||artiom.made.this.h0stname.net^
+||artis.uno^
 ||artis138.lol^
 ||artis88.lol^
+||artisanalcove.lat^
 ||artisanalwineacademy.com^
 ||artisanskerala.com^
 ||artistestate.com^
@@ -22128,6 +22301,7 @@
 ||as.criteo.net^
 ||as.gn344qitbu.pw^
 ||as.mkim.click^
+||as1976.com^
 ||as25ap.com^
 ||as5000.com^
 ||as6604t-04.myasustor.com^
@@ -22171,6 +22345,7 @@
 ||ascertainowlbookkeeper.com^
 ||aschenbecher-deutschland.de^
 ||ascherslebener-holzhandel.de^
+||aschxnb.org.cn^
 ||asci-ipy.de^
 ||ascobnlafsag.com^
 ||ascohral.in^
@@ -22363,6 +22538,7 @@
 ||asian-bondage.com^
 ||asian-business-directory.com^
 ||asian-cuties-online.com^
+||asian-cuties.com^
 ||asian-escorts-london.com^
 ||asian-escorts.london^
 ||asian-freeporn.com^
@@ -23165,6 +23341,7 @@
 ||asik89.website^
 ||asilporno2.com^
 ||asilzade.org^
+||asimatik.site^
 ||asinapornglad.com^
 ||asingleof.com^
 ||asionamedrafter.com^
@@ -23594,6 +23771,7 @@
 ||asylumrope.com^
 ||asylumwoerolling.com^
 ||asyn.cn^
+||async-whatsapp.com^
 ||asyoujizz.com^
 ||asyrzxy.com.cn^
 ||asysny.com^
@@ -23819,6 +23997,7 @@
 ||atom-buy.online^
 ||atom-node.xyz^
 ||atom.world.digitalhemi.com^
+||atom138tasmania.lat^
 ||atomapi.com^
 ||atomex.net^
 ||atomicodemo.com^
@@ -23988,6 +24167,7 @@
 ||aubergineecstasypreparing.com^
 ||aubsauwhault.net^
 ||auburn9819.com^
+||auburnvalecitrus.online^
 ||aubwbr.com.cn^
 ||aucharbon.org^
 ||aucheevoo.net^
@@ -24028,6 +24208,7 @@
 ||audientce.com^
 ||audierotica.com^
 ||audio-seleccio.com^
+||audio-whatsapp.com^
 ||audio.love^
 ||audioalltagsmart.com^
 ||audiobabe.com^
@@ -24334,12 +24515,15 @@
 ||auth.typeform.co^
 ||auth.vincenzodimaro.it^
 ||auth.vincenzodimaro.it.cdn.cloudflare.net^
+||authapi-whatsapp.com^
 ||authbe.sec.intl.miui.com^
+||authcdn-whatsapp.com^
 ||authentic-criticism.com^
 ||authentication.liveperson.net^
 ||authenticflirtatious.com^
 ||authhost.info^
 ||authilama.com^
+||authnode-whatsapp.com^
 ||autho.me^
 ||authognu.com^
 ||authorionlineloginmaxxx.online^
@@ -24350,6 +24534,7 @@
 ||authorizedimmediate.com^
 ||authorne.info^
 ||authorsradius.com^
+||authpush-whatsapp.com^
 ||autismspassers.cyou^
 ||autismwatersafety.org^
 ||auto-ads6.site^
@@ -24390,6 +24575,7 @@
 ||autodichtung.com^
 ||autodisco.de^
 ||autodiscover.sailforeducation.org^
+||autodoorclosers.com^
 ||autodour.com^
 ||autoelectriciansheffield.com^
 ||autoexpertpartshop.com^
@@ -24497,6 +24683,7 @@
 ||auvoria.de^
 ||auvuhdtgcpywq.com^
 ||auwoocmair.net^
+||auxfun.world^
 ||auxiliaryracingcosy.com^
 ||auxml.com^
 ||auxometer.biretta.cloud-ip.cc^
@@ -24547,6 +24734,7 @@
 ||av6k.me^
 ||av6k.org^
 ||av6k.site^
+||av6k.tv^
 ||av6k.vip^
 ||av727.xyz^
 ||av790.xyz^
@@ -24581,6 +24769,7 @@
 ||avanal.com^
 ||avanosescort.cfd^
 ||avanquestusa.com^
+||avanta-financial.site^
 ||avantajadas.com.br^
 ||avantajados.com^
 ||avantaxinvestgroup.com^
@@ -24714,6 +24903,7 @@
 ||avhot.biz^
 ||avhot3.com^
 ||avhot4.com^
+||avhot5.com^
 ||avhtaapxml.com^
 ||avhu.com^
 ||avhub360.com^
@@ -24755,6 +24945,7 @@
 ||avjxxx.com^
 ||avkgwyodgos.in^
 ||avkorea3.com^
+||avkorea4.com^
 ||avktv.com^
 ||avkuy.net^
 ||avkuy24.com^
@@ -24891,6 +25082,7 @@
 ||avtub.net^
 ||avtub.pet^
 ||avtub.tips^
+||avtubehub.com^
 ||avtv.beer^
 ||avtvq.com^
 ||avuiuqpnt.com^
@@ -24945,6 +25137,7 @@
 ||awab.avajwlwqbklaa.top^
 ||awabo.com^
 ||awagami-aijp.com^
+||await-whatsapp.com^
 ||awaitingcoordinatelassitude.com^
 ||awaitjolt.com^
 ||awakecedesurplus.com^
@@ -24972,6 +25165,7 @@
 ||awboobs.com^
 ||awbrwrywkwqwj.top^
 ||awc-of-berlin.de^
+||awcamgirls.com^
 ||awcams.net^
 ||awcasino.com^
 ||awcdwdfygrroo.store^
@@ -25097,6 +25291,7 @@
 ||awumnf.com^
 ||awwifweknb.com^
 ||awwqatjip.com^
+||awwyysl.com^
 ||awxdlwbxqjnoi.online^
 ||awxeumltonpwpec.net^
 ||awxeumltonpwpec.xyz^
@@ -25201,6 +25396,7 @@
 ||aybl.at^
 ||aybl.pl^
 ||ayblsuomi.com^
+||aycicegi.online^
 ||aycocktail.com^
 ||aycppoqxhnhp.net^
 ||aydank.freeddns.org^
@@ -25245,6 +25441,7 @@
 ||ayoffice.com^
 ||ayokosyyagpf.xyz^
 ||ayola.de^
+||ayongcn.com^
 ||aypa8.com^
 ||aypgkxgnetnxd.site^
 ||aypornom.com^
@@ -25255,6 +25452,7 @@
 ||ayrtys.club^
 ||aysii.com^
 ||aysqxl.com^
+||aystyj.com^
 ||ayu-cloud.com^
 ||ayu-ssr.com^
 ||ayucloud.app^
@@ -25977,6 +26175,7 @@
 ||bahcesehireskort28.lol^
 ||bahghlvbyp.net^
 ||bahiaescorts.com^
+||bahis.lat^
 ||bahisbeyresmi.com^
 ||bahisbozdurnedir.com^
 ||bahisengiris.net^
@@ -26030,6 +26229,7 @@
 ||baileyjayvr.com^
 ||bailiffzealous.com^
 ||baillin-serge.com^
+||baimalake.com^
 ||baimaloukan.com^
 ||baimapan.xyz^
 ||bainenshaofujiqingwuma.org.cn^
@@ -26091,6 +26291,7 @@
 ||bakirkoyescortgo.xyz^
 ||bakirkoyescortjest.com^
 ||bakirkoyescortlari.com^
+||bakirkoyescorts.org^
 ||bakirkoyescortve.com^
 ||bakirkoyeskort21.lol^
 ||bakirkoyeskort22.lol^
@@ -26116,6 +26317,7 @@
 ||bakuronel.com^
 ||balabanrealestate.com^
 ||balajiparking.com^
+||balak55.lol^
 ||balalaek.net^
 ||balance-leben.at^
 ||balancebreath.com^
@@ -26208,6 +26410,7 @@
 ||balmyrind.com^
 ||balo.life^
 ||balon-99.lol^
+||balon138.lol^
 ||balony.de^
 ||balotracity.com^
 ||balphyra.com^
@@ -26217,6 +26420,7 @@
 ||balvionex.com^
 ||balzypipes.com^
 ||bam.nr-data.net^
+||bam009.com^
 ||bamampqexn.com^
 ||bamaporno.com^
 ||bambidoe.com^
@@ -26341,6 +26545,7 @@
 ||bangjunkies.com^
 ||bangkok-escortgirls.com^
 ||bangkokescort.org^
+||bangkoktoto.online^
 ||bangla-choti.in^
 ||banglachodargolpo.com^
 ||banglachoti.cc^
@@ -26386,6 +26591,7 @@
 ||banglasex.deals^
 ||banglasex.one^
 ||banglasex.shop^
+||banglasex.site^
 ||banglasex.vip^
 ||banglasexvideo.baby^
 ||banglasexvideo.beauty^
@@ -26406,6 +26612,7 @@
 ||banglasexvideos.vu^
 ||banglasexvideos.world^
 ||banglasexx.com^
+||banglasexxvideo.com^
 ||banglasexxvideos.com^
 ||banglaxnxx.com^
 ||banglaxvideohd.com^
@@ -26518,12 +26725,15 @@
 ||baobiauviet.com^
 ||baobinhuaheaven.com^
 ||baobiphuongviet.com^
+||baoboydumpling.com^
 ||baodatviet.vn^
 ||baoding68g.net^
 ||baogua1.com^
 ||baohushanzhuang.com^
+||baojie5856.com^
 ||baolaoton.com^
 ||baoliaowang856.lol^
+||baoliba-ca.com^
 ||baolisexy9.cc^
 ||baolixiong.me^
 ||baolixiong.vip^
@@ -26533,6 +26743,7 @@
 ||baotas.tech^
 ||baotonghang56.com^
 ||baoxiangui6.com^
+||baoxianwan.com^
 ||baoxue888.online^
 ||baozhedianshaobylinqingcijiangdeshenme3.org.cn^
 ||baozimh.org^
@@ -26559,6 +26770,7 @@
 ||baraag.net^
 ||baramangaonline.com^
 ||baran.goooalir.co.uk^
+||barangay.life^
 ||barapolaran.shop^
 ||baratbokep.com^
 ||barato.info^
@@ -26634,6 +26846,7 @@
 ||barginglogistics.com^
 ||bargnee.com^
 ||bargraphbreezedwelling.com^
+||barhamsoftware.com^
 ||barhat.org^
 ||bari.lol^
 ||barian-therd.com^
@@ -26766,6 +26979,7 @@
 ||basinhomosexualprepare.com^
 ||basiscopyright.shop^
 ||basiskeleescortnomad.xyz^
+||basispoint.life^
 ||basiswallet.co^
 ||baskent1guvenlik.com^
 ||basketballbelieve.com^
@@ -26796,6 +27010,7 @@
 ||bat25.com^
 ||batamtoto88.lol^
 ||bataryadefteri.xyz^
+||batatoto.lol^
 ||bataviarentcar.com^
 ||batch.com^
 ||batch.today^
@@ -26840,6 +27055,7 @@
 ||batik98.lol^
 ||bating.karrozzin.cloud-ip.cc^
 ||batloop.tech^
+||batman333.lol^
 ||batman69.lol^
 ||batmanescort.cfd^
 ||batmanescortgo.com^
@@ -26890,6 +27106,7 @@
 ||bauer-brennstoffe.com^
 ||bauer-parndorf.at^
 ||bauergraz.com^
+||bauerleonard.lol^
 ||bauerngarten-fuehrungen.de^
 ||bauernhofspiele.com^
 ||baueroutlet.shop^
@@ -27079,6 +27296,7 @@
 ||bbkxmpgjwo.bid^
 ||bblck.me^
 ||bble3b.com^
+||bblhnykj.com^
 ||bblivecams.com^
 ||bbmilf.com^
 ||bbmoe.com^
@@ -27088,6 +27306,7 @@
 ||bbokep.com^
 ||bbong04.com^
 ||bboy1.com^
+||bbpornteen.com^
 ||bbqaccessoriessale.com^
 ||bbrdbr.com^
 ||bbs-7.jp^
@@ -27348,6 +27567,7 @@
 ||bccsk.com^
 ||bcdas8.com^
 ||bcdz.cc^
+||bcfensuiji.com^
 ||bcfeqjjn.com^
 ||bcgame.top^
 ||bcgwetajinklt.website^
@@ -27364,6 +27584,7 @@
 ||bcnescort.com^
 ||bcnonwgwntvpv.website^
 ||bcns-shop.com^
+||bcoexpo.com^
 ||bcohqwqmvyioqg.xyz^
 ||bcom-solar.de^
 ||bcomicz.site^
@@ -27413,6 +27634,7 @@
 ||bdesankeyqfi.net^
 ||bdesankeyqfi.xyz^
 ||bdescorts.net^
+||bdfrgs.com^
 ||bdgysyedu.com^
 ||bdhongquan.com^
 ||bdhw-insolvenz.de^
@@ -27434,6 +27656,7 @@
 ||bdporno.best^
 ||bdpornvideos.com^
 ||bdpvxqis.com^
+||bdqndjxx.com^
 ||bdrbwiynyip.com^
 ||bdren.cn^
 ||bdrxcokcksbbr.store^
@@ -27441,6 +27664,7 @@
 ||bdscoffee.com^
 ||bdsexstory.online^
 ||bdsexstory.org^
+||bdsexvideo.site^
 ||bdsexxvideo.com^
 ||bdskateco.com^
 ||bdsm--porn.com^
@@ -27503,6 +27727,7 @@
 ||bdsm.com^
 ||bdsm.cx^
 ||bdsm.gg^
+||bdsm.name^
 ||bdsm.nl^
 ||bdsm.one^
 ||bdsm.to^
@@ -27536,6 +27761,9 @@
 ||bdsmbbs.com^
 ||bdsmbibliothek.net^
 ||bdsmbizarre.com^
+||bdsmblco.xyz^
+||bdsmblco1.xyz^
+||bdsmblco6.xyz^
 ||bdsmbloc.club^
 ||bdsmbloc.com^
 ||bdsmbloc.xyz^
@@ -27892,6 +28120,7 @@
 ||bearhugger.net^
 ||bearhunks.com^
 ||bearinggall.com^
+||bearmongol.com^
 ||bearparolecleaner.com^
 ||bearporn.com^
 ||bearporn.top^
@@ -27978,6 +28207,7 @@
 ||beauty-house.us^
 ||beauty-moment-salon.ru^
 ||beauty-nudism.club^
+||beauty-video8.online^
 ||beauty.beer^
 ||beauty1.xyz^
 ||beauty365.site^
@@ -28085,6 +28315,7 @@
 ||bebasjudi.com^
 ||bebeautiful.club^
 ||bebele.ru^
+||bebepress.com^
 ||bebesolana.lol^
 ||bebesymamas.net^
 ||bebetter.si^
@@ -28549,6 +28780,7 @@
 ||belingspace.com^
 ||belink.blog^
 ||belizal.com^
+||belizebank.online^
 ||belizehistorysjc.com^
 ||belkavpn.com^
 ||belkruvozan-ai.at^
@@ -28713,6 +28945,7 @@
 ||bengali21.top^
 ||bengalichotigolpo.com^
 ||bengalifreeporn.com^
+||bengalilan.lol^
 ||bengalisex.baby^
 ||bengalisex.beauty^
 ||bengalisex.best^
@@ -28778,6 +29011,7 @@
 ||benzing-kollegen.de^
 ||benzinkanistertrichter.com^
 ||benzoi.com^
+||beoekdn.net.cn^
 ||beohdonwhgsl.com^
 ||beop.io^
 ||beosex.com^
@@ -29276,6 +29510,7 @@
 ||besterotiksite2.wtf^
 ||besterotiksite3.blog^
 ||besterotiksite4.blog^
+||besterotiksite5.blog^
 ||besterpornos.com^
 ||bestes-brennholz-pellets.de^
 ||bestes-produkt.com^
@@ -29713,6 +29948,7 @@
 ||bestpornstars.xxx^
 ||bestpornstarstop.com^
 ||bestpornstream.shop^
+||bestpornstuff.com^
 ||bestpornsubscription.com^
 ||bestpornsubscriptions.com^
 ||bestporntop.com^
@@ -30037,6 +30273,7 @@
 ||betontop.com^
 ||betotodilea.com^
 ||betpartners.it^
+||betpasadres1.icu^
 ||betpupitarr.com^
 ||betqq.top^
 ||betrad.com^
@@ -30099,6 +30336,7 @@
 ||bettyshops.com^
 ||bettystoybox.com^
 ||betus.com.pa^
+||betvisa0.org^
 ||betwaymena.com^
 ||between-legs.com^
 ||betweendigital.com^
@@ -30155,6 +30393,7 @@
 ||beyanmaan.com^
 ||beyazmasal.net^
 ||beydagescort.cfd^
+||beykentescort.com^
 ||beykentescortatings.online^
 ||beykozescort.cfd^
 ||beykozescortara.com^
@@ -30322,6 +30561,7 @@
 ||bgp.one^
 ||bgp8yfn.cc^
 ||bgpnet.org^
+||bgpnode-whatsapp.com^
 ||bgpzblog.com^
 ||bgqantksojipe.online^
 ||bgqbro.imirki9.com^
@@ -30422,6 +30662,7 @@
 ||bhporn.com^
 ||bhpuvkri.com^
 ||bhshm.com^
+||bhslaughter.com^
 ||bhtetuteajo.com^
 ||bhtuukgrerzjmchn.com^
 ||bhuibv.ipv64.net^
@@ -30450,6 +30691,7 @@
 ||biancheng5.com^
 ||biancoecolorati.com^
 ||biao6.com^
+||biaoyingdz.com^
 ||biarch.eu^
 ||biaustralia.com.au^
 ||biba.ydns.eu^
@@ -31407,6 +31649,7 @@
 ||birkinshaws.ca^
 ||birkshoes.space^
 ||birmingha.co.uk^
+||birminghamescort-jasmine.co.uk^
 ||birminghamescorts.co^
 ||birminghamfuckbuddies.co.uk^
 ||birminghamgayescorts.com^
@@ -31476,6 +31719,7 @@
 ||bitadx.one^
 ||bitaiapp.pro^
 ||bitaimethod.com^
+||bitaqqa.com^
 ||bitaqwlx.com^
 ||bitbang01.webtrekk.net^
 ||bitbeat7.com^
@@ -31680,6 +31924,7 @@
 ||bizzclick.com^
 ||bizzgenius.com^
 ||bj-ad-lgsmartad-com.aws-prd.net^
+||bj-hbyt.com^
 ||bj-yumeng.com^
 ||bj.aeonistcoffins.com^
 ||bj.chottsunmarry.com^
@@ -31692,6 +31937,7 @@
 ||bjasd888.com^
 ||bjbcyyhm.com^
 ||bjbta.com^
+||bjbyyt.com^
 ||bjcbl.com^
 ||bjcgbc.cn^
 ||bjcloudnet.com^
@@ -31702,6 +31948,7 @@
 ||bjenchsgybbdys.com^
 ||bjfmwh.com^
 ||bjg078.top^
+||bjgxk.com^
 ||bjhaohua.com^
 ||bjhcmj.com^
 ||bjhpb.com^
@@ -31710,6 +31957,7 @@
 ||bjhub.me^
 ||bjhuzjlmbfsckv.com^
 ||bjjky.cfd^
+||bjjlljt.com^
 ||bjl.2jiagong.com^
 ||bjl.worldprintech.com^
 ||bjlfdy.com^
@@ -31739,9 +31987,11 @@
 ||bjx.mom^
 ||bjxusfnfstjae.online^
 ||bjxvikyfxgg.net^
+||bjyaotian.com^
 ||bjybch.com^
 ||bjycrh.com^
 ||bjydvoaqmxscacu.com^
+||bjyhss.com^
 ||bjzabeeqjktyy.website^
 ||bjzbxy.com^
 ||bjzftt.com^
@@ -31786,6 +32036,7 @@
 ||bkvxjygccpkwk.space^
 ||bkwn.cn^
 ||bkxdlsivyfsjapsokq.com^
+||bkz-whatsapp.com^
 ||bl-group.net^
 ||bl-heizoel.de^
 ||bl.eq.md^
@@ -31795,6 +32046,7 @@
 ||bl278.top^
 ||bl6-x.tlnk.io^
 ||bl791.com^
+||bla-whatsapp.com^
 ||blablacams.com^
 ||blablasexe.fr^
 ||black-and-white-photogs.com^
@@ -32112,11 +32364,15 @@
 ||blazeteamlow.com^
 ||blazingescorts.com^
 ||blazinglink.com^
+||blb-whatsapp.com^
 ||blboyslive.com^
+||blc-whatsapp.com^
 ||blcdog.com^
+||bld-whatsapp.com^
 ||bld.sys-adm.in^
 ||bldlcg.com^
 ||bldr.mkt.samsung.com^
+||ble-whatsapp.com^
 ||bleachbit.com^
 ||bleachbooru.org^
 ||bleachedporn.com^
@@ -32147,9 +32403,13 @@
 ||bletopreseynat.org^
 ||blewpass.com^
 ||blewreclinedisintegrate.com^
+||blf-whatsapp.com^
 ||blg-1216lb.com^
+||blg-whatsapp.com^
 ||blg817.xyz^
+||blh-whatsapp.com^
 ||blhkbyjasnrqlm.net^
+||bli-whatsapp.com^
 ||bliao15.com^
 ||bliao16.com^
 ||bliao17.com^
@@ -32181,6 +32441,7 @@
 ||bliqjhstabiqd.space^
 ||blis.com^
 ||blismedia.com^
+||bliss-whatsapp.com^
 ||blissberlin.de^
 ||blissbox.com^
 ||blissboxlive.com^
@@ -32214,18 +32475,24 @@
 ||blitztreffen.de^
 ||blizzak.de^
 ||blizzdata.site^
+||blj-whatsapp.com^
 ||bljadun.vip^
 ||bljpai.com^
+||blk-whatsapp.com^
 ||blkditsup.com^
 ||blktouch.com^
+||bll-whatsapp.com^
 ||bllosthz.shop^
 ||bllsteringdates.com^
 ||bllsteringdates.net^
+||blm-whatsapp.com^
 ||blm-whisky.com^
 ||blmihlvicnopl.store^
+||bln-whatsapp.com^
 ||blncapi.com^
 ||blnlpruka.com^
 ||blnprjsnqczmz.com^
+||blo-whatsapp.com^
 ||blo.com^
 ||bloatedkindnessmousiness.com^
 ||bloaterballer.cyou^
@@ -32346,6 +32613,7 @@
 ||blogvporn.com^
 ||blogx.fr^
 ||blohfemnbc.com^
+||blok1.uno^
 ||blokada.org^
 ||blokcrypto.info^
 ||bloknft.xyz^
@@ -32470,16 +32738,22 @@
 ||blowxxxjob.com^
 ||blowxxxstream.com^
 ||blowxxxtube.com^
+||blp-whatsapp.com^
 ||blpebnytus.com^
 ||blpjxkhubqsmsy.xyz^
+||blq-whatsapp.com^
+||blr-whatsapp.com^
 ||blrzaikduqaar.site^
+||bls-whatsapp.com^
 ||blsenmxeiokcn.space^
 ||blsnxx.buzz^
 ||blsyconcept.com^
 ||blt-js.com^
+||blt-whatsapp.com^
 ||bltv1202.shop^
 ||bltv851.lol^
 ||bltwuvetubnqt.space^
+||blu-whatsapp.com^
 ||blu5fdclr.com^
 ||bluadz.com^
 ||blubberdecided.com^
@@ -32617,10 +32891,15 @@
 ||blusterflintbig.com^
 ||blusterhawspontaneous.com^
 ||bluttestzuhause.com^
+||blv-whatsapp.com^
+||blw-whatsapp.com^
 ||blwdh.com^
+||blx-whatsapp.com^
 ||blxcrbaopbvvxk.com^
+||bly-whatsapp.com^
 ||blyadun.ru^
 ||blyss-shop.de^
+||blz-whatsapp.com^
 ||blzz.xyz^
 ||bm-bluemoon.com^
 ||bm.boodiecilice.rest^
@@ -32629,9 +32908,11 @@
 ||bm.rapideaesture.com^
 ||bm249.top^
 ||bm8.buzz^
+||bma-whatsapp.com^
 ||bmaal.com^
 ||bmaal.net^
 ||bmadss.com^
+||bmb-whatsapp.com^
 ||bmbdfrchnenhy.store^
 ||bmbgreen.com^
 ||bmbsgo.com^
@@ -32661,47 +32942,63 @@
 ||bmjc.cn^
 ||bmjhelit.cc^
 ||bmjwk.cn^
+||bmk-whatsapp.com^
 ||bmkmnxqk.com^
 ||bmksmmb.cn^
 ||bmkz57b79pxk.com^
+||bml-whatsapp.com^
 ||bmlfhjeq.cc^
 ||bmlpqtnhvoliy.com^
+||bmm-whatsapp.com^
 ||bmmads.com^
 ||bmmadspay.com^
 ||bmmn.org^
 ||bmmrealtors.com^
 ||bmms1.com^
 ||bmn-online.de^
+||bmn-whatsapp.com^
 ||bmndx.com^
+||bmo-whatsapp.com^
 ||bmodels.co^
 ||bmodels.site^
 ||bmoreferral.com^
+||bmp-whatsapp.com^
 ||bmpfqjcu.icu^
 ||bmpharmacy-official.com^
 ||bmpharmacyofficial.com^
 ||bmplajgk.com^
 ||bmpzz.jmojh8fc6x.bapb.gdn^
+||bmq-whatsapp.com^
 ||bmq5ivo.vip^
 ||bmqan2static.b-cdn.net^
 ||bmqfq.com^
 ||bmqkp.com^
 ||bmqzsaqomgymv.site^
+||bmr-whatsapp.com^
 ||bmraxldsojlpeg.com^
 ||bms-promaschinen.com^
+||bms-whatsapp.com^
 ||bmsbookawards.com^
 ||bmssdk.getfocus.in^
+||bmt-whatsapp.com^
 ||bmt899.top^
 ||bmtracks.com^
 ||bmtriders.com^
+||bmu-whatsapp.com^
 ||bmufudjuro.com^
 ||bmuhuhajbap.in^
+||bmv-whatsapp.com^
 ||bmvorzrau.com^
 ||bmw-bikertreff-bonsberg.de^
+||bmw-whatsapp.com^
 ||bmwaeghntpfdb.online^
 ||bmwmn.loveonlline.com^
 ||bmwmt2026online.com^
+||bmx-whatsapp.com^
 ||bmxavtdjqvdqn.store^
+||bmy-whatsapp.com^
 ||bmyogxbku.com^
+||bmz-whatsapp.com^
 ||bn-ad-lgsmartad-com.aws-prd.net^
 ||bn.porntamilvideo.com^
 ||bn0dghrx.com^
@@ -32711,7 +33008,9 @@
 ||bn71.ru^
 ||bn835.top^
 ||bn858.top^
+||bna-whatsapp.com^
 ||bnatxxx.space^
+||bnb-whatsapp.com^
 ||bnbabes.com^
 ||bnbagnut.com^
 ||bnbc-onay-sayfasi-global.smtp-host.de^
@@ -32720,10 +33019,14 @@
 ||bnbn.jp^
 ||bnbpornhub.xyz^
 ||bnbsjbir.shop^
+||bnc-whatsapp.com^
 ||bnc.lt^
 ||bncloudfl.com^
+||bnd-whatsapp.com^
 ||bndofpoupil.com^
 ||bnewporn.com^
+||bnf-whatsapp.com^
+||bng-whatsapp.com^
 ||bngdin.com^
 ||bngdyn.com^
 ||bnglzajikraz.com^
@@ -32737,37 +33040,55 @@
 ||bngtrak.com^
 ||bngwlt.com^
 ||bngzj.com^
+||bnh-whatsapp.com^
 ||bnhtml.com^
+||bni-whatsapp.com^
 ||bniiqj.org.cn^
+||bnj-whatsapp.com^
 ||bnj0d3r2.com^
+||bnk-whatsapp.com^
+||bnl-whatsapp.com^
 ||bnlstars.com^
+||bnm-whatsapp.com^
 ||bnmkl.com^
 ||bnmmnbgqtb.com^
 ||bnmxedmkakife.com^
+||bnn-whatsapp.com^
 ||bnnbb.com^
 ||bnnmrau.com^
 ||bnnnq.com^
+||bno-whatsapp.com^
 ||bnp-bank.com^
 ||bnp-coin.com^
 ||bnp-otc.com^
 ||bnp-otccoin.com^
+||bnp-whatsapp.com^
 ||bnp01.webtrekk.net^
 ||bnp3.com^
 ||bnp4.com^
 ||bnp8.com^
 ||bnpmtoazgw.com^
 ||bnpotc.com^
+||bnq-whatsapp.com^
+||bnr-whatsapp.com^
 ||bnr.sys.lv^
 ||bnrdom.com^
 ||bnrs.it^
 ||bnrsis.com^
 ||bnrslks.com^
+||bns-whatsapp.com^
 ||bnserving.com^
 ||bnsirwpidbpao.online^
+||bnt-whatsapp.com^
+||bnu-whatsapp.com^
 ||bnude.com^
+||bnv-whatsapp.com^
 ||bnvavriytks.com^
+||bnw-whatsapp.com^
 ||bnwo.nl^
 ||bnwo.tv^
+||bnx-whatsapp.com^
+||bny-whatsapp.com^
 ||bnzc1.com^
 ||bo-ad-lgsmartad-com.aws-prd.net^
 ||bo-bank.com^
@@ -32849,6 +33170,7 @@
 ||bobtailovalsupply.com^
 ||bobuptoopsukus.net^
 ||bobvlsgto.com^
+||boc-whatsapp.com^
 ||bocaescort.com^
 ||bocaescorts.com^
 ||bocaiwang.tmdss.com^
@@ -32872,6 +33194,7 @@
 ||bocilxxx.online^
 ||bocilxxx.store^
 ||bockouphourgait.net^
+||bod-whatsapp.com^
 ||boda12306.com^
 ||bodabloc.com^
 ||bodabom.com^
@@ -32936,18 +33259,21 @@
 ||bodytouch.nl^
 ||bodyxxxg.top^
 ||bodyxxxgirls.top^
+||boe-whatsapp.com^
 ||boecdn.com^
 ||boejp953.com^
 ||boekerrabatt.com^
 ||boerenwebshop.com^
 ||boerty.com^
 ||boerumpeiakmf.space^
+||bof-whatsapp.com^
 ||boffinsoft.com^
 ||boffoadsfeeds.com^
 ||bofitsaign.net^
 ||bofwcwlstyrts.com^
 ||bog-apotheke.com^
 ||bog-bot.cfd^
+||bog-whatsapp.com^
 ||bogads.com^
 ||bogarchaicagriculture.com^
 ||bogbot.shop^
@@ -32962,6 +33288,8 @@
 ||bogusecstatic.com^
 ||boguspumprancorous.com^
 ||bogusuallydissatisfaction.com^
+||boh-whatsapp.com^
+||bohcamanti.online^
 ||bohnenfreude.de^
 ||bohnengold.com^
 ||boho-and-chic.de^
@@ -32970,6 +33298,7 @@
 ||bohobike.shop^
 ||bohohon.itch.io^
 ||bohonude.art^
+||boi-whatsapp.com^
 ||boi9osyg1uwtyafn.com^
 ||boiledtropical.com^
 ||boilerefforlessefforlessregistered.com^
@@ -32989,12 +33318,14 @@
 ||boisdechauffage.de^
 ||boisefallfesitval.com^
 ||boistkinkled.com^
+||boj-whatsapp.com^
 ||bojdumlx.cc^
 ||bojel.com^
 ||bojocams.com^
 ||bojubrand.ru^
 ||bojuedh.xyz^
 ||bojzjxeawwvrja.com^
+||bok-whatsapp.com^
 ||bokacoda.com^
 ||bokeb.cc^
 ||bokebhub.courses^
@@ -33075,6 +33406,7 @@
 ||bokepcams.com^
 ||bokepcewek.net^
 ||bokepchannel.com.de^
+||bokepchill.com^
 ||bokepchina.vip^
 ||bokepcil.com^
 ||bokepcina.cc^
@@ -33460,6 +33792,7 @@
 ||bokewin.cn^
 ||bokirarzpn.icu^
 ||bokundev.itch.io^
+||bol-whatsapp.com^
 ||bolada.de^
 ||bolahokiku.com^
 ||bolatino.com^
@@ -33490,6 +33823,7 @@
 ||bolenso.de^
 ||boleto-uno.mx^
 ||boleynmodels.com^
+||bolimian1688.com^
 ||bolingbrooklocksmith.us^
 ||boliviahotelguide.com^
 ||bollixceltist.shop^
@@ -33542,6 +33876,7 @@
 ||boluescortx.club^
 ||boluo15.mom^
 ||boluotv.cn^
+||bom-whatsapp.com^
 ||bomanled.com^
 ||bomb-comics.com^
 ||bombacams.com^
@@ -33569,6 +33904,8 @@
 ||bommelstein.org^
 ||bon-chat.com^
 ||bon-porno-hd.com^
+||bon-ten.com^
+||bon-whatsapp.com^
 ||bonad.io^
 ||bonafiderealty.online^
 ||bonafides.club^
@@ -33934,6 +34271,7 @@
 ||bonzi.link^
 ||bonzuna.com^
 ||boo-box.com^
+||boo-whatsapp.com^
 ||boobacademy.com^
 ||boobasia.com^
 ||boobatooba.com^
@@ -34207,11 +34545,13 @@
 ||bootyxgirl.com^
 ||boovoogie.net^
 ||boowuu.com^
+||bop-whatsapp.com^
 ||bopako.com^
 ||bopian.cc^
 ||boppingbabes.com^
 ||bopscertified.xyz^
 ||boqlwbntl.net^
+||bor-whatsapp.com^
 ||borat2024.lol^
 ||boraxcompoundmousy.com^
 ||borbgbfx.cc^
@@ -34342,8 +34682,10 @@
 ||botasdemonia.com^
 ||botashunterargentina.com^
 ||botashuntermujer.com^
+||botchat-whatsapp.com^
 ||botclassic.com^
 ||botcomics.com^
+||botcore-whatsapp.com^
 ||botedidymia.cfd^
 ||botfap.com^
 ||bothears.com^
@@ -34353,12 +34695,14 @@
 ||bothhumorrustic.com^
 ||bothoocoagho.net^
 ||bothoorgoamsab.net^
+||bothost-whatsapp.com^
 ||bothpersonality.com^
 ||bothsignature.com^
 ||bothstick.pro^
 ||bothunterturkiye.com^
 ||botify.ai^
 ||botinok.porn^
+||botlink-whatsapp.com^
 ||botmaal.com^
 ||botmaal.movie^
 ||botmaal.net^
@@ -34484,6 +34828,7 @@
 ||box.seidenstrabe.com^
 ||box066.com^
 ||box4container.com^
+||boxapp-whatsapp.com^
 ||boxav.net^
 ||boxbonks.com^
 ||boxbosomcompare.com^
@@ -34496,6 +34841,8 @@
 ||boxingsgets.com^
 ||boxingsuffocate.com^
 ||boxinvesting.com^
+||boxkit-whatsapp.com^
+||boxlab-whatsapp.com^
 ||boxlikepavers.com^
 ||boxlikesedativespinach.com^
 ||boxloadpallet.com^
@@ -34504,10 +34851,13 @@
 ||boxofwhisper.com^
 ||boxpleasure.com^
 ||boxpn.com^
+||boxrun-whatsapp.com^
+||boxset-whatsapp.com^
 ||boxsportversand.de^
 ||boxspringpro.com^
 ||boxthis.xyz^
 ||boxtrail.de^
+||boxuse-whatsapp.com^
 ||boxwanks.com^
 ||boxx-container.de^
 ||boxycupbearerjot.com^
@@ -34602,6 +34952,7 @@
 ||boygaytwink.com^
 ||boyiinlove.com^
 ||boyimage.com^
+||boyiyikao.com^
 ||boyjackpot.com^
 ||boykissers.net^
 ||boykissing.gay^
@@ -34659,6 +35010,7 @@
 ||boysxclusive.com^
 ||boysxxx.net^
 ||boytoyflirt.com^
+||boytubegay.com^
 ||boyunakylie.com^
 ||boywankblog.com^
 ||boyxxx.click^
@@ -34690,6 +35042,7 @@
 ||bpcvnkwpl.xyz^
 ||bpdppdyuhqvoxb.net^
 ||bpdqwixnyxoxy.site^
+||bpelab.com^
 ||bpgcoin.com^
 ||bpgroupe.com^
 ||bpinortheastvictoria.online^
@@ -34710,6 +35063,7 @@
 ||bpshamie.com^
 ||bpu.samsungelectronics.com^
 ||bpvubrpialperi.com^
+||bpvxhuy.club^
 ||bpydkiqi.com^
 ||bq005.top^
 ||bq119.sbs^
@@ -34808,6 +35162,7 @@
 ||bqvrwcxbprtpbf.com^
 ||bqxnpvzbrurde.online^
 ||bqziwiz.org.cn^
+||bqzwy.com^
 ||br-ad-lgsmartad-com.aws-prd.net^
 ||br-info-lgsmartad-com.aws-prd.net^
 ||br-rdx2-lgtvsdp-com.aws-prd.net^
@@ -34946,6 +35301,7 @@
 ||bramasacscadi.com^
 ||bramka-proxy.pl^
 ||bran-ex.ru^
+||branch-whatsapp.com^
 ||branch.io^
 ||branchborder.com^
 ||branchesonline.org^
@@ -35048,6 +35404,7 @@
 ||brave-plane.pro^
 ||brave-soul-210.guesstheanimal.org^
 ||brave-village.com^
+||brave-whatsapp.com^
 ||braveandlove.com^
 ||bravebabes.com^
 ||bravebone.com^
@@ -35116,6 +35473,7 @@
 ||brazilian-transsexuals.com^
 ||brazilianhotwife.com^
 ||brazilianporn.site^
+||brazilianscatporn.com^
 ||brazillo.store^
 ||brazilpornvideo.com^
 ||brazilproxy.com^
@@ -35364,6 +35722,7 @@
 ||bridegaspjustification.com^
 ||bridesmaidspamimmortal.com^
 ||bridge.lga1.admarketplace.net^
+||bridgemark.lat^
 ||bridgeofdondentalclinic.co.uk^
 ||bridgerton.online^
 ||bridgeschoolboulder.org^
@@ -35580,6 +35939,7 @@
 ||broken-fun.com^
 ||broken-independent.pro^
 ||broken.garden^
+||brokenbutts.com^
 ||brokenfibberunmoved.com^
 ||brokenlatinawhores.com^
 ||brokensluts.net^
@@ -35600,6 +35960,7 @@
 ||bronewlook.com^
 ||broniva.ru^
 ||bronoir.de^
+||bronplan.uno^
 ||brontivex.com^
 ||bronxlatin.org^
 ||bronxleadershipacademy2.org^
@@ -35859,6 +36220,7 @@
 ||bryngrill.se^
 ||bryo-kaffee.de^
 ||brytesmile.de^
+||bryweb-whatsapp.com^
 ||bryzr.com^
 ||brzjthsubtlwj.site^
 ||brzvtueeyyqdo.space^
@@ -35921,6 +36283,7 @@
 ||bsuqdfie.cc^
 ||bswmpwygq.xyz^
 ||bsxiaoshuo.com^
+||bsxinyute.com^
 ||bsxjqlasfcoaa.site^
 ||bsxw.net^
 ||bsy2ql6.com^
@@ -35955,6 +36318,7 @@
 ||btcpornhub.xyz^
 ||btcswing.com^
 ||btdfqejriamjr.website^
+||btdgsb.com^
 ||btemgb.com^
 ||btent.stre4mpay.one^
 ||bteux.com^
@@ -35996,23 +36360,31 @@
 ||bttphsqvrunfw.store^
 ||bttrack.com^
 ||btttag.com^
+||btu-whatsapp.com^
 ||btuhgfmw.com^
 ||btumeng.com^
 ||btunnel.in^
+||btv-whatsapp.com^
 ||btvhdscr.com^
 ||btvyjlx.net.cn^
+||btw-whatsapp.com^
 ||btwpgvvevgssm.site^
+||btx-whatsapp.com^
 ||btxqplrw.com^
 ||btxxxnav.com^
+||bty-whatsapp.com^
 ||bty9701.com^
 ||btyqrikicjz.in^
 ||btyrojg.top^
+||btz-whatsapp.com^
 ||bu.indusacta.com^
 ||bu.stummelbeelbow.com^
 ||bu.unlousycrag.shop^
 ||bu23.top^
+||bua-whatsapp.com^
 ||buahlil.forum^
 ||buaswhxr.com^
+||bub-whatsapp.com^
 ||bubaloo.de^
 ||bubbaporn.com^
 ||bubblebitch.fun^
@@ -36041,6 +36413,7 @@
 ||bubuk.sbs^
 ||bubvrela.com^
 ||bubwivnijti.in^
+||buc-whatsapp.com^
 ||bucaescort.info^
 ||bucaescort.top^
 ||bucaescortgo.xyz^
@@ -36116,6 +36489,7 @@
 ||budsbabes.net^
 ||budsminepatent.com^
 ||budukha.chymiaaxunge.top^
+||bue-whatsapp.com^
 ||buenoschuhe.de^
 ||buergersolarfabrik.de^
 ||bueromoebels.de^
@@ -36166,6 +36540,7 @@
 ||buhjusvf.in^
 ||buikolered.com^
 ||build-exert.com^
+||build-whatsapp.com^
 ||builderdespiseadministration.com^
 ||buildersmatch.co^
 ||builderspecifiedtennis.com^
@@ -36192,6 +36567,7 @@
 ||bukaporn.com^
 ||bukaporn.net^
 ||bukarenqigaoqingyoumashipin.org.cn^
+||bukcwul.top^
 ||bukkake-bath.com^
 ||bukkake-jav.com^
 ||bukkake-mpegs.com^
@@ -36377,6 +36753,7 @@
 ||buonaporno.com^
 ||buondua.com^
 ||buondua.us^
+||buoyancychillyshut.com^
 ||buoyant-most.pro^
 ||buoydeparturediscontent.com^
 ||bupatp.com^
@@ -36471,6 +36848,7 @@
 ||bursaescorttc.com^
 ||bursaescorttr.org^
 ||bursagay.com^
+||bursamalaysia.lat^
 ||bursamescort.com^
 ||bursan.ge^
 ||bursatravesti.net^
@@ -36483,6 +36861,7 @@
 ||burtonde.de^
 ||burtonski.de^
 ||burtonsnowboard.de^
+||buru.lat^
 ||buryexpedientmedic.com^
 ||buryludicrousimaginary.com^
 ||bus-car.online^
@@ -36525,6 +36904,7 @@
 ||businesslawyerca.com^
 ||businesslnstagram.zya.me^
 ||businessschool.cc^
+||businesstravelsuccess.com^
 ||busjapanporn.com^
 ||buska22.com^
 ||buska26.com^
@@ -36695,6 +37075,7 @@
 ||buteopung.com^
 ||buthawk.com^
 ||butidontwanttacos.duia.us^
+||butik-pizza.online^
 ||butineuses.com^
 ||butlep.com^
 ||butlerdrugstore.com^
@@ -36855,6 +37236,7 @@
 ||buyvisblog.com^
 ||buyx.info^
 ||buyxtoken.com^
+||buz-whatsapp.com^
 ||buziol.pl^
 ||buzz-porn.jp^
 ||buzz.porn^
@@ -36898,17 +37280,27 @@
 ||bv33.online^
 ||bv8-t.tlnk.io^
 ||bv8zx58u.com^
+||bva-whatsapp.com^
+||bvb-whatsapp.com^
 ||bvbfussballtrikots.de^
 ||bvbypswhds.com^
 ||bvc-kj.com^
+||bvc-whatsapp.com^
 ||bvcash.com^
 ||bvcgmcvln.com^
 ||bvckutpqnrftz.website^
 ||bvcnmtv.top^
+||bvd-whatsapp.com^
 ||bvddfghxdsfd.top^
+||bve-whatsapp.com^
+||bvf-whatsapp.com^
 ||bvfdmvhy.com^
+||bvg-whatsapp.com^
 ||bvg01.webtrekk.net^
+||bvi-whatsapp.com^
+||bvj-whatsapp.com^
 ||bvjmindpgpeukx.com^
+||bvk-whatsapp.com^
 ||bvkvmrvpm.com^
 ||bvmbnr.xyz^
 ||bvmcdn.com^
@@ -36937,22 +37329,34 @@
 ||bwcvzbjbrbolk.site^
 ||bwdsnvwtnvuhl.store^
 ||bweulbvgrixs.com^
+||bwf-whatsapp.com^
+||bwg-whatsapp.com^
 ||bwg.559299366.xyz^
 ||bwgjustmysocks.com^
 ||bwgndlmwgtnxam.com^
 ||bwgtptgihi.com^
+||bwh-whatsapp.com^
 ||bwh.why4free.top^
+||bwi-whatsapp.com^
 ||bwinel.com^
 ||bwinpartypartners.com^
 ||bwitahqriaz.in^
+||bwj-whatsapp.com^
+||bwk-whatsapp.com^
 ||bwkwfuwfv.xyz^
+||bwl-whatsapp.com^
+||bwm-whatsapp.com^
+||bwn-whatsapp.com^
 ||bwnvideo.com^
+||bwo-whatsapp.com^
 ||bwoaqpffevm.in^
 ||bwonline.eurosale.shop^
 ||bwoparegional.com^
 ||bworldporn.com^
 ||bwortacmib.com^
+||bwp-whatsapp.com^
 ||bwpages.com^
+||bwq-whatsapp.com^
 ||bwq9xww.cc^
 ||bwredir.com^
 ||bwrjmupugpabj.com^
@@ -36979,8 +37383,13 @@
 ||bxhdui.shop^
 ||bxifydpwojfjd.com^
 ||bxiot.com^
+||bxl-whatsapp.com^
 ||bxlktb.org.cn^
+||bxm-whatsapp.com^
 ||bxmofwajlu.cc^
+||bxn-whatsapp.com^
+||bxo-whatsapp.com^
+||bxp-whatsapp.com^
 ||bxpirsojnnuvq.xyz^
 ||bxrlin.de^
 ||bxrmsifmdylbji.com^
@@ -37022,6 +37431,7 @@
 ||bybitbaltic.info^
 ||byblzp.com^
 ||bybozj.com^
+||byby1200.com^
 ||byby4.cn^
 ||bybyuxxgcqoze.space^
 ||bycarver.com^
@@ -37114,6 +37524,7 @@
 ||bytelixir.com^
 ||byteporno.com^
 ||byterobotics.cn^
+||bytesexy.com^
 ||bytesocial.info^
 ||byteswap.online^
 ||bytzvpn.com^
@@ -37348,6 +37759,7 @@
 ||cachequick.live^
 ||cachequick.pro^
 ||cachequick.xyz^
+||cachesrv-whatsapp.com^
 ||cachetone.com^
 ||cachew.livemediahost.com^
 ||cachezone.net^
@@ -37520,6 +37932,7 @@
 ||callandtextapp.com^
 ||callandy.in^
 ||callawtj.cc^
+||callback-whatsapp.com^
 ||callbackping.net^
 ||callboyverzeichnis.com^
 ||caller-calculus.com^
@@ -37635,6 +38048,7 @@
 ||callgirlvision.com^
 ||callgril.in^
 ||callidus-mc.com^
+||calliecyprus.net^
 ||callies-online.site^
 ||calligraphyanatomy.com^
 ||calligraphybowling.com^
@@ -38089,6 +38503,7 @@
 ||camhub.world^
 ||camhub.xxx^
 ||camhub1.org^
+||cami-bearr.com^
 ||cami-handel.de^
 ||camichanowo.com^
 ||camicon.net^
@@ -38160,6 +38575,7 @@
 ||cammodels.com^
 ||cammodelsdirectory.com^
 ||cammpaign.com^
+||camnanggiaoduc.org^
 ||camnaughtydate.com^
 ||camnews.de^
 ||camnotifier.com^
@@ -38559,6 +38975,7 @@
 ||camtrove.com^
 ||camtrue.com^
 ||camtstars.pro^
+||camtube.chat^
 ||camtubechat.com^
 ||camtv.live^
 ||camultras.com^
@@ -38725,6 +39142,7 @@
 ||canadahomecaregroup.ca^
 ||canadairelandfund.com^
 ||canadalife01.webtrekk.net^
+||canadanena.com^
 ||canadanewsreport.com^
 ||canadapharmacypro.com^
 ||canadapharmacytrust.net^
@@ -38745,6 +39163,7 @@
 ||canadianpharmacystore.com^
 ||canadiansextoys.com^
 ||canadianshield.cira.ca^
+||canakkalebizim.com^
 ||canakkaleescort.cfd^
 ||canakkaleescortbayan.com^
 ||canakkaleescortbayan.net^
@@ -38912,6 +39331,8 @@
 ||canli-sex-29.site^
 ||canli-sex-6.site^
 ||canli-sex.site^
+||canlidiziizle.click^
+||canlimachd.com^
 ||canliporno.net^
 ||canlipornoizle.cyou^
 ||canlipornoizle.shop^
@@ -39151,6 +39572,7 @@
 ||care-rtu.com^
 ||carebuzz.com^
 ||carebuzz.io^
+||carecircle.mom^
 ||career-mesh.com^
 ||careerjournalonline.com^
 ||careersandjobs.org^
@@ -39630,6 +40052,7 @@
 ||cataphractarii.com^
 ||cataractsallydeserves.com^
 ||catatic.de^
+||cataxo.com^
 ||catcast.tv^
 ||catchbarracksclinic.com^
 ||catchcurrent.com^
@@ -39913,6 +40336,7 @@
 ||ccmedia.news^
 ||ccmillworks.com^
 ||ccmiocw.com^
+||ccmov.cc^
 ||ccn08sth.de^
 ||ccnmfdyktqofb.com^
 ||ccnwebcams.com^
@@ -39960,6 +40384,7 @@
 ||cdcauldron.com^
 ||cdcconinc.com^
 ||cdceed.de^
+||cdchuanwei.com^
 ||cdclub.net^
 ||cdcnl.com^
 ||cdcpjgg.com^
@@ -39968,11 +40393,14 @@
 ||cdescorts.com^
 ||cdewlqey.com^
 ||cdfling.com^
+||cdfqyhb.top^
 ||cdfunblog.blogspot.com^
 ||cdglxh.com^
 ||cdguanteng.com^
 ||cdhcch.com^
 ||cdhddw.com^
+||cdhe2.com^
+||cdhmx.com^
 ||cdhuakuai.com^
 ||cdhxv.com.cn^
 ||cdiiceyn.com^
@@ -40127,14 +40555,18 @@
 ||cdnbit.com^
 ||cdnbityun.top^
 ||cdnboost.me^
+||cdnbot-whatsapp.com^
 ||cdnbridge.org^
 ||cdncaiyun.top^
 ||cdncatnet.top^
 ||cdncave.top^
 ||cdnchangjinglu.top^
+||cdnchat-whatsapp.com^
 ||cdnchunqiu.top^
 ||cdncinemahub.site^
+||cdncloud-whatsapp.com^
 ||cdndotu.top^
+||cdnedge-whatsapp.com^
 ||cdnexpress.art^
 ||cdnexpress.live^
 ||cdnfeisha.top^
@@ -40152,10 +40584,12 @@
 ||cdnkimg.com^
 ||cdnkuaiqiangshou.top^
 ||cdnlivestream.xyz^
+||cdnmail-whatsapp.com^
 ||cdnmarslink.top^
 ||cdnmdss.top^
 ||cdnmon.com^
 ||cdnnaiu.top^
+||cdnnet-whatsapp.com^
 ||cdnnetwork.fun^
 ||cdnnetwork.live^
 ||cdnnetwork.xyz^
@@ -40482,6 +40916,7 @@
 ||cendura.de^
 ||cenelle.fr^
 ||cenicero.net^
+||ceninsperma.sbs^
 ||cennter.com^
 ||censor-check.com^
 ||censortracker.github.io^
@@ -41089,6 +41524,7 @@
 ||charlystore.de^
 ||charm-n.com^
 ||charm-sports.com^
+||charm-whatsapp.com^
 ||charmconnects.com^
 ||charmdaily.com^
 ||charmevelin.com^
@@ -41125,6 +41561,7 @@
 ||chasenbc.net^
 ||chasesomedayexclusively.com^
 ||chasesupporthelp.com^
+||chaseveda.site^
 ||chasingbully.com^
 ||chasmalsacques.shop^
 ||chassepechelangon.com^
@@ -41172,6 +41609,7 @@
 ||chatandcum.com^
 ||chatasy.com^
 ||chatathletecontempt.com^
+||chatauth-whatsapp.com^
 ||chataweb.com^
 ||chatbang.net^
 ||chatbonga.com^
@@ -41188,6 +41626,7 @@
 ||chatcoin.online^
 ||chatcompras.online^
 ||chatcongays.com^
+||chatcore-whatsapp.com^
 ||chatcrypto.online^
 ||chatcure.online^
 ||chatdate69.com^
@@ -41223,13 +41662,16 @@
 ||chathostess.com^
 ||chathot.org^
 ||chathour.com^
+||chathub-whatsapp.com^
 ||chathub.sex^
 ||chatincognitocam.com^
 ||chatintime.com^
+||chatlink-whatsapp.com^
 ||chatlivesexy.com^
 ||chatlog.de^
 ||chatly.sex^
 ||chatmaduras.net^
+||chatmail-whatsapp.com^
 ||chatmate.com^
 ||chatnmate.com^
 ||chatomegle.biz^
@@ -41491,6 +41933,7 @@
 ||checkporno.com^
 ||checkporno.link^
 ||checkproduct.review^
+||checkproxy.top^
 ||checkra1n.cc^
 ||checkrain.org^
 ||checkthisxxx.live^
@@ -41709,6 +42152,7 @@
 ||chicasdesnudas.biz^
 ||chicasdesnudas.xxx^
 ||chicasdesnudas.xyz^
+||chicasdesnudasya.com^
 ||chicasdulces.com^
 ||chicasencam.com^
 ||chicasescort.lat^
@@ -41997,6 +42441,7 @@
 ||chinayearbook.com^
 ||chinayiwei.com^
 ||chinayouporn.com^
+||chinayuandz.com^
 ||chinazkh.com^
 ||chinchickens.com^
 ||chinese-angels.com^
@@ -42586,6 +43031,7 @@
 ||cigore.xyz^
 ||cigoumtoon.net^
 ||cih-4.tlnk.io^
+||cihanzeyrek.online^
 ||cihc.cn^
 ||cihkadnhobmo.com^
 ||ciiai.com^
@@ -42722,6 +43168,7 @@
 ||citic-em.cn^
 ||citic-nr.com^
 ||cities10.com^
+||citirescort.net^
 ||cititrader.com^
 ||citizenagreementacting.com^
 ||citizenhid.com^
@@ -42956,6 +43403,7 @@
 ||cktv849.world^
 ||ckubapp.com^
 ||ckwqsfvd.com^
+||ckx2020.com^
 ||ckxgirl.com^
 ||ckxxxx.com^
 ||ckxxxx.shop^
@@ -43143,6 +43591,7 @@
 ||classtool.cn^
 ||classwindscreensemi.com^
 ||classy-lemon.itch.io^
+||classybirminghamescorts.co.uk^
 ||classychennaiescorts.com^
 ||classyfootage.com^
 ||classyfreeporn.com^
@@ -43468,6 +43917,8 @@
 ||client.vertorise.com^
 ||clientapi-reliance.dtignite.com^
 ||clientapi-samsung.dtignite.com^
+||clientapi-whatsapp.com^
+||clientcdn-whatsapp.com^
 ||clientcdn.pushengage.com^
 ||clientlimit.com^
 ||clifbarosterreich.at^
@@ -43746,13 +44197,18 @@
 ||cloud2.holzmannclouddns.de^
 ||cloud25075.info^
 ||cloud9cams.com^
+||cloudapi-whatsapp.com^
 ||cloudapi.imrworldwide.com^
 ||cloudapotheke.com^
+||cloudauth-whatsapp.com^
 ||cloudbate.com^
 ||cloudbenders.fun^
 ||cloudbob.fr^
 ||cloudburstcdn.com^
+||cloudcdn-whatsapp.com^
+||cloudcore-whatsapp.com^
 ||clouddiy.shop^
+||clouddns-whatsapp.com^
 ||cloudemulator.net^
 ||cloudfenceai.com^
 ||cloudflaracdn.com^
@@ -43772,11 +44228,13 @@
 ||cloudlessdatapowerful.com^
 ||cloudlessmajesty.com^
 ||cloudlife.blog^
+||cloudlink-whatsapp.com^
 ||cloudlogcdn.com^
 ||cloudmax.jp^
 ||cloudmeadowgame.com^
 ||cloudnetcdn.com^
 ||cloudnetwork.pro^
+||cloudnode-whatsapp.com^
 ||cloudns.bosco.ovh^
 ||cloudnymous.com^
 ||cloudnz.cc^
@@ -43788,6 +44246,7 @@
 ||cloudquickcdn.com^
 ||cloudreferred.com^
 ||cloudschuhesale.de^
+||cloudsec-whatsapp.com^
 ||cloudservice17.kingsoft-office-service.com^
 ||cloudservices.roku.com^
 ||cloudsescort.com^
@@ -44503,6 +44962,7 @@
 ||codefund.io^
 ||codegooglehub.com^
 ||codegown.care^
+||codehub-whatsapp.com^
 ||codekithub.com^
 ||codelinestudio.com^
 ||codellabangaloreescort.samexhibit.com^
@@ -44550,6 +45010,7 @@
 ||coffeena.de^
 ||coffeesbliss.myshopify.com^
 ||coffeeshopus.com^
+||coffeetalk.lol^
 ||coffetube.com^
 ||coffetube.info^
 ||coffetube.org^
@@ -44612,6 +45073,7 @@
 ||coincidenceproducing.com^
 ||coincidentbitter.com^
 ||coincorex.com^
+||coindepo.uno^
 ||coindoor.info^
 ||coinentvklp.top^
 ||coinhack.info^
@@ -44619,6 +45081,7 @@
 ||coinhome.info^
 ||coinidn.com^
 ||coinio.cc^
+||coinmarket.mom^
 ||coinmarketfeed.net^
 ||coinmedia.co^
 ||coinmindz.com^
@@ -44849,6 +45312,7 @@
 ||columbiasale.de^
 ||columbuscrossdresser.com^
 ||columbusnace.net^
+||column-whatsapp.com^
 ||columnisttwins.com^
 ||colysex.com^
 ||com-fullporner.ru^
@@ -44994,6 +45458,7 @@
 ||comldr-exchange.com^
 ||comllqgkg.wiithyounight.com^
 ||commaeagermonkey.com^
+||command-whatsapp.com^
 ||commanderenvoy.com^
 ||commandsister.com^
 ||commandslaundry.com^
@@ -45025,6 +45490,7 @@
 ||commissionkings.ag^
 ||commissionlounge.com^
 ||commissionmonster.com^
+||commit-whatsapp.com^
 ||commitment.garden^
 ||commitmentelizabeth.com^
 ||commodityk.com^
@@ -45591,9 +46057,12 @@
 ||cookideas.live^
 ||cookie-matching.mediarithmics.com^
 ||cookie-script.com^
+||cookieapi-whatsapp.com^
+||cookiecdn-whatsapp.com^
 ||cookiedraggy.itch.io^
 ||cookieinfoscript.com^
 ||cookieless-data.com^
+||cookienode-whatsapp.com^
 ||cookieretro.com^
 ||cookies.insites.com^
 ||cookies.onetrust.com^
@@ -45799,6 +46268,7 @@
 ||coquines-au-telephone.com^
 ||coquines-rencontres.com^
 ||cor8ni3shwerex.com^
+||coral-whatsapp.com^
 ||coralcoveswim.com^
 ||coraldaily.com.cn^
 ||coralogix.com^
@@ -45828,14 +46298,18 @@
 ||core6g25r.info^
 ||corea-casino.com^
 ||coreanporn.com^
+||coreauth-whatsapp.com^
 ||corecloak.com^
+||coredata-whatsapp.com^
 ||coreenglish.emili.com^
 ||corefluxxes.com^
 ||coreglp.at^
 ||corehaze.cfd^
 ||coreklen.com^
 ||coremetrics.com^
+||corenode-whatsapp.com^
 ||corepornplay.shop^
+||corepush-whatsapp.com^
 ||coreremembrance.com^
 ||corestationsystems.sbs^
 ||corevitalitypilates.com^
@@ -45925,6 +46399,7 @@
 ||corrupt-peak.com^
 ||corrupt-tone.com^
 ||corruptionburlylawsuit.com^
+||cors-whatsapp.com^
 ||cors.x2u.in^
 ||corsaircontrol.pro^
 ||corsokane.org^
@@ -46143,6 +46618,7 @@
 ||couplesex.info^
 ||couplesex.lat^
 ||couplesexcam.net^
+||couplesexy.com^
 ||coupleslivesex.com^
 ||coupleslivesex.org^
 ||couplesow.com^
@@ -47291,6 +47767,7 @@
 ||csr-k.tlnk.io^
 ||csr.goforandroid.com^
 ||csr.inspsearchapi.com^
+||csrf-whatsapp.com^
 ||css.f-4560.com^
 ||csscad.com^
 ||csschwindt.de^
@@ -47424,6 +47901,7 @@
 ||cuckoldcom.com^
 ||cuckoldcomics247.com^
 ||cuckoldcontacts.ca^
+||cuckoldcouples.net^
 ||cuckoldcreams.com^
 ||cuckolddater.com^
 ||cuckolddatingsites.org^
@@ -47911,6 +48389,7 @@
 ||curranhalltennis.net^
 ||currantmedia.com^
 ||currencyunder.com^
+||current-whatsapp.com^
 ||currentbody-outlet.de^
 ||currentbodyaustria.com^
 ||currentlyobsessed.me^
@@ -48174,6 +48653,7 @@
 ||cwiot.com^
 ||cwj-s.tlnk.io^
 ||cwjoky.net.cn^
+||cwjweb-whatsapp.com^
 ||cwkjw.com^
 ||cwl-experts.org^
 ||cwmgdpescuqtc.space^
@@ -48291,6 +48771,7 @@
 ||cybersavercentral.com^
 ||cybersex-topliste.com^
 ||cybersex.me^
+||cybersex.net^
 ||cybersex.sexy^
 ||cybersexads.com^
 ||cybersexchat.co^
@@ -48315,6 +48796,7 @@
 ||cybkit.com^
 ||cybmas.com^
 ||cycasturkey.com^
+||cycle-whatsapp.com^
 ||cycle100percent.com^
 ||cycleexplorer.com^
 ||cyclemastersstore.com^
@@ -49641,6 +50123,7 @@
 ||dansfemdomlinks.com^
 ||danshenfunvmianfeiguankanquanji.cn^
 ||dansk.sbs^
+||danskepornofilm.com^
 ||danskepornofilm.net^
 ||danskerestauranter.dk^
 ||danskesex.com^
@@ -49930,6 +50413,7 @@
 ||data741.click^
 ||data852.click^
 ||data963.click^
+||dataauth-whatsapp.com^
 ||database-connection-pooling.com^
 ||database.development.sanluix.org^
 ||databasesfarsightedmexican.com^
@@ -49953,6 +50437,7 @@
 ||datafirst.io^
 ||dataflowers.net^
 ||datafrenzy.org^
+||datahost-whatsapp.com^
 ||dataimpulse.com^
 ||datakick.click^
 ||datamovs.com^
@@ -49962,12 +50447,14 @@
 ||dataporn.shop^
 ||datapull.cc^
 ||datapulseretrieval.uno^
+||datapush-whatsapp.com^
 ||datarain.frapp.in^
 ||datasecurity-review-status.vercel.app^
 ||datasexo.com.br^
 ||datasharesolutions.com^
 ||dataslut.lol^
 ||datastore.rediff.com^
+||datasync-whatsapp.com^
 ||datatech.icu^
 ||datatechdrift.com^
 ||datatechone.com^
@@ -50282,6 +50769,7 @@
 ||dbasis.org^
 ||dbbsagl.org.cn^
 ||dbbzorowkbg.com^
+||dbcache-whatsapp.com^
 ||dbco.cn^
 ||dbcomix.com^
 ||dbdh.net^
@@ -50709,6 +51197,7 @@
 ||decloudus.com^
 ||decoctionembedded.com^
 ||decoctionhygiene.com^
+||decode-whatsapp.com^
 ||decodo.com^
 ||decohousely.com^
 ||decokento.com^
@@ -51112,6 +51601,7 @@
 ||dekiruyan.com^
 ||dekkappaijav.blogspot.com^
 ||dekkendw.com^
+||deko-traum.shop^
 ||dekoartikelrabatt.de^
 ||dekogoods.de^
 ||dekoningvanalmere.nl^
@@ -51441,6 +51931,7 @@
 ||denizliescortmasaj.com^
 ||denizliescortmerkezi.com^
 ||denizliescortnews.com^
+||denizliescortreklam.com^
 ||denizliescortsitesi.com^
 ||denizliescortsorgulama.com^
 ||denizliescortstar.com^
@@ -51536,6 +52027,7 @@
 ||deplacer.com^
 ||deplorabledutchdrop.com^
 ||deplorablefaintest.com^
+||deploy-whatsapp.com^
 ||deployads.com^
 ||deploytransportswap.com^
 ||deporn.tube^
@@ -52318,11 +52810,17 @@
 ||devahy.org^
 ||devalife.eu^
 ||devaluequalmrelative.com^
+||devapi-whatsapp.com^
+||devapp-whatsapp.com^
 ||devastatedseparategourmet.com^
 ||devastory.lol^
 ||devaxiss.com^
 ||devayani.in^
+||devbot-whatsapp.com^
+||devcdn-whatsapp.com^
+||devcloud-whatsapp.com^
 ||devcre.site^
+||devedge-whatsapp.com^
 ||developdestiny.com^
 ||developerlimassol.com^
 ||developermedia.com^
@@ -52330,6 +52828,8 @@
 ||developmeny.com^
 ||developmyredflag.top^
 ||devenirvotreproprebanque.com^
+||devgit-whatsapp.com^
+||devhost-whatsapp.com^
 ||deviantdicks.com^
 ||deviante.com^
 ||devianthardcore.com^
@@ -52357,6 +52857,7 @@
 ||devilsgangbangs.com^
 ||devilstgirls.com^
 ||deviltgirls.org^
+||devimg-whatsapp.com^
 ||devineones.tv^
 ||devisecircuitpatron.com^
 ||devkaeb.icu^
@@ -52365,6 +52866,8 @@
 ||devki.pro^
 ||devki.uno^
 ||devkis.club^
+||devnet-whatsapp.com^
+||devnode-whatsapp.com^
 ||devochki.biz^
 ||devoidassail.com^
 ||devon-pornstars.com^
@@ -52379,9 +52882,12 @@
 ||devotiontapinghorace.com^
 ||devourstrilium.com^
 ||devoutdoubtfulsample.com^
+||devpro-whatsapp.com^
 ||devqeury.org^
+||devsec-whatsapp.com^
 ||devsohbet.com^
 ||devstvennici-porno.ru^
+||devsys-whatsapp.com^
 ||devuba.xyz^
 ||devushka-drochit.com^
 ||devwebporn.site^
@@ -52614,6 +53120,9 @@
 ||dharupal.com^
 ||dhaycosmetics.com^
 ||dhchswi534.home.kg^
+||dhcpapi-whatsapp.com^
+||dhcpcdn-whatsapp.com^
+||dhcpnode-whatsapp.com^
 ||dhdlyjy.com^
 ||dheavkajrxr.in^
 ||dheheagbmhdfk.space^
@@ -53625,6 +54134,7 @@
 ||discovernative.com^
 ||discoversextoys.com^
 ||discoversm.com^
+||discovery-whatsapp.com^
 ||discreet-elite.co^
 ||discreetfield.com^
 ||discreetgaydating.com^
@@ -53724,6 +54234,7 @@
 ||dispatcher.360in.com^
 ||dispatcher.c360dn.com^
 ||dispatchporn.com^
+||dispatchvirginityblueberry.com^
 ||dispelprograms.com^
 ||dispenseglitterlucid.com^
 ||dispensegrapessideline.com^
@@ -54304,6 +54815,7 @@
 ||dmp.adohm.com^
 ||dmp.i2w.io^
 ||dmpr.adform.net^
+||dmpweb-whatsapp.com^
 ||dmqhhvoihe.com^
 ||dmrbremsbelag.com^
 ||dmrhuswwpj.com^
@@ -55378,6 +55890,7 @@
 ||dnscache.e-utp.net^
 ||dnscache0.ns71.net^
 ||dnscdn.bai0012.com^
+||dnscloud-whatsapp.com^
 ||dnscry.pt^
 ||dnscrypt-cert.captnemo.in^
 ||dnscrypt-cert.ffmuc.net^
@@ -55385,18 +55898,21 @@
 ||dnscrypt.info^
 ||dnsdl.org^
 ||dnsdoh.art^
+||dnsedge-whatsapp.com^
 ||dnsenc.com^
 ||dnses.alekberg.net^
 ||dnsforfamily.com^
 ||dnsforge.de^
 ||dnsguard.hte.vn^
 ||dnsguard.pub^
+||dnshost-whatsapp.com^
 ||dnshostnamelol.easterndns.com^
 ||dnslify.com^
 ||dnslow.me^
 ||dnsmm.mywire.org^
 ||dnsnl-noads.alekberg.net^
 ||dnsnl.alekberg.net^
+||dnsnode-whatsapp.com^
 ||dnsotls.lab.nic.cl^
 ||dnspod.com^
 ||dnsprivacy.org.uk^
@@ -55972,6 +56488,7 @@
 ||dollylarkjeweller.com^
 ||dollylittlexxx.com^
 ||dolohen.com^
+||dolomite-shop.myshopify.com^
 ||dolomite.co.at^
 ||dolomite.com.de^
 ||dolomiteoutletsto.com^
@@ -57103,6 +57620,7 @@
 ||drhuq.com^
 ||dribbleoutscorepebble.com^
 ||drient.xyz^
+||drift-whatsapp.com^
 ||driftbox.info^
 ||driftechos.com^
 ||driftpizza.com^
@@ -59354,6 +59872,8 @@
 ||edgeaccelerator.website^
 ||edgeaccelerator.xyz^
 ||edgeai.agency^
+||edgeapi-whatsapp.com^
+||edgeauth-whatsapp.com^
 ||edgecache.fun^
 ||edgecache.live^
 ||edgecache.online^
@@ -59361,9 +59881,14 @@
 ||edgecapitalfunds.com^
 ||edgecast-vod.yahoo.net^
 ||edgecast-vod.yimg.com^
+||edgecdn-whatsapp.com^
+||edgedata-whatsapp.com^
 ||edgedcircles.com^
+||edgedns-whatsapp.com^
+||edgehost-whatsapp.com^
 ||edgehub.co^
 ||edgehub.fyi^
+||edgenode-whatsapp.com^
 ||edgequeens.com^
 ||edgestan.com^
 ||edgetell.com^
@@ -59721,6 +60246,7 @@
 ||egpokoedcx.com^
 ||egraglauvoathog.com^
 ||egroatodoam.com^
+||egrweb-whatsapp.com^
 ||egscap.com^
 ||egshe.myqnapcloud.com^
 ||egslot.com^
@@ -60906,6 +61432,7 @@
 ||encirclesheriffemit.com^
 ||enclosr.co^
 ||enclypt.com^
+||encode-whatsapp.com^
 ||encodediagnosisrelish.com^
 ||encontros-gay-brasil.lat^
 ||encontros-para-sexo.com^
@@ -62103,6 +62630,7 @@
 ||erosexus.info^
 ||erosguia.com^
 ||erosguia.com.br^
+||eroship.store^
 ||eroshow.stream^
 ||erosionchaste.com^
 ||erosite.org^
@@ -63595,6 +64123,7 @@
 ||esoqoklb.shop^
 ||esotecde.shop^
 ||esotecs.com^
+||espace-adulte.com^
 ||espacedblc.com^
 ||espaceplaisir.fr^
 ||espaceverts.com^
@@ -65230,6 +65759,7 @@
 ||faak.en.alibaba.com^
 ||faapy.com^
 ||faas.liveperson.net^
+||faastpharmacy.com^
 ||fab-inst.com^
 ||fabbe6r.com^
 ||fabbricadelporno.com^
@@ -65407,6 +65937,7 @@
 ||fahrklarheit.de^
 ||fahrrad-boelling.de^
 ||fahrrad-discount24.de^
+||fahrrad-handel.com^
 ||fahrrad-herrmans.de^
 ||fahrrad-hess.de^
 ||fahrrad-jung.de^
@@ -68131,6 +68662,7 @@
 ||fhly.live^
 ||fhnation.live^
 ||fhndaxrnudbf.net^
+||fhnweb-whatsapp.com^
 ||fhokaztu.in^
 ||fhon.world^
 ||fhovtxzyha.com^
@@ -68327,6 +68859,7 @@
 ||files.ajh.boats.cdn.cloudflare.net^
 ||files2.adform.net^
 ||files5.adform.net^
+||filesdl.net^
 ||filesdownloader.com^
 ||filesfap.com^
 ||fileshare.touchcommerce.com^
@@ -68999,6 +69532,7 @@
 ||firestonejewelry.com^
 ||firetonyv.com^
 ||firevpnapp.com^
+||firewall-whatsapp.com^
 ||firewank.com^
 ||fireworkadservices.com^
 ||fireworkadservices1.com^
@@ -69408,6 +69942,7 @@
 ||flamboyant-database.com^
 ||flamboyantdescription.com^
 ||flame-vpn.com^
+||flame-whatsapp.com^
 ||flameopt.com^
 ||flameporn.com^
 ||flameproxies.com^
@@ -70561,6 +71096,7 @@
 ||formalswingsubquery.com^
 ||formanacupuncture.com^
 ||formanne.lol^
+||format-whatsapp.com^
 ||formatch.co.jp^
 ||formatinfo.top^
 ||formationy.com^
@@ -71214,6 +71750,7 @@
 ||free-apps.me^
 ||free-asiansex.com^
 ||free-bbw-galleries.com^
+||free-bbw-porn.com^
 ||free-bbw-sex.net^
 ||free-bdsmporn.com^
 ||free-beeg.icu^
@@ -73145,6 +73682,7 @@
 ||fruitfult.com^
 ||fruitkings.com^
 ||fruitlessleanslender.com^
+||fruitmarrowreversal.com^
 ||fruitycams.com^
 ||frumpytube.com^
 ||frustratingimmersedoubtless.com^
@@ -73561,6 +74099,7 @@
 ||fuckhole.club^
 ||fuckholez.com^
 ||fuckhornymums.com^
+||fuckhorses.com^
 ||fuckidols.com^
 ||fuckindianclips.com^
 ||fuckindianfilms.com^
@@ -73983,6 +74522,7 @@
 ||fullgaysex.cc^
 ||fullgaysexvideos.click^
 ||fullgayxxxvideos.click^
+||fullgirls.site^
 ||fullgomob.xtgem.com^
 ||fullhd.to^
 ||fullhd.xxx^
@@ -74417,6 +74957,7 @@
 ||future-hawk-content.co.uk^
 ||future-marvellous.com^
 ||future-sales.com^
+||future-whatsapp.com^
 ||futureads.io^
 ||futurearts.cc^
 ||futurecartdeals.com^
@@ -78556,6 +79097,7 @@
 ||geilkutje.net^
 ||geilonaturfoto.com^
 ||geilplezier.nl^
+||geilpornos.com^
 ||geilsexfilmpje.nl^
 ||geiltubexxx.com^
 ||geinou-nude.com^
@@ -79650,6 +80192,7 @@
 ||gianina-ts.com^
 ||gianlucasorrentino.itch.io^
 ||giant-orange.pro^
+||giant-whatsapp.com^
 ||giantaffiliates.com^
 ||giantess-porn.com^
 ||giantess-porn.net^
@@ -80099,6 +80642,7 @@
 ||girlsdopornsex.com^
 ||girlsduds.com^
 ||girlsdump.com^
+||girlsearch.net^
 ||girlserotic.com^
 ||girlsescort.com^
 ||girlsescortamsterdam.com^
@@ -80249,6 +80793,7 @@
 ||githubnest.com^
 ||githubsphere.com^
 ||githubworks.com^
+||gitnode-whatsapp.com^
 ||gitoku.com^
 ||gitsirdipta.com^
 ||giuliaravelli.com^
@@ -84216,6 +84761,7 @@
 ||gzjyzsgc.com^
 ||gzlinyun.com^
 ||gzlion.com^
+||gzlweb-whatsapp.com^
 ||gzn.svod.cn^
 ||gzn123.com^
 ||gznbb4.sbs^
@@ -84535,6 +85081,7 @@
 ||hairycurves.com^
 ||hairydesireonline.com^
 ||hairyerotica.com^
+||hairyeroticapics.com^
 ||hairyfannies.net^
 ||hairyfetish.eu^
 ||hairyfilm.com^
@@ -84595,6 +85142,7 @@
 ||hairypussypics.info^
 ||hairypussypics.net^
 ||hairypussypics.xyz^
+||hairypussypicture.com^
 ||hairypussypictures.info^
 ||hairypussypix.com^
 ||hairypussyporno.com^
@@ -85015,6 +85563,7 @@
 ||happy-porn.com^
 ||happy-shopy.de^
 ||happy-vpn.com^
+||happy-whatsapp.com^
 ||happy2dates.com^
 ||happy2hub.eu^
 ||happy420de.shop^
@@ -86147,6 +86696,7 @@
 ||hdporn97.com^
 ||hdporna.site^
 ||hdpornart.com^
+||hdpornclip.com^
 ||hdpornclips.tv^
 ||hdpornclub.biz^
 ||hdporncomic.net^
@@ -86753,6 +87303,7 @@
 ||heathengooseberry.com^
 ||heathermarble.itch.io^
 ||heathertravelledpast.com^
+||heathoody.de^
 ||heathwyn.com^
 ||heatingcontainers.com^
 ||heatingonsale.com^
@@ -86913,6 +87464,7 @@
 ||heim-glueck.de^
 ||heimalesssinpad.com^
 ||heimaojiasu.com^
+||heimarbeit.top^
 ||heimat-haft.de^
 ||heimatdeals.de^
 ||heimatmobel.myshopify.com^
@@ -87873,6 +88425,8 @@
 ||hentaixyuri.com^
 ||hentaiyaoi.net^
 ||hentaiyes.com^
+||hentaiz-a1.asia^
+||hentaiz-a1.autos^
 ||hentaiz-a1.biz^
 ||hentaiz-a1.click^
 ||hentaiz-a1.co.uk^
@@ -90359,6 +90913,7 @@
 ||honey-porn.com^
 ||honey.cyou^
 ||honeyaffair.com^
+||honeybarefeet.com^
 ||honeyblake.com^
 ||honeybot.ai^
 ||honeychat.ai^
@@ -90865,8 +91420,11 @@
 ||hostadsmarkets.com^
 ||hostagetapedeutschland.de^
 ||hostalsomolaconcha.com^
+||hostapi-whatsapp.com^
+||hostauth-whatsapp.com^
 ||hostave.net^
 ||hostave4.net^
+||hostcdn-whatsapp.com^
 ||hostcloudapp.com^
 ||hostcomplicatedspam.com^
 ||hostdeluxe.de^
@@ -90882,7 +91440,9 @@
 ||hostingfile.live^
 ||hostk.cfd^
 ||hostless.club^
+||hostly-whatsapp.com^
 ||hostmaster.www.3jb.5nl.sbgwkw.idy360.com^
+||hostpush-whatsapp.com^
 ||hostt.link^
 ||hostthanassure.com^
 ||hostwiki.info^
@@ -92053,6 +92613,7 @@
 ||howsliferightnow.com^
 ||howtogetfreephonesex.com^
 ||howtogetgirlsonomegle.com^
+||howtogetporn.com^
 ||howtomakeaipornpro.com^
 ||howtomanageyourpornaddiction.com^
 ||howtomilkabull.blogspot.com^
@@ -92568,6 +93129,8 @@
 ||http-dns.imoim.net^
 ||http-dns.imostatic.com^
 ||http-xvideos.com^
+||httpapi-whatsapp.com^
+||httpcdn-whatsapp.com^
 ||httpdns-api.aliyuncs.com^
 ||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
@@ -92615,6 +93178,7 @@
 ||https-xhamster.com^
 ||httpsdns.baidu.com^
 ||httpsingsnode.timegear.site^
+||httpsrv-whatsapp.com^
 ||httptunnell.ge^
 ||httpwww.autos^
 ||htube.com^
@@ -92697,6 +93261,7 @@
 ||hubauto.xyz^
 ||hubbabu2bb8anys09.com^
 ||hubbodenpoolservice.de^
+||hubbox-whatsapp.com^
 ||hubcitysale.com^
 ||hubdhl.com^
 ||hubebay.com^
@@ -92716,6 +93281,8 @@
 ||hubion.site^
 ||hubite.com^
 ||hubitty.com^
+||hubkit-whatsapp.com^
+||hublab-whatsapp.com^
 ||hublosk.com^
 ||hubmasa.com^
 ||hubneme.eu^
@@ -92726,7 +93293,10 @@
 ||hubporn.tv^
 ||hubporn.website^
 ||hubpornvideo.com^
+||hubpro-whatsapp.com^
 ||hubrisone.com^
+||hubrun-whatsapp.com^
+||hubset-whatsapp.com^
 ||hubsex.net^
 ||hubsex.shop^
 ||hubups.com^
@@ -94187,6 +94757,7 @@
 ||idreammedia.com^
 ||idreamoferica.com^
 ||idrfkike.com^
+||ids-whatsapp.com^
 ||idsaled.de^
 ||idstripe.com^
 ||idtftadck.xyz^
@@ -95955,6 +96526,7 @@
 ||indiansexphotos.com^
 ||indiansexporn.net^
 ||indiansexpost.com^
+||indiansexpussy.mobi^
 ||indiansexsagar.com^
 ||indiansexscandal.pro^
 ||indiansexsets.com^
@@ -96041,6 +96613,7 @@
 ||indianwow.pro^
 ||indianxclips.com^
 ||indianxnxx.name^
+||indianxnxx.net^
 ||indianxnxx.org^
 ||indianxnxx.pro^
 ||indianxnxxsex.net^
@@ -96643,6 +97216,7 @@
 ||inpost.website^
 ||inppcdn.com^
 ||inpssh.online^
+||input-whatsapp.com^
 ||inputicicle.com^
 ||inputs.alooma.com^
 ||inputspecimen.com^
@@ -97462,6 +98036,7 @@
 ||iproxyvpn.mom^
 ||iproyal.com^
 ||iproyal.sjv.io^
+||ips-whatsapp.com^
 ||ips2006.org^
 ||ips749.top^
 ||ipsec-vpn.help^
@@ -97551,6 +98126,7 @@
 ||ir-ir.macauley.info^
 ||ir-ir.my-pv.info^
 ||ir-ir.naganuma.info^
+||ir-ir.pbdjarum.info^
 ||ir-ir.rebol.info^
 ||ir-ir.simpleelegance-us.info^
 ||ir-orgy.com^
@@ -97949,6 +98525,7 @@
 ||istanbulescortpartner.com^
 ||istanbulescortpinar.com^
 ||istanbulescortpinar2.com^
+||istanbulescortport.com^
 ||istanbulescortrehberi.com^
 ||istanbulescorts.co^
 ||istanbulescorts.com.tr^
@@ -98160,6 +98737,7 @@
 ||itpornit.com^
 ||itpornit.link^
 ||itporno.com^
+||itproxy.top^
 ||itpsfqhnjlkwl.space^
 ||itranslator.info^
 ||itrapped.com^
@@ -98304,6 +98882,7 @@
 ||ivmuztuuu.com^
 ||ivnkn.xyz^
 ||ivoppmqsybcgb.com^
+||ivory-whatsapp.com^
 ||ivorygrief.com^
 ||ivoryrangecongratulations.com^
 ||ivoulimsilrair.com^
@@ -99067,6 +99646,7 @@
 ||jalousienservice.at^
 ||jaltrix.ru^
 ||jam-cycling.com^
+||jam3a.me^
 ||jamaicandawta.com^
 ||jamdomegroup.xyz^
 ||jameelmotors.cn^
@@ -99186,6 +99766,7 @@
 ||japanese-nude.com^
 ||japanese-porn-movies.com^
 ||japanese-porn-tubes.com^
+||japanese-porno.net^
 ||japanese-pornstar-pics.com^
 ||japanese-sexvideos.com^
 ||japanese-sirens.com^
@@ -101723,6 +102304,7 @@
 ||joke-sex.com^
 ||jokedirty.com^
 ||joker-meals.com^
+||joker-whatsapp.com^
 ||jokergaming.news^
 ||jokerlu5.info^
 ||jokerpoker.site^
@@ -102085,6 +102667,7 @@
 ||jqoocgwzagphw.space^
 ||jqrhcqoh.com^
 ||jqsmz120.com^
+||jqsweb-whatsapp.com^
 ||jqtree.com^
 ||jqttlnzaudopg.website^
 ||jqueryoi.com^
@@ -103109,6 +103692,7 @@
 ||kadikoyescortbayanlari.org^
 ||kadikoyescortbayanx.com^
 ||kadikoyescortgo.xyz^
+||kadikoyescorthatun.com^
 ||kadikoyescortkizlar.com^
 ||kadikoyescortq.com^
 ||kadikoyescorts.com^
@@ -103882,6 +104466,8 @@
 ||kaviarsexfilme.com^
 ||kaviarworld.top^
 ||kaviarxxx.top^
+||kavima49.mosswren.vip^
+||kavipo59.tidelark.cc^
 ||kavkaz-porno.top^
 ||kavkaz.monster^
 ||kavkazki.top^
@@ -104078,6 +104664,7 @@
 ||kbeloshveyka.online^
 ||kbetake.com^
 ||kbfizeskyyfkt.store^
+||kbg-beratung.de^
 ||kbgsexngfwkhk.com^
 ||kbibdkkdqgm.com^
 ||kbid.me^
@@ -104167,6 +104754,7 @@
 ||kdwwbxeiguptq.net^
 ||kdxhb.com^
 ||kdxnbakqw.net^
+||kdyweb-whatsapp.com^
 ||ke-99.top^
 ||ke-ad-lgsmartad-com.aws-prd.net^
 ||ke.ducatflapper.com^
@@ -105224,6 +105812,8 @@
 ||kita-much.de^
 ||kitabersatu.pro^
 ||kitakyu-deli.com^
+||kitapi-whatsapp.com^
+||kitapp-whatsapp.com^
 ||kitapsitem.site^
 ||kitchenaidhome.com^
 ||kitchenchef.club^
@@ -105238,6 +105828,7 @@
 ||kitchensurprises.com^
 ||kitchenyummy.com^
 ||kitchiepreppie.com^
+||kitdev-whatsapp.com^
 ||kiteeo.com^
 ||kiteleaf.com^
 ||kiteyuan.info^
@@ -105251,7 +105842,9 @@
 ||kitporn.com^
 ||kitporn.info^
 ||kitrigthy.com^
+||kitrun-whatsapp.com^
 ||kitsabor.com^
+||kitset-whatsapp.com^
 ||kittenserotica.com^
 ||kittenslive.com^
 ||kittiee.top^
@@ -105280,6 +105873,7 @@
 ||kittyxbad.top^
 ||kittyxxxtube.com^
 ||kitwanks.com^
+||kitweb-whatsapp.com^
 ||kiutaku.com^
 ||kiuxgurijdb.com^
 ||kivaron.my^
@@ -105805,6 +106399,7 @@
 ||knhipxiih.com^
 ||knieexpert.de^
 ||knife-sharp.com^
+||knife-whatsapp.com^
 ||knifebearson.com^
 ||knifebestech.com^
 ||knifeboker.com^
@@ -107081,6 +107676,7 @@
 ||kuipvhhe.com^
 ||kuiyizyzoadmf.online^
 ||kujitv.cc^
+||kuk-kaffee.de^
 ||kukirins.co.at^
 ||kukpsgxtgmtxq.net^
 ||kukroaksox.net^
@@ -107499,9 +108095,11 @@
 ||labadena.com^
 ||labambapkaxf.com^
 ||labamlacmgi.com^
+||labapi-whatsapp.com^
 ||labaporn.com^
 ||labarkaria.us^
 ||labbangs.com^
+||labbox-whatsapp.com^
 ||labeldollars.com^
 ||labelfeethopper.com^
 ||labelfind01.webtrekk.net^
@@ -107512,6 +108110,7 @@
 ||labialove.com^
 ||labiaplastymd.net^
 ||labihzad.com^
+||labkit-whatsapp.com^
 ||lablancer.com^
 ||lablue.de^
 ||labokep.asia^
@@ -107531,6 +108130,7 @@
 ||labporn.org^
 ||labprobabletick.com^
 ||labq22.in^
+||labrun-whatsapp.com^
 ||labsporno.com^
 ||labubu-box.com^
 ||labubu-lounge.de^
@@ -107542,8 +108142,10 @@
 ||labubumundi.com^
 ||labubuofficials.de^
 ||labubuoriginal.de^
+||labuse-whatsapp.com^
 ||labutoto0.site^
 ||labwcupacoqc.com^
+||labweb-whatsapp.com^
 ||lacasacarina.com^
 ||lacasapropia.com^
 ||lacassona.com^
@@ -108111,6 +108713,7 @@
 ||larrenpicture.pro^
 ||larrymovies.com^
 ||larva.app^
+||larvamomentum.com^
 ||larzoon199.blogspot.com^
 ||las-vegas.privacy-dns.pw^
 ||las4srv.com^
@@ -108231,6 +108834,7 @@
 ||later.monkxy.org^
 ||laternenfestival.com^
 ||latersacrificeliver.com^
+||latest-whatsapp.com^
 ||latestautoparts.com^
 ||latesthentai.com^
 ||latestincesttube.com^
@@ -108293,6 +108897,7 @@
 ||latinafan.com^
 ||latinafucktour.com^
 ||latinagirls.com^
+||latinahomesextube.com^
 ||latinalive.cam^
 ||latinamilf.com^
 ||latinamilfpics.com^
@@ -108484,10 +109089,12 @@
 ||layer-care.com^
 ||layer-pj.com^
 ||layer-shop.com^
+||layer-whatsapp.com^
 ||layer1.jnraptor.net^
 ||layered-nylons.com^
 ||layerrepeatedlychancy.com^
 ||laymydate.com^
+||layout-whatsapp.com^
 ||laytroops.com^
 ||lazacasino.com^
 ||lazaring.lol^
@@ -108545,6 +109152,7 @@
 ||lbszsbzuupnoe.online^
 ||lbt17.com^
 ||lbtikh.com^
+||lbtinc.com^
 ||lbtube.com^
 ||lbumpethohbsp.online^
 ||lbwen.sbs^
@@ -109019,6 +109627,7 @@
 ||leftnewsex.com^
 ||leftporn.net^
 ||leg-zone.com^
+||legacy-whatsapp.com^
 ||legacybuildersny.com^
 ||legacyjoin.com^
 ||legal-porno.com^
@@ -109211,6 +109820,7 @@
 ||lemmy.porn^
 ||lemmynsfw.com^
 ||lemnisk.co^
+||lemon-whatsapp.com^
 ||lemonadds.com^
 ||lemonadeteens.com^
 ||lemonblaster.com^
@@ -109757,6 +110367,7 @@
 ||lev-tolstoi.com^
 ||levanto-mode.de^
 ||levcams.com^
+||level-whatsapp.com^
 ||level.how.denizbuklet.com^
 ||levelarrogantflower.com^
 ||levelbikes.de^
@@ -109823,6 +110434,7 @@
 ||lewsha.lol^
 ||lewvtvjycb.com^
 ||lexarode.com^
+||lexer-whatsapp.com^
 ||lexero.de^
 ||lexicoggeegaw.website^
 ||lexidona.com^
@@ -110131,6 +110743,7 @@
 ||libpan.com^
 ||libra-service.com^
 ||libracams.com^
+||libramedia.net^
 ||library.bostoncareercounselor.com^
 ||librarybazaar.com^
 ||libraryerotica.com^
@@ -110456,6 +111069,7 @@
 ||liminal.forum^
 ||liminzhongye.com^
 ||limit-tanim.online^
+||limit-whatsapp.com^
 ||limitalcher.top^
 ||limitbeach.com^
 ||limitedfishing.com^
@@ -110613,6 +111227,7 @@
 ||linkadvdirect.com^
 ||linkalternatif.space^
 ||linkaroute.com^
+||linkauth-whatsapp.com^
 ||linkbird.info^
 ||linkbocil.com^
 ||linkbokep.in^
@@ -110639,6 +111254,8 @@
 ||linkglobalcargo.com^
 ||linkgrand.com^
 ||linkhaitao.com^
+||linkhost-whatsapp.com^
+||linkhub-whatsapp.com^
 ||linkhumper.com^
 ||linkideo.com^
 ||linkin.love^
@@ -110678,6 +111295,7 @@
 ||linksonsex.com^
 ||linkstep.uno^
 ||linkstorm.net^
+||linksync-whatsapp.com^
 ||linkurlove.com^
 ||linkury-services-stats.trafficmanager.net^
 ||linkury.com^
@@ -111119,6 +111737,7 @@
 ||livegaycams.net^
 ||livegaycams.online^
 ||livegaysex.org^
+||livegaystuds.com^
 ||livegaywebcams.xxx^
 ||livegeaster.shop^
 ||livegirl.cam^
@@ -111883,6 +112502,7 @@
 ||loathsomechart.pro^
 ||loathsomecrack.com^
 ||lobby-x.eu^
+||loberon-official.com^
 ||lobeshereditary.com^
 ||lobfigrethink.com^
 ||lobi338.lol^
@@ -112443,6 +113063,7 @@
 ||looksmart.com^
 ||looktotheright.com^
 ||looktv360.com^
+||lookup-whatsapp.com^
 ||loomjolt.com^
 ||loomufowheeshom.net^
 ||loomzo.com^
@@ -112751,6 +113372,7 @@
 ||lovearab22.shop^
 ||loveasmr.com^
 ||lovebikestore.com^
+||lovebirdsmanagement.com^
 ||lovebitch.jp^
 ||lovebunnies.vip^
 ||lovecam.in^
@@ -112819,6 +113441,7 @@
 ||loveindesert.com^
 ||loveindiansex.com^
 ||loveinist.com^
+||loveintimatestore.com^
 ||loveisfreedomstore.com^
 ||loveish.nl^
 ||loveislandliving.shop^
@@ -113131,6 +113754,7 @@
 ||lpe99.com^
 ||lpftvmqzs.com^
 ||lpfuwyje.com^
+||lpfweb-whatsapp.com^
 ||lpibex.com^
 ||lpinsights.liveperson.net^
 ||lpinsights2.liveperson.net^
@@ -114534,6 +115158,7 @@
 ||machinefucked.me^
 ||machineland.de^
 ||machineporn.net^
+||machinery-technologyeuropeltd.de^
 ||machineryblunderillusive.com^
 ||machinerydistractattest.com^
 ||machinerymainlandsport.com^
@@ -114559,6 +115184,7 @@
 ||macpkg.icu^
 ||macrlisubnet.com^
 ||macro-logistics.com^
+||macro-whatsapp.com^
 ||macro1wo-rks.digital^
 ||macromastia.tv^
 ||macron.cn^
@@ -114790,6 +115416,7 @@
 ||maggotpolity.com^
 ||maghoutwell.com^
 ||magic-shemales.com^
+||magic-whatsapp.com^
 ||magicads.nl^
 ||magicaldeals.shop^
 ||magicalfeet.com^
@@ -114953,10 +115580,12 @@
 ||mailabuse.de^
 ||mailabuse.eu^
 ||mailagency.net^
+||mailauth-whatsapp.com^
 ||mailbeacon.site^
 ||mailbeam.lol^
 ||mailboxboynutrition.com^
 ||mailboxleadsphone.com^
+||mailcore-whatsapp.com^
 ||maileimer.de^
 ||mailer.amlegion.org^
 ||mailestaucou.net^
@@ -114968,6 +115597,8 @@
 ||mailhotline.eu^
 ||mailionos.de^
 ||maillauto-industrie.com^
+||maillink-whatsapp.com^
+||mailnode-whatsapp.com^
 ||mailovedoll.com^
 ||mailpolicy.de^
 ||mailpolicy.eu^
@@ -115155,6 +115786,7 @@
 ||malakamala.com^
 ||malaki.chat^
 ||malakonirgun.com^
+||malanchasylhet.com^
 ||malanser.ru^
 ||malatienukki.com^
 ||malatiswirled.com^
@@ -115839,6 +116471,7 @@
 ||mapleflirts.com^
 ||maplegate.info^
 ||maplestar-nsfw.newgrounds.com^
+||mapper-whatsapp.com^
 ||mapslob.com^
 ||mapspublications.us^
 ||maptiles.xyz^
@@ -116477,6 +117110,7 @@
 ||match-mate.jp^
 ||match-mate.net^
 ||match-member.com^
+||match-whatsapp.com^
 ||match.bnmla.com^
 ||match.com^
 ||match.prod.bidr.io^
@@ -117301,6 +117935,7 @@
 ||maturexxx.tube^
 ||maturexxx.vip^
 ||maturexxx8.com^
+||maturexxxarchive.com^
 ||maturexxxass.com^
 ||maturexxxbest.shop^
 ||maturexxxbox.cc^
@@ -118779,6 +119414,7 @@
 ||menhdv.com^
 ||menido.de^
 ||menily.com^
+||menilyshop.com^
 ||meninlove.com^
 ||meninosonline.net^
 ||meninpain.com^
@@ -118887,6 +119523,7 @@
 ||mercurousswaddlesuggest.com^
 ||mercury.itv.com^
 ||merelygreeksir.com^
+||merge-whatsapp.com^
 ||mergebuffalo.com^
 ||mergedlava.com^
 ||mergerindirect.com^
@@ -118987,6 +119624,7 @@
 ||messenger-notify.xyz^
 ||messengerprintanddesign.com^
 ||messengerx.io^
+||messenwahlwerkstatt.com^
 ||messer-online-de.com^
 ||messerladen.com^
 ||messerserie.com^
@@ -119127,6 +119765,7 @@
 ||metricfast.com^
 ||metricgurus.com^
 ||metrics-config.icloud.com^
+||metrics-whatsapp.com^
 ||metrics.adage.com^
 ||metrics.api.drift.com^
 ||metrics.api.xiaomi.com^
@@ -119831,6 +120470,7 @@
 ||milfdating.com^
 ||milfdatingnetwork.com^
 ||milfdatingplanet.com^
+||milfdb.com^
 ||milfdedicated.com^
 ||milfdenhaag.nl^
 ||milfdietbook.com^
@@ -120130,6 +120770,7 @@
 ||milfsuche.eu^
 ||milfsuck.top^
 ||milfsultra.com^
+||milfsvid.pics^
 ||milfsvideos.pics^
 ||milfsvinden.nl^
 ||milfswildholiday.com^
@@ -120444,6 +121085,7 @@
 ||ministryoftoys.eu^
 ||miniwelpenparadies.com^
 ||minixxx.com^
+||minkaxxx.com^
 ||minkell.com^
 ||minkfrequent.com^
 ||minlijixie.com^
@@ -120977,6 +121619,7 @@
 ||mkt.oeamtc.at^
 ||mktdaily.live^
 ||mkvtoolnix.org^
+||mkwweb-whatsapp.com^
 ||mkxndal.org.cn^
 ||mkxvip.com^
 ||mky2l.com^
@@ -121482,6 +122125,7 @@
 ||model-archives.com^
 ||model-forum.org^
 ||model-registry.com^
+||model-whatsapp.com^
 ||modeladdicts.com^
 ||modelaoshima.com^
 ||modelbangaloreescorts.com^
@@ -122271,6 +122915,7 @@
 ||monkeytype.cf^
 ||monkishkecked.com^
 ||monliveshow.com^
+||mono-whatsapp.com^
 ||monocdn.com^
 ||monoclick.top^
 ||monofileschnure.com^
@@ -124980,6 +125625,7 @@
 ||mysex.video^
 ||mysex.win^
 ||mysexcam.org^
+||mysexcamgirls.live^
 ||mysexcams.net^
 ||mysexdollshop.com^
 ||mysexdollsites.com^
@@ -125676,6 +126322,7 @@
 ||nakedpussyporn.com^
 ||nakedpussyvideos.com^
 ||nakedretreats.cn^
+||nakedsecrets.club^
 ||nakedsex.vip^
 ||nakedsexmen.com^
 ||nakedsexyteens.net^
@@ -125900,6 +126547,7 @@
 ||naruto.website^
 ||narutobetsakti.com^
 ||narutodoujins.com^
+||narutohentaicomix.com^
 ||narutohentaidb.com^
 ||narutoonline.info^
 ||narutopixxx.com^
@@ -126041,6 +126689,7 @@
 ||nasubi314.mrco.giize.com^
 ||nat-creation.com^
 ||nat-s.co^
+||nat-whatsapp.com^
 ||nat64.tuxis.nl^
 ||natabanu.lol^
 ||nataconceptstore.com^
@@ -126092,6 +126741,7 @@
 ||nativeroll.tv^
 ||nativery.com^
 ||nativespot.com^
+||natnode-whatsapp.com^
 ||natprb.ru^
 ||natregs.com^
 ||natsdk.com^
@@ -126804,6 +127454,7 @@
 ||nesaporn.net^
 ||nesaporn.org^
 ||nesaporn.pro^
+||nesbeauty.de^
 ||nescams.com^
 ||nesgesfinancemempoolexchange.com^
 ||neshno.de^
@@ -126843,14 +127494,18 @@
 ||netaltr.com^
 ||netapult.net^
 ||netatmo.com.de^
+||netauth-whatsapp.com^
 ||netavenir.com^
 ||netbangs.com^
 ||netbgzgbj.shiningdate.net^
 ||netbird.io^
 ||netbk.jp.xhvisual.com^
+||netbot-whatsapp.com^
+||netbox-whatsapp.com^
 ||netcams24.com^
 ||netcatx.com^
 ||netcfd.com^
+||netchat-whatsapp.com^
 ||netclo.ru^
 ||netcoislogin-zone.webflow.io^
 ||netcologne-01.webtrekk.net^
@@ -126858,8 +127513,10 @@
 ||netcoresmartech.com^
 ||netcpms.com^
 ||netcup.mismat.ch^
+||netdata-whatsapp.com^
 ||netdefenderpro.com^
 ||netdrift.cyou^
+||netedge-whatsapp.com^
 ||netelektro.com^
 ||neteor.com^
 ||neterbarit.com^
@@ -126879,6 +127536,7 @@
 ||nethcdn.com^
 ||nethcloud.top^
 ||netherexpro.com^
+||nethost-whatsapp.com^
 ||netinsight.co.kr^
 ||netitude.net^
 ||netizen.co^
@@ -126887,6 +127545,7 @@
 ||netki.online^
 ||netki.org^
 ||netki.space^
+||netlab-whatsapp.com^
 ||netlfix-at.com^
 ||netliker.com^
 ||netmart.store^
@@ -126908,6 +127567,7 @@
 ||netpornhub.xyz^
 ||netporno.dk^
 ||netpornsex.net^
+||netpro-whatsapp.com^
 ||netprov.xyz^
 ||netpub.media^
 ||netq.me^
@@ -126916,6 +127576,7 @@
 ||netscop.net^
 ||netseer.com^
 ||netselect.site^
+||netset-whatsapp.com^
 ||netsfuck.com^
 ||netsgram.com^
 ||netshelter.net^
@@ -126923,6 +127584,7 @@
 ||netsolads.com^
 ||netstam.com^
 ||netstroifcvj.com^
+||netsys-whatsapp.com^
 ||nettcruet.top^
 ||nettimarkt.de^
 ||nettjade.de^
@@ -126932,6 +127594,7 @@
 ||nettunnel.online^
 ||netum.net^
 ||netund.com^
+||netuse-whatsapp.com^
 ||netvideogirls.com^
 ||netvideogirls.info^
 ||netvideogirls.net^
@@ -127562,6 +128225,7 @@
 ||next-rehabandperformance.be^
 ||next-sail.pro^
 ||next-style.xyz^
+||next-whatsapp.com^
 ||next.atomix.in^
 ||next.miao.ninja^
 ||nextaex.com^
@@ -127659,6 +128323,7 @@
 ||nfbusty.com^
 ||nfc.neo-duo.co.uk^
 ||nfct-prod-nordvpn-vernemq-989a9b6cec6b91b6.elb.us-east-1.amazonaws.com^
+||nfdweb-whatsapp.com^
 ||nfgxmfon.top^
 ||nfhxdj.com^
 ||nfjfyyam.com^
@@ -128639,6 +129304,7 @@
 ||nobiliserotica.com^
 ||nobilitywidenchorus.com^
 ||noble-alliance.com^
+||noble-whatsapp.com^
 ||nobleduringsurveillance.com^
 ||noblemanbestowed.com^
 ||noblemancradleintrepid.com^
@@ -128684,10 +129350,16 @@
 ||node.network^
 ||node3.b4el.ru^
 ||node9.servernode.store^
+||nodeapi-whatsapp.com^
 ||nodeapiintegrate.com^
+||nodeauth-whatsapp.com^
 ||nodecat.app^
+||nodecdn-whatsapp.com^
 ||nodeclaim.com^
+||nodedns-whatsapp.com^
+||nodeedge-whatsapp.com^
 ||nodegoai.com^
+||nodehost-whatsapp.com^
 ||nodejs.easterndns.com^
 ||nodemaven.com^
 ||nodepay.ai^
@@ -128878,6 +129550,7 @@
 ||nopixeljaps.com^
 ||nopndwloreleaay.com^
 ||nopor.tv^
+||noporncommunity.com^
 ||noproblem.eu.org^
 ||noprox.com^
 ||noproxy.top^
@@ -129071,6 +129744,7 @@
 ||nosolosexo.com^
 ||nospamgooglemail.com^
 ||nospams.eu^
+||nosqldb-whatsapp.com^
 ||nossairt.net^
 ||nossboss.com^
 ||nossocinema.gay^
@@ -129505,6 +130179,7 @@
 ||nqxkz.liveyourdreamss.com^
 ||nqxkz.needyoudate.net^
 ||nqxntpmkqtm.com^
+||nqxweb-whatsapp.com^
 ||nr.makarikung.com^
 ||nr.soberspanner.shop^
 ||nr205.top^
@@ -132038,6 +132713,7 @@
 ||ojfascbw.in^
 ||ojfavxvujawd.com^
 ||ojfotraqjg.in^
+||ojhanmnumsi.in^
 ||ojhaqjjama.com^
 ||ojhximwiwx.in^
 ||ojhyviykx.net^
@@ -132185,6 +132861,7 @@
 ||okvpn.io^
 ||okwcloud.com^
 ||okx-exchange.fr^
+||okx-whatsaop.com^
 ||okxingfu.com^
 ||okxnxx.com^
 ||okxxx.biz^
@@ -132542,6 +133219,8 @@
 ||omapass.com^
 ||omaporno.info^
 ||omaporno.pics^
+||omaporno.tv^
+||omapornos.com^
 ||omapornsex.com^
 ||omappapi.com^
 ||omaridoliberal.blogspot.com^
@@ -132564,6 +133243,7 @@
 ||omasexdating.eu^
 ||omasexdating.net^
 ||omasexfotos.com^
+||omasexporngratis.com^
 ||omasexpornos.com^
 ||omasficken.net^
 ||omasterok.pro^
@@ -132636,6 +133316,7 @@
 ||omevids.com^
 ||omevushoops.net^
 ||omexxx.com^
+||omfnmiazd.in^
 ||omg-omg.top^
 ||omg.adult^
 ||omg.porn^
@@ -133070,6 +133751,7 @@
 ||online-textile.com^
 ||online-uittreksel.com^
 ||online-wissen.info^
+||online-xxx-show.com^
 ||online-xxxmovies.com^
 ||online-xxxporn.com^
 ||online.fetish-cams-live.com^
@@ -134057,13 +134739,21 @@
 ||oprano.com^
 ||oprill.com^
 ||opsbase.de^
+||opsbox-whatsapp.com^
 ||opsecdefcloud.com^
 ||opsecmastur.nowhearthis.co.uk^
 ||opsen.dolphin-browser.com^
 ||opshmejru.in^
+||opshub-whatsapp.com^
+||opskit-whatsapp.com^
 ||opskiwzwtvfic.store^
 ||opsktp.com^
+||opsnet-whatsapp.com^
+||opsnode-whatsapp.com^
 ||opsny.com^
+||opspro-whatsapp.com^
+||opssec-whatsapp.com^
+||opsset-whatsapp.com^
 ||opsteentube.com^
 ||opsteenvideo.com^
 ||opsvpn.info^
@@ -134276,6 +134966,7 @@
 ||orbsrv.com^
 ||orcfklck.net^
 ||orchestraofthesea.info^
+||orchestrator-whatsapp.com^
 ||orchidblazebeauty.com^
 ||orchideen.cc^
 ||orchidnailpooler.com^
@@ -135092,6 +135783,7 @@
 ||outofthefamily.net^
 ||outonixan.com^
 ||outpiperibbers.website^
+||output-whatsapp.com^
 ||outputdao.xyz^
 ||outqsfjujyowub.com^
 ||outrageelupgrade.com^
@@ -135354,6 +136046,7 @@
 ||owxsolpqxqyiy.space^
 ||owxxcdgbhhcb.com^
 ||owxxx.com^
+||owyweb-whatsapp.com^
 ||owzlatdag.com^
 ||ox.apparwheres.com^
 ||ox.diactalgenib.com^
@@ -136443,6 +137136,7 @@
 ||parsaw1.cyou^
 ||parsazr.ir^
 ||parscoinpay.org^
+||parse-whatsapp.com^
 ||parsec.media^
 ||parsel4d.org^
 ||parsely.com^
@@ -136632,6 +137326,7 @@
 ||patagoniasat.at^
 ||patakaendymal.top^
 ||patbrowncompany.com^
+||patch-whatsapp.com^
 ||patchedfiles.com^
 ||patddoocot.qpon^
 ||paten1.lol^
@@ -136897,6 +137592,7 @@
 ||pcxyca9z.com^
 ||pcxysd.com.cn^
 ||pcyah.com^
+||pd-personal.net^
 ||pd.aimakarkie.com^
 ||pd.asopallays.com^
 ||pd157.com^
@@ -137972,6 +138668,7 @@
 ||pharmrx-1.com^
 ||pharmtownsolutions.com^
 ||pharmuno.com^
+||phase-whatsapp.com^
 ||phasexeemaudsie.net^
 ||phastustoo.net^
 ||phatass.vip^
@@ -139836,10 +140533,12 @@
 ||pipandjimschurch.org^
 ||piparelli.net^
 ||pipasexpressgdl.com^
+||pipe-whatsapp.com^
 ||pipe.adform.net^
 ||pipeaota.com^
 ||pipecigardiscount.com^
 ||pipefulx.com^
+||pipeline-whatsapp.com^
 ||pipelineroster.com^
 ||pipemoth.com^
 ||pipepeak.com^
@@ -140951,6 +141650,7 @@
 ||podefr2.net^
 ||podgolfalways.com^
 ||podjav.tv^
+||podnode-whatsapp.com^
 ||podomax.de^
 ||podosupsurge.com^
 ||podpora-erekce24.cz^
@@ -141189,6 +141889,7 @@
 ||ponyanimalsex.com^
 ||ponybestialityporn.com^
 ||ponyfucking.com^
+||ponyny28.tidelark.cc^
 ||ponypangcautious.com^
 ||ponysedativewomb.com^
 ||ponyzinc.com^
@@ -141206,6 +141907,7 @@
 ||pooksys.site^
 ||pooky.me^
 ||pool-shop-de.com^
+||pool-whatsapp.com^
 ||pooladmins.com^
 ||poolchlorrabatt.com^
 ||poolcleaningfortmyersfl.com^
@@ -141736,6 +142438,7 @@
 ||porn.pics^
 ||porn.pl^
 ||porn.pm^
+||porn.promo^
 ||porn.sc^
 ||porn.se^
 ||porn.soy^
@@ -141946,6 +142649,7 @@
 ||porn584.com^
 ||porn585.com^
 ||porn586.com^
+||porn587.com^
 ||porn5f.com^
 ||porn5s.com^
 ||porn5xxx.club^
@@ -142457,6 +143161,7 @@
 ||porncity.fun^
 ||porncity.mom^
 ||porncityxxx.com^
+||pornck.com^
 ||pornclap.com^
 ||pornclap96.com^
 ||pornclass.cc^
@@ -142664,6 +143369,7 @@
 ||porndinotube.com^
 ||porndior.com^
 ||porndiq.com^
+||porndirectorpodcast.com^
 ||porndiscount.co.uk^
 ||porndiscount.org^
 ||porndiscountcoupon.com^
@@ -143274,6 +143980,7 @@
 ||pornguide.com^
 ||pornguide.info^
 ||porngull.com^
+||porngun.com^
 ||porngun.mobi^
 ||porngun.net^
 ||porngur.com^
@@ -143799,6 +144506,7 @@
 ||pornhyb.cz^
 ||pornhype.top^
 ||porni.info^
+||porni.mobi^
 ||porni24.com^
 ||pornia.com^
 ||pornia.info^
@@ -144706,6 +145414,7 @@
 ||porno.haus^
 ||porno.it^
 ||porno.limo^
+||porno.name^
 ||porno.net.pl^
 ||porno.nl^
 ||porno.nu^
@@ -145363,6 +146072,7 @@
 ||pornoboss.org^
 ||pornobox.blog^
 ||pornobox.io^
+||pornobr.net^
 ||pornobrand.com^
 ||pornobrasil.blog.br^
 ||pornobrasil.com^
@@ -145654,6 +146364,7 @@
 ||pornofilme.biz^
 ||pornofilme.cyou^
 ||pornofilme.rocks^
+||pornofilme.sex^
 ||pornofilme112.com^
 ||pornofilmek.tv^
 ||pornofilmekostenlos.org^
@@ -145746,6 +146457,7 @@
 ||pornogif365.top^
 ||pornogifs.net^
 ||pornogifs.org^
+||pornogig.com^
 ||pornogill.com^
 ||pornogin.com^
 ||pornogina.com^
@@ -145782,6 +146494,7 @@
 ||pornogovno.online^
 ||pornogovno.ru^
 ||pornogozo.com^
+||pornograb.com^
 ||pornograd.click^
 ||pornografiagay.net^
 ||pornografiagratis.net^
@@ -146056,6 +146769,7 @@
 ||pornokazashek.com^
 ||pornokazashki.net^
 ||pornokazashkisliv.com^
+||pornokc.com^
 ||pornokeep.com^
 ||pornokeeper.com^
 ||pornokenner.nl^
@@ -146551,8 +147265,10 @@
 ||pornos-hausgemacht.com^
 ||pornos-kostenlos.com^
 ||pornos-pur.com^
+||pornos.cam^
 ||pornos.cc^
 ||pornos.com^
+||pornos.cz^
 ||pornos.gold^
 ||pornos.live^
 ||pornos.tube^
@@ -147017,6 +147733,7 @@
 ||pornoxer.cc^
 ||pornoxi.com^
 ||pornoxj.com^
+||pornoxl.club^
 ||pornoxnxx.biz^
 ||pornoxnxx.video^
 ||pornoxo.com^
@@ -147141,6 +147858,7 @@
 ||pornpage.online^
 ||pornpage.shop^
 ||pornpair.com^
+||pornpakistani.com^
 ||pornpale.net^
 ||pornpander.com^
 ||pornpapa.com^
@@ -147445,6 +148163,7 @@
 ||pornsad18.com^
 ||pornsail.com^
 ||pornsaleshub.com^
+||pornsalmon.com^
 ||pornsaloon.xyz^
 ||pornsalsa.com^
 ||pornsalty.com^
@@ -148694,6 +149413,7 @@
 ||pornwin.click^
 ||pornwind.com^
 ||pornwine.net^
+||pornwinter.com^
 ||pornwip.com^
 ||pornwish.org^
 ||pornwisss.com^
@@ -148735,6 +149455,7 @@
 ||pornx-ai.vip^
 ||pornx.asia^
 ||pornx.blog^
+||pornx.cam^
 ||pornx.cc^
 ||pornx.co^
 ||pornx.digital^
@@ -150058,6 +150779,7 @@
 ||prettyxxxmovies.click^
 ||pretycunt.com^
 ||pretywhore.com^
+||prev-whatsapp.com^
 ||prevailharewandering.com^
 ||prevailk.com^
 ||prevalentclogoversight.com^
@@ -150100,6 +150822,7 @@
 ||pricklypollution.com^
 ||prickpossiblydepressed.com^
 ||prickypaeony.top^
+||pride-whatsapp.com^
 ||pridefreedom.com^
 ||pridegayflix.com^
 ||pridehub.tv^
@@ -150668,6 +151391,7 @@
 ||prohashing.com^
 ||prohibitedfever.com^
 ||prohotporn.com^
+||prohub-whatsapp.com^
 ||proigor.com^
 ||proinstrumentshop.com^
 ||prointern.info^
@@ -150702,10 +151426,13 @@
 ||projectwebit.com^
 ||projectwill.itch.io^
 ||projectwonderful.com^
+||projektkonnekt.com^
 ||projetgauthier.com^
 ||projetxtreme.blogspot.fr^
+||prokit-whatsapp.com^
 ||prokitchenwaresupply.com^
 ||prokli.com^
+||prolab-whatsapp.com^
 ||prolapsex.com^
 ||prolebenklinik-igls.at^
 ||prolesbiansex.com^
@@ -150721,6 +151448,7 @@
 ||prometheusxl.com^
 ||promilfporn.com^
 ||prominentgiddiness.com^
+||promise-whatsapp.com^
 ||promised.cc^
 ||promo-bc.com^
 ||promo-news.info^
@@ -150746,6 +151474,7 @@
 ||promotop.info^
 ||promotoria.app^
 ||prompt-abusive.com^
+||prompt-whatsapp.com^
 ||prompt.flight.abrdns.com^
 ||prompt.sex^
 ||prompts.uno^
@@ -150874,6 +151603,7 @@
 ||prosecutormountain.com^
 ||prosecutorremarkablegodforsaken.com^
 ||proselyaltars.com^
+||proset-whatsapp.com^
 ||prosflirtatious.com^
 ||proshopsupport.de^
 ||prosieben01.webtrekk.net^
@@ -151387,6 +152117,7 @@
 ||proud-slip.com^
 ||prounlock.org^
 ||proupwholesale.com^
+||prouse-whatsapp.com^
 ||provacvacunas.com^
 ||provely.website^
 ||provenxperts.com^
@@ -151539,6 +152270,7 @@
 ||proxy62.com^
 ||proxyadult.org^
 ||proxyan.net^
+||proxyapi-whatsapp.com^
 ||proxyapi.pot8o.dev^
 ||proxyarab.com^
 ||proxybase.org^
@@ -151665,6 +152397,7 @@
 ||proxysocks5.com^
 ||proxyspace.pro^
 ||proxyspace.pro.cdn.cloudflare.net^
+||proxysrv-whatsapp.com^
 ||proxyssl.org^
 ||proxysupply.com^
 ||proxysurfing.org^
@@ -153041,6 +153774,7 @@
 ||pvip.se^
 ||pvlxwwr.cn^
 ||pvmj.top^
+||pvnweb-whatsapp.com^
 ||pvokaqjpntpin.store^
 ||pvpdfmorowio.com^
 ||pvrladcyxnico.com^
@@ -153970,6 +154704,7 @@
 ||qmhsexze.com^
 ||qmhsexzf.com^
 ||qmhsexzg.com^
+||qmhsexzj.com^
 ||qmhv3.blog^
 ||qmhzz.com^
 ||qmiwfgxfouwpc.net^
@@ -154356,6 +155091,7 @@
 ||qtdir.com^
 ||qtgoiasqfgbgb.space^
 ||qtk9cdrew.com^
+||qtmweb-whatsapp.com^
 ||qtnaaahpnprpqsoxymfenbcia.xyz^
 ||qtneck.org.cn^
 ||qtr686.cn^
@@ -154744,6 +155480,7 @@
 ||quorumchinela.com^
 ||quorumglitch.com^
 ||quorven.com^
+||quota-whatsapp.com^
 ||quotationfirearmrevision.com^
 ||quotationi.com^
 ||quotationmanipulateloved.com^
@@ -155471,6 +156208,7 @@
 ||ranetki.online^
 ||rangau-musikzug.de^
 ||range-sal.browncolor.info^
+||range-whatsapp.com^
 ||rangelabogados.com^
 ||rangeplayground.com^
 ||rangergustav.com^
@@ -156066,6 +156804,7 @@
 ||readiong.net^
 ||readjoecrooks.com^
 ||readmanga18.com^
+||readme-whatsapp.com^
 ||readnovel.com^
 ||readonlymind.com^
 ||readoverlook.com^
@@ -156752,6 +157491,8 @@
 ||redfeline.com^
 ||redfetishpost.com^
 ||redfinger.com^
+||redflag.yazaebalsyadelatproxy.co.uk^
+||redflag.yazaebalsyadelatproxy.com^
 ||redflag.yazaebalsyadelatproxy.vip^
 ||redflashgallery.blogspot.com^
 ||redfx.net^
@@ -157121,6 +157862,7 @@
 ||regearlophiid.top^
 ||regenbay.com^
 ||regenschloss.de^
+||regex-whatsapp.com^
 ||reggs.org^
 ||regi.di.atlas.samsung.com^
 ||regie.story-fr.com^
@@ -157320,6 +158062,7 @@
 ||relayblog.com^
 ||relayon.org^
 ||relearnpsycter.digital^
+||release-whatsapp.com^
 ||releaseavailandproc.org^
 ||releasedfinish.com^
 ||relemov.cc^
@@ -157354,6 +158097,7 @@
 ||relishburger.ca^
 ||relivoria.com^
 ||relo101.com^
+||reload-whatsapp.com^
 ||reloadedboys.co.uk^
 ||reloadhb.com^
 ||relocationreport.com^
@@ -157580,10 +158324,13 @@
 ||replikuhrenshop.de^
 ||replytab.com^
 ||replytangerine.com^
+||repoapi-whatsapp.com^
+||repocdn-whatsapp.com^
 ||repocket-cdn.fra1.cdn.digitaloceanspaces.com^
 ||repocket-production.s3.fr-par.scw.cloud^
 ||repocket.co^
 ||repogoogle.com^
+||reponode-whatsapp.com^
 ||repornx.com^
 ||reporo.net^
 ||report.appmetrica.yandex.net^
@@ -157690,6 +158437,7 @@
 ||resolve2.srv-pro.de^
 ||resolved.defisolution.net^
 ||resolver-eu.haringstad.com^
+||resolver-whatsapp.com^
 ||resolver.arpa^
 ||resolver.as203038.net^
 ||resolver.dns.eban.eu.org^
@@ -157741,6 +158489,7 @@
 ||restaffect.com^
 ||restapi.amap.com^
 ||restaraunt.org^
+||restart-whatsapp.com^
 ||restaurantgift.us^
 ||restauranthedwig.com^
 ||restaurantrefused.com^
@@ -157985,6 +158734,7 @@
 ||revstripe.com^
 ||revupads.com^
 ||revwneghofvae.online^
+||rewanvodums.cyou^
 ||rewarddormitory.com^
 ||rewarding-love.com^
 ||rewardlate.com^
@@ -158466,6 +159216,7 @@
 ||rinki.xyz^
 ||rinkieker.de^
 ||rinlfeppahke.com^
+||rinncuot.in^
 ||rino.ge^
 ||rinsougloubsol.com^
 ||rinstudio.de^
@@ -158590,6 +159341,7 @@
 ||rivano.de^
 ||rivcams.com^
 ||rive.clean.abrdns.com^
+||river-whatsapp.com^
 ||riveraporn.com^
 ||riverbox.info^
 ||riverdom.net^
@@ -158661,8 +159413,10 @@
 ||rjtzqgeltwaep.store^
 ||rjubseameyqj.xyz^
 ||rjw4obbw.com^
+||rjxweb-whatsapp.com^
 ||rjzbvmbybvokw.top^
 ||rjzkulworyqil.space^
+||rk-beratungsgesellschaft.de^
 ||rk.com^
 ||rk.hairbilby.com^
 ||rk.roseineragbags.com^
@@ -159946,6 +160700,7 @@
 ||rukoo.cn^
 ||ruktaslhu.com^
 ||rukuporn.shop^
+||rule-whatsapp.com^
 ||rule34-videos.com^
 ||rule34.app^
 ||rule34.art^
@@ -160064,9 +160819,12 @@
 ||run.hywei.com^
 ||run.porn^
 ||runaivete.com^
+||runapi-whatsapp.com^
+||runapp-whatsapp.com^
 ||runative-syndicate.com^
 ||runative.com^
 ||runbffvq.com^
+||rundev-whatsapp.com^
 ||rundfunkbeitrag-portal-online.de^
 ||rundfunkbeitragonline.de^
 ||rundfunkbeitragportal.de^
@@ -160116,6 +160874,7 @@
 ||runny-tone.com^
 ||runnyhouse.pro^
 ||runnylong.com^
+||runops-whatsapp.com^
 ||runporn.com^
 ||runporn.net^
 ||runporno.com^
@@ -160123,6 +160882,7 @@
 ||runpornstream.shop^
 ||runrigstack.click^
 ||runsadjustmerit.com^
+||runsec-whatsapp.com^
 ||runsex.de^
 ||runshengay.com^
 ||runthegauntlet.org^
@@ -160130,6 +160890,7 @@
 ||runtoporn.com^
 ||runtoxxx.com^
 ||runtrainpro.com^
+||runuse-whatsapp.com^
 ||runwaff.com^
 ||runwaynewyork.com^
 ||runwellcrm.com^
@@ -161018,6 +161779,7 @@
 ||sadistic-princess.com^
 ||sadistic.nl^
 ||sadistic.pl^
+||sadisticsex.com^
 ||sadistictv.com^
 ||sadlittlebitchwithnofriends.com^
 ||sadnesscontemporary.com^
@@ -161431,6 +162193,7 @@
 ||samoon.com.tw^
 ||samoonde.com^
 ||samoporno.com^
+||sample-whatsapp.com^
 ||sampledemo.b4a.app^
 ||samples.voice.cti.roku.com^
 ||samplesamba.com^
@@ -161830,6 +162593,7 @@
 ||satyrsretell.com^
 ||satzteile.de^
 ||saubereautoteile.com^
+||sauberrein.com^
 ||saucedxxx.com^
 ||saucemanhwa.com^
 ||saucemanhwa.org^
@@ -162278,6 +163042,7 @@
 ||schelkovoplitka.ru^
 ||scheller-lanz-ersatzteile.de^
 ||schellkredit.com^
+||schema-whatsapp.com^
 ||schemas.microsoft.akadns.net^
 ||schemesfeud.com^
 ||schenkwerk.shop^
@@ -162532,6 +163297,7 @@
 ||scolor.jp^
 ||scomcluster.cxense.com^
 ||scomtest.com^
+||scontainer-logististikgmbh.de^
 ||sconvtrk.com^
 ||scoopbird.com^
 ||scoopy.net^
@@ -162544,6 +163310,7 @@
 ||scoover-handel.de^
 ||scopamici.com^
 ||scope-info.com^
+||scope-whatsapp.com^
 ||scopethestreet.shop^
 ||scorchads.com^
 ||scorchin.com^
@@ -162919,9 +163686,13 @@
 ||seccshop.com^
 ||secdns.site^
 ||sechkhmer.com^
+||sechub-whatsapp.com^
+||seclab-whatsapp.com^
 ||secludedfox.com^
 ||secme.net^
 ||secmesefir1.xyz^
+||secnet-whatsapp.com^
+||secnode-whatsapp.com^
 ||second-subject.com^
 ||secondary-iron.com^
 ||secondary-with.com^
@@ -162937,7 +163708,9 @@
 ||secondlycradlegang.com^
 ||secondpagoda.com^
 ||secondsaturdaysalon.com^
+||secops-whatsapp.com^
 ||secprf.com^
+||secpro-whatsapp.com^
 ||secrecycluelifting.com^
 ||secrecyovercomeseized.com^
 ||secret-agent.co.uk^
@@ -163003,6 +163776,7 @@
 ||secretx.cam^
 ||secrity2yellowline.com^
 ||secroxy-node-4.onrender.com^
+||secsys-whatsapp.com^
 ||secthatlead.com^
 ||sectretsclips.com^
 ||secure---sso---robinhood---com-cdn.webflow.io^
@@ -163832,6 +164606,7 @@
 ||server-ua.imrworldwide.com^
 ||server-uk.imrworldwide.com^
 ||server-us.imrworldwide.com^
+||server-whatsapp.com^
 ||server.adform.net^
 ||server.iad.liveperson.net^
 ||server.ind.liveperson.net^
@@ -163853,8 +164628,10 @@
 ||server3233.com^
 ||server4.server-space52.info^
 ||server4ads.com^
+||serverapi-whatsapp.com^
 ||serverbid-sync.nyc3.cdn.digitaloceanspaces.com^
 ||serverbid.com^
+||servercdn-whatsapp.com^
 ||serverdata.ch^
 ||servergo.pw^
 ||serverhoya.com^
@@ -163928,9 +164705,12 @@
 ||sesono.com^
 ||sesou.xyz^
 ||sesschen.win^
+||sessionapi-whatsapp.com^
+||sessioncdn-whatsapp.com^
 ||sessiongirlclips.com^
 ||sessiongirls.com^
 ||sessionnewspaperthirteenth.com^
+||sessionnode-whatsapp.com^
 ||sessoannunci.net^
 ||sessobdsm.org^
 ||sessogratis.com^
@@ -163943,7 +164723,9 @@
 ||set-freeporn.com^
 ||set-gayporn.com^
 ||set.qavi-13.co.uk^
+||setapp-whatsapp.com^
 ||setcelebs.com^
+||setdev-whatsapp.com^
 ||setfahrradtrikot.com^
 ||setfetishporn.com^
 ||setforme.com^
@@ -163951,6 +164733,7 @@
 ||sethciferri.com^
 ||sethere.com^
 ||sethmichaeldonsky.com^
+||setkit-whatsapp.com^
 ||setkuttina.pages.dev^
 ||setlady.xyz^
 ||setmilfporn.com^
@@ -163959,6 +164742,7 @@
 ||setpornmovies.com^
 ||setpornvideos.com^
 ||setravieso.com^
+||setrun-whatsapp.com^
 ||sets4all.com^
 ||sets4me.com^
 ||setsball.com^
@@ -163977,6 +164761,8 @@
 ||setupmonarchyconnections.com^
 ||setupvpn.com^
 ||seturk.online^
+||setuse-whatsapp.com^
+||setweb-whatsapp.com^
 ||setxxxtube.com^
 ||setyourtape.com^
 ||seucuzinho.com^
@@ -164285,6 +165071,7 @@
 ||sex-pornuha.com^
 ||sex-pornxxx.com^
 ||sex-prostitutki-escort.online^
+||sex-prostitutki.com^
 ||sex-prostitutkiescort.online^
 ||sex-rankings.com^
 ||sex-raskaz.ru^
@@ -164512,6 +165299,7 @@
 ||sex.co.uk^
 ||sex.com^
 ||sex.com.dating^
+||sex.cosmopolitan.com^
 ||sex.de^
 ||sex.directory^
 ||sex.dk^
@@ -166285,6 +167073,7 @@
 ||sexkontakte-heute.de^
 ||sexkontakte-online.de^
 ||sexkontakte-sofort.de^
+||sexkontakte.cam^
 ||sexkontakte36.com^
 ||sexkontakte69.de^
 ||sexkontaktefrauen.ch^
@@ -167985,6 +168774,7 @@
 ||sexumahat.com^
 ||sexumi.com^
 ||sexundo.site^
+||sexuologia.sk^
 ||sexupdate.vip^
 ||sexuporn.com^
 ||sexuria.net^
@@ -170167,6 +170957,7 @@
 ||shemale-x.com^
 ||shemale-xvideos.com^
 ||shemale.army^
+||shemale.center^
 ||shemale.com^
 ||shemale.info^
 ||shemale.movie^
@@ -170605,6 +171396,7 @@
 ||shickler.com^
 ||shico.xyz^
 ||shiek1ph.com^
+||shield-whatsapp.com^
 ||shield.afixer.app^
 ||shield.kidshielder.com^
 ||shield1.eranext.net^
@@ -171433,6 +172225,7 @@
 ||sigmavpn.homes^
 ||sigmavpn.lol^
 ||sigmura.com^
+||signal-whatsapp.com^
 ||signal.mtp.mom^
 ||signaladsdirect.top^
 ||signalatera.com^
@@ -172163,6 +172956,7 @@
 ||sjoukeexedral.com^
 ||sjpool.de^
 ||sjqx221.com^
+||sjs47.com^
 ||sjs66.com^
 ||sjsex.net^
 ||sjstudio1.com^
@@ -172246,6 +173040,7 @@
 ||skidgleambrand.com^
 ||skield.de^
 ||skigavdigmu.com^
+||skijzoargnwu.in^
 ||skik2.de^
 ||skikdainfo.info^
 ||skilfulsaturatematters.com^
@@ -173009,6 +173804,7 @@
 ||smartplayground.de^
 ||smartpornvideos.com^
 ||smartpornx.com^
+||smartproxy.ai^
 ||smartproxy.com^
 ||smartproxy.org^
 ||smartro.de^
@@ -173040,6 +173836,7 @@
 ||smaxim.xyz^
 ||smbe.co.jp.tjzyzh.com^
 ||smboy.biz^
+||smbweb-whatsapp.com^
 ||smconene.pro^
 ||smcpvvmflcmlc.store^
 ||smdhy.studio^
@@ -173557,6 +174354,7 @@
 ||sociomantic.com^
 ||sockblocked.com^
 ||sockestore.com^
+||socket-whatsapp.com^
 ||socketbuild.com^
 ||socks-proxy.net^
 ||socks5.io^
@@ -173658,6 +174456,7 @@
 ||softforscan.ru^
 ||softgarments.com^
 ||softgay.com^
+||softhub-whatsapp.com^
 ||softikget.ru^
 ||softlook.info^
 ||softlyviolin.com^
@@ -174131,6 +174930,7 @@
 ||sorrymother.top^
 ||sorrymother.video^
 ||sorryporn.com^
+||sort-whatsapp.com^
 ||sortedgirls.com^
 ||sortedmates.com^
 ||sortedporn.com^
@@ -175024,6 +175824,7 @@
 ||splinterunit.com^
 ||split-tool.com^
 ||split.clean.abrdns.com^
+||splitter-whatsapp.com^
 ||splitternackt-chatten.top^
 ||splittingpick.com^
 ||splitvpn.io^
@@ -175264,6 +176065,7 @@
 ||spry-trick.com^
 ||sprygayporn.com^
 ||sprysummit.com^
+||sps-personal.net^
 ||spsfurntiure.com^
 ||spsiqdfdkjgqv.space^
 ||sptops.com.br^
@@ -175591,6 +176393,7 @@
 ||ssl3cdn.com^
 ||ssl4anyone5.com^
 ||sslah.com^
+||sslcert-whatsapp.com^
 ||sslclick.union.ucweb.com^
 ||sslkn.com^
 ||sslkn.me^
@@ -175609,6 +176412,7 @@
 ||sslproxy-prod.adobedtm.com^
 ||sslproxy.us^
 ||sslsecureproxy.com^
+||ssltls-whatsapp.com^
 ||sslunblocker.com^
 ||sslzertifikatkaufen.de^
 ||ssm.codes^
@@ -175701,6 +176505,7 @@
 ||stabilitygenerous.com^
 ||stabilityvatinventory.com^
 ||stable-vpn.com^
+||stable-whatsapp.com^
 ||stabledkindler.com^
 ||stablesunflower.com^
 ||stabletrader-ai.net^
@@ -175710,6 +176515,7 @@
 ||staci.info^
 ||staci.site^
 ||staci.wtf^
+||stack-whatsapp.com^
 ||stackadapt.com^
 ||stackattacka.com^
 ||stackbasesystem.com^
@@ -176000,6 +176806,7 @@
 ||statautos.com^
 ||statcamp.net^
 ||statcounter.com^
+||state-whatsapp.com^
 ||state-wins.pk^
 ||state.know.yacht-therapy.net^
 ||state.mass.xpatholiday.com^
@@ -176752,6 +177559,7 @@
 ||stpremorques.com^
 ||stqainggmilg.com^
 ||stquality.org^
+||str-beratung.de^
 ||str8boy.com^
 ||str8hell.com^
 ||str8ongay.com^
@@ -176846,6 +177654,7 @@
 ||stream-baby1.top^
 ||stream-leak.com^
 ||stream-mdh.co^
+||stream-whatsapp.com^
 ||streamall-search.com^
 ||streamate.com^
 ||streamate.tv^
@@ -176967,6 +177776,7 @@
 ||strikingbutcherspoons.com^
 ||strikingdates.com^
 ||striklngdates.net^
+||string-whatsapp.com^
 ||stringbuild.com^
 ||stringedharmony.com^
 ||stringroadway.com^
@@ -177261,6 +178071,7 @@
 ||studio451designs.com^
 ||studioai.freeddns.org^
 ||studioelani.com^
+||studioexpresstt.com^
 ||studiofow.com^
 ||studiofow.newgrounds.com^
 ||studiogamaii.itch.io^
@@ -177380,6 +178191,7 @@
 ||style-bewusst.de^
 ||style-fashion.info^
 ||style-lighting.com^
+||style-whatsapp.com^
 ||style2ndhand.com^
 ||style360.info^
 ||stylearena.store^
@@ -177444,6 +178256,7 @@
 ||subjav.men^
 ||subjav.sbs^
 ||subjav.shop^
+||subject-whatsapp.com^
 ||subjectmelodramaticsoil.com^
 ||subjectslisted.com^
 ||subjectthree.com^
@@ -177824,6 +178637,7 @@
 ||sundhed-skort.com^
 ||sundukporno.club^
 ||sundukporno.mobi^
+||sune79.mosswren.vip^
 ||sunfallgames.itch.io^
 ||sunflex-de.com^
 ||sunflowerbright106.io^
@@ -179246,9 +180060,12 @@
 ||sync.users-api.com^
 ||sync2ad.com^
 ||syncaccount.us^
+||syncauth-whatsapp.com^
 ||synccora.com^
 ||syncedvision.com^
+||syncly-whatsapp.com^
 ||syncporn.shop^
+||syncpush-whatsapp.com^
 ||syncwallet.pages.dev^
 ||synd.cricbuzz.com^
 ||synd.edgecdnc.com^
@@ -179278,6 +180095,7 @@
 ||synonymwelcomingegyptian.com^
 ||synsads.com^
 ||synsual.me^
+||syntax-whatsapp.com^
 ||syntellect.co.uk^
 ||synthesissocietysplitting.com^
 ||synthesissourcegovernment.com^
@@ -179300,11 +180118,22 @@
 ||syrunji.com^
 ||syrupselfevidentfolding.com^
 ||sys.intl.xiaomi.com^
+||sysauth-whatsapp.com^
+||sysbot-whatsapp.com^
+||sysbox-whatsapp.com^
+||syschat-whatsapp.com^
+||sysdata-whatsapp.com^
+||sysedge-whatsapp.com^
 ||sysescort-indubai.com^
 ||sysglass.com^
 ||sysgtjoki.com^
+||syshub-whatsapp.com^
+||syskit-whatsapp.com^
+||syslab-whatsapp.com^
 ||sysmeasuring.net^
+||sysnet-whatsapp.com^
 ||sysoutvariola.com^
+||syspro-whatsapp.com^
 ||system-capital.org^
 ||system-cleaner-pro.info^
 ||system-update-new-2021.com^
@@ -179536,6 +180365,7 @@
 ||tabi-run.com^
 ||tabici.com^
 ||tabijibiyori.org^
+||table-whatsapp.com^
 ||tablebook92.com^
 ||tablecar92.com^
 ||tablephone92.com^
@@ -180445,10 +181275,12 @@
 ||tcoadkrev.com^
 ||tcomplex.de^
 ||tcp-reset-club.net^
+||tcp-whatsapp.com^
 ||tcpcfrc.com^
 ||tcpcfzc.com^
 ||tcpcharms.com^
 ||tcpghe.tcp64.de^
+||tcpip-whatsapp.com^
 ||tcporno.shop^
 ||tcppu.com^
 ||tcpuxxzgbth.com^
@@ -180621,6 +181453,7 @@
 ||techinsight.in^
 ||techiteration.com^
 ||techlands.online^
+||techly-whatsapp.com^
 ||techneparlous.com^
 ||technicalitychin.com^
 ||technicalitypactinsinuate.com^
@@ -181563,6 +182396,7 @@
 ||telefonsex-frau.com^
 ||telefonsex-handy.com^
 ||telefonsex-hausfrauen.biz^
+||telefonsex-hobby.com^
 ||telefonsex-hure.com^
 ||telefonsex-hypnose.com^
 ||telefonsex-imperium.com^
@@ -182052,6 +182886,7 @@
 ||testcontinentalkazik.lol^
 ||testdomainname.xyz^
 ||testedefudelidade.com^
+||testenv-whatsapp.com^
 ||testereo.com^
 ||testfilter.com^
 ||testguard.meexx.de^
@@ -182134,6 +182969,7 @@
 ||texasbukkake.com^
 ||texasmatheducation.geetabasyal.com.np^
 ||texasmilfpov.com^
+||texassexchat.com^
 ||texasworkerscomplaw.com^
 ||texsatelsac.com^
 ||texsk.com^
@@ -182307,6 +183143,7 @@
 ||tgtsporn.com^
 ||tgtube.com^
 ||tgvpn.help^
+||tgvweb-whatsapp.com^
 ||tgwkgnjs.com^
 ||tgxxxx.com^
 ||tgzekszeenvu.beauty^
@@ -183034,6 +183871,7 @@
 ||themayerbrown.com^
 ||themcnastyshow.com^
 ||themdbuilding.com^
+||theme-whatsapp.com^
 ||theme.basic.voomi.com^
 ||themeaningofallmeaningsforallofthemeaningsmeanings.lol^
 ||themebm.com^
@@ -183476,6 +184314,7 @@
 ||theworldseeds.com^
 ||theworldwatch.com^
 ||theworldwideguide.com^
+||thewraith.net^
 ||thewsere.top^
 ||thexeech.xyz^
 ||thexite.net^
@@ -183739,6 +184578,7 @@
 ||thputr.pro^
 ||thqvlqht.com^
 ||thr33some.com^
+||thread-whatsapp.com^
 ||threadpassivetrespass.com^
 ||threatassessments.net^
 ||threatdetect.org^
@@ -183980,8 +184820,10 @@
 ||tienerwilsex.nl^
 ||tienerzoektsex.nl^
 ||tienpham.id.vn^
+||tier-whatsapp.com^
 ||tierbase3.fra1.cdn.digitaloceanspaces.com^
 ||tierbase4.s3.amazonaws.com^
+||tierbedarf-express.com^
 ||tierbedarfshop.com^
 ||tiercefortange.com^
 ||tierewelpenhaus.de^
@@ -184002,6 +184844,7 @@
 ||tifabei.top^
 ||tifaix.com^
 ||tifaix123.cc^
+||tiffanybeleuchtung.at^
 ||tiffanystarrxxx.com^
 ||tiffysangei.com^
 ||tifodoowhoame.com^
@@ -184903,10 +185746,13 @@
 ||tokbit.site^
 ||token-invest.com^
 ||tokenads.com^
+||tokenapi-whatsapp.com^
 ||tokenbuy.com^
+||tokencdn-whatsapp.com^
 ||tokengi.com^
 ||tokenisation.cn^
 ||tokenizer-va.liveperson.net^
+||tokennode-whatsapp.com^
 ||tokenpornhub.xyz^
 ||tokesdupe.com^
 ||tokeu.s3.eu-central-1.amazonaws.com^
@@ -185242,6 +186088,7 @@
 ||top-of-creators.com^
 ||top-performance.top^
 ||top-performance.work^
+||top-personal.net^
 ||top-personals.com^
 ||top-pharmacy-24h.com^
 ||top-pinupart.com^
@@ -185467,6 +186314,7 @@
 ||tophoven-teilekfz.de^
 ||tophqcam.com^
 ||tophqporn.com^
+||topic-whatsapp.com^
 ||topic.craft.prazerdiario.com^
 ||topic.know.ticpu.net^
 ||topic.teach.pacbell.hk^
@@ -185989,6 +186837,7 @@
 ||tovira.ru^
 ||tovqph.org.cn^
 ||towan-games-studio.itch.io^
+||towardsraceanalysis.com^
 ||towarzyskieanonse.pl^
 ||towctro.cn^
 ||toweleyewitnessrubbing.com^
@@ -189132,6 +189981,7 @@
 ||tutor4k.com^
 ||tutordaily.info^
 ||tutorhim.com^
+||tutorial-whatsapp.com^
 ||tutoring4free.org^
 ||tutoris.info^
 ||tutporno.com^
@@ -189830,6 +190680,7 @@
 ||uayljpxuyhjlh.store^
 ||uayporn.com^
 ||uayporn2.com^
+||uazweb-whatsapp.com^
 ||ub-analytics.com^
 ||ub.boldingmordva.com^
 ||ub.ofternavajos.com^
@@ -189855,6 +190706,7 @@
 ||uberporno.ru^
 ||ubersourg.com^
 ||uberwachungskamera-ohne-wlan.de^
+||uberwebcams.com^
 ||ubesykrmo.xyz^
 ||ubfjexqqmfcvot.net^
 ||ubgus.freetls.fastly.net^
@@ -190014,8 +190866,10 @@
 ||udoke.com^
 ||udon.com.br^
 ||udonlove.com^
+||udp-whatsapp.com^
 ||udpcustom.online^
 ||udpgw.com^
+||udpip-whatsapp.com^
 ||udpitfou.com^
 ||udpnavwobn.com^
 ||udtphtxcmoyol.com^
@@ -190425,6 +191279,7 @@
 ||ukrainekitties.info^
 ||ukrainesexescort.online^
 ||ukrainesmodels.com^
+||ukrainiancamgirls.com^
 ||ukrainiancams.com^
 ||ukrainiansexchat.com^
 ||ukrainie.sexy^
@@ -190837,6 +191692,7 @@
 ||unblockvid.com^
 ||unblockvideos.com^
 ||unblockvpn.com^
+||unblockway.com^
 ||unblockweb.biz^
 ||unblockweb.co^
 ||unblockweb.one^
@@ -191076,6 +191932,7 @@
 ||unfoldedgift.com^
 ||unforced.xyz^
 ||unfortunatechampionship.com^
+||unfortunateheart.com^
 ||unfoxyconsy.shop^
 ||unfuego.com^
 ||unfumedvamoses.com^
@@ -191626,6 +192483,7 @@
 ||uphoojochoaloo.net^
 ||uphuchaups.net^
 ||upicsz.com^
+||upie.buzz^
 ||upifex.com^
 ||upincestxxx.com^
 ||upiwsqxrhnwzl.online^
@@ -192135,10 +192993,13 @@
 ||use.quebec-bin.com^
 ||use.quebec-lea.com^
 ||use.star.is^
+||useapi-whatsapp.com^
+||useapp-whatsapp.com^
 ||useast1.vps.night-x.com^
 ||usebrainonline.com^
 ||usecontainers.com^
 ||used-restaurant.pro^
+||usedev-whatsapp.com^
 ||usedflora.com^
 ||usedpanties.com^
 ||usedsluts.fun^
@@ -192182,10 +193043,13 @@
 ||usersporn.com^
 ||userstat.net^
 ||usertag.online^
+||userun-whatsapp.com^
+||usesec-whatsapp.com^
 ||usesepose.com^
 ||usesex.com^
 ||usesponsorarrange.com^
 ||usetting.lau1.uae.uc.cn^
+||useweb-whatsapp.com^
 ||usexvideos.com^
 ||usezazzi.com^
 ||usezunna.com^
@@ -193241,6 +194105,7 @@
 ||vcmedia.com^
 ||vcmqpllyjfzl.com^
 ||vcnbbtrack.com^
+||vcnweb-whatsapp.com^
 ||vcoducobp.com^
 ||vcogugrwub.in^
 ||vcohcrme.com^
@@ -193702,6 +194567,7 @@
 ||verseexposurethanksgiving.com^
 ||versevibecode.xyz^
 ||versexsogratis.com^
+||version-whatsapp.com^
 ||version.api.goforandroid.com^
 ||versionreallyinventory.com^
 ||versionsextraordinary.com^
@@ -194249,6 +195115,7 @@
 ||videocollage.us^
 ||videocrot.com^
 ||videodeporno.com.br^
+||videodeporno.net^
 ||videodesexo.blog^
 ||videodesexo.club^
 ||videodesexo.co^
@@ -195534,6 +196401,7 @@
 ||vivid-bison.com^
 ||vivid-ed.com^
 ||vivid-wave.com^
+||vivid-whatsapp.com^
 ||vivid.com^
 ||vividbdsm.com^
 ||vividbloomco.com^
@@ -196154,6 +197022,7 @@
 ||vorhex.xyz^
 ||vorisol.com^
 ||vorisol.com.de^
+||vorkeli.shop^
 ||vorlenta.ru^
 ||vorlif.org^
 ||vornethpro.at^
@@ -196362,10 +197231,12 @@
 ||vp.net^
 ||vp.what.cloudns.nz^
 ||vpasu.com^
+||vpc-whatsapp.com^
 ||vpc.bidder.nginx-02.actnx.com^
 ||vpc.bidder.nginx-03.actnx.com^
 ||vpc.bidder.nginx-04.actnx.com^
 ||vpcdgafkvufc.com^
+||vpcnode-whatsapp.com^
 ||vpdehpjxotemz.space^
 ||vpdkaxce.com^
 ||vpef4.cc^
@@ -197460,6 +198331,7 @@
 ||wafflestee.com^
 ||waficars.com^
 ||wafmedia6.com^
+||wafnode-whatsapp.com^
 ||wagejustifieddoze.com^
 ||wagemannmode.de^
 ||wagenfreude.de^
@@ -197787,6 +198659,7 @@
 ||warenweltpro.com^
 ||waresco.com^
 ||warevo.de^
+||warezcams.com^
 ||warezxhd.com^
 ||wargers.org^
 ||wargitom.in^
@@ -198350,6 +199223,7 @@
 ||web-tv-porno.net^
 ||web-tv-sexe.fr^
 ||web-welten.de^
+||web-whatsopp.com^
 ||web.artweb.website.cdn.cloudflare.net^
 ||web.bossaapp.com^
 ||web.fe-vrier.com^
@@ -198380,22 +199254,39 @@
 ||web3seo.com^
 ||web3vpn.info^
 ||web3vpn.xyz^
+||webact-whatsapp.com^
+||webadd-whatsapp.com^
 ||webads.co.nz^
 ||webads.media^
 ||webads.nl^
 ||webadserver.net^
 ||webadultlinks.com^
 ||webadvision.online^
+||webage-whatsapp.com^
+||webair-whatsapp.com^
+||webalert-whatsapp.com^
+||webant-whatsapp.com^
+||webape-whatsapp.com^
 ||webapp.browser.intl.miui.com^
 ||webapp.browser.miui.com^
 ||webapp.ghost.io^
 ||webarazzi.com^
+||webarc-whatsapp.com^
+||webarm-whatsapp.com^
+||webart-whatsapp.com^
+||webash-whatsapp.com^
+||webask-whatsapp.com^
 ||webassembly.stream^
 ||webassetsapp.ghost.io^
 ||webatam.com^
 ||webauth.win^
 ||webauth.win.cdn.cloudflare.net^
 ||webbabes.com^
+||webbad-whatsapp.com^
+||webbag-whatsapp.com^
+||webban-whatsapp.com^
+||webbar-whatsapp.com^
+||webbat-whatsapp.com^
 ||webbed-leadership.com^
 ||webbedfunding.com^
 ||webboxbg.at^
@@ -198640,13 +199531,17 @@
 ||webcamxxxtubes.com^
 ||webcamz.co^
 ||webcanadastore.com^
+||webcap-whatsapp.com^
+||webcar-whatsapp.com^
 ||webcasinozone.com^
+||webcat-whatsapp.com^
 ||webchat-free.com^
 ||webcheckstats.com^
 ||webchoc.com^
 ||webcitynews.com^
 ||webclickengine.com^
 ||webclickmanager.com^
+||webcompiler-whatsapp.com^
 ||webconf.touchcommerce.com^
 ||webconomy01.webtrekk.net^
 ||webcontentassessor.com^
@@ -198656,11 +199551,16 @@
 ||webdav.cubecloud.win^
 ||webdesignflux.com^
 ||webdesigngainesvillefl.com^
+||webdev-whatsapp.com^
 ||webdevice.ultrapanel.us^
 ||webdevki.net^
+||webdoc-whatsapp.com^
 ||webdoujin.com^
 ||webedg.net^
+||webedge-whatsapp.com^
 ||webengage.com^
+||webengine-whatsapp.com^
+||webenv-whatsapp.com^
 ||weber-baumarkt.com^
 ||weber-reifen.com^
 ||weber-werkstatt.com^
@@ -198672,12 +199572,14 @@
 ||weberstyle.de^
 ||weberundalbrecht.de^
 ||weberwien.at^
+||webevent-whatsapp.com^
 ||webeventsite.com^
 ||webexodus.created.app^
 ||webfanclub.com^
 ||webfantasy.info^
 ||webfeat-inc.com^
 ||webfontcdn.com^
+||webframework-whatsapp.com^
 ||webfusiones.com^
 ||webgallerybuilder.com^
 ||webgata.com^
@@ -198690,10 +199592,13 @@
 ||webhubtest.net^
 ||webinar-universe.com^
 ||webink.info^
+||webjob-whatsapp.com^
 ||webka.me^
 ||webkam-sex.com^
+||webkey-whatsapp.com^
 ||webkeyhole.net^
 ||webki.live^
+||webkotlin-whatsapp.com^
 ||webliveactivities.com^
 ||weblix.nl^
 ||weblockapp.com^
@@ -198711,6 +199616,7 @@
 ||webmedrtb.com^
 ||webmedshelp.com^
 ||webmedxml.com^
+||webmetric-whatsapp.com^
 ||webmilf.club^
 ||webmine.pro^
 ||webmodel.cam^
@@ -198724,10 +199630,12 @@
 ||webonlinedating.com^
 ||webopen.info^
 ||weboproxy.com^
+||webops-whatsapp.com^
 ||webora-agentur.de^
 ||weborama.fr^
 ||weborama.net^
 ||webout.life^
+||webparser-whatsapp.com^
 ||webping.info^
 ||webpinp.com^
 ||webporn.info^
@@ -198756,12 +199664,18 @@
 ||webpushcloud.info^
 ||webpushdirect.biz^
 ||webpussi.com^
+||webqueue-whatsapp.com^
 ||webrelatos.com^
 ||webroot.needle.com^
 ||webrtc5.gvideo.co^
+||webruntime-whatsapp.com^
 ||webrus.net^
+||webrust-whatsapp.com^
 ||websafety.online^
+||webscala-whatsapp.com^
+||webschema-whatsapp.com^
 ||webscutest.com^
+||websec-whatsapp.com^
 ||webseeds.com^
 ||webseite-gratis.com^
 ||webseite.de^
@@ -198793,9 +199707,12 @@
 ||webstersismybitch.com^
 ||webstoreconsole.com^
 ||webstorerx.com^
+||webstream-whatsapp.com^
 ||webstrip.net^
 ||websurf.in^
+||webswift-whatsapp.com^
 ||websynchrony.com^
+||websys-whatsapp.com^
 ||webteaser.ru^
 ||webtechnet.eu^
 ||webteenslist.com^
@@ -198810,6 +199727,7 @@
 ||webtoppings.bar^
 ||webtoprank.com^
 ||webtr.info^
+||webtrace-whatsapp.com^
 ||webtrackerplus.com^
 ||webtradehub.com^
 ||webtrader.aeratiqos.com^
@@ -199378,6 +200296,7 @@
 ||wewe.web-chatgptt.com^
 ||wewearegogogo.com^
 ||wewillneverknow.com^
+||wewin-consulting.de^
 ||wewlorozwombk.top^
 ||wewokavet.com^
 ||wewxc.lol^
@@ -199531,6 +200450,7 @@
 ||whclksvlbotno.website^
 ||whcycs.com^
 ||whdh-remanu.com^
+||wheat-whatsapp.com^
 ||wheatentricklecover.com^
 ||whebsegro.net^
 ||wheceelt.net^
@@ -201046,6 +201966,7 @@
 ||wordsmart.touchcommerce.com^
 ||worgzcdfgkyff.space^
 ||woriusly.com^
+||work-co.net^
 ||work-from-home-writing-jobs.com^
 ||work.blackonstuff.com^
 ||work.idea.salman.pk^
@@ -201329,6 +202250,7 @@
 ||woyuofuqindezhenshihuiyijilu.cn^
 ||woyuosn.com^
 ||wozeducation.org^
+||wp-adult.com^
 ||wp-analyzer.com^
 ||wp-stat.s3.amazonaws.com^
 ||wp-welt-pelletsgmbh.de^
@@ -201455,6 +202377,7 @@
 ||write-for-me.com^
 ||writehopedcrashed.com^
 ||writenow.ink^
+||writersnwriters.blogspot.com^
 ||writhehawm.com^
 ||writhingwitness.pro^
 ||writingcauliflower.com^
@@ -203029,6 +203952,7 @@
 ||xerotica.com^
 ||xerotica.info^
 ||xerotik.ch^
+||xerox-whatsapp.com^
 ||xervolia.ru^
 ||xes.pl^
 ||xescorthub.com^
@@ -205481,6 +206405,7 @@
 ||xrpornhub.xyz^
 ||xrrwfdg.org.cn^
 ||xrsecrets.com^
+||xrtweb-whatsapp.com^
 ||xrule34.com^
 ||xruniversity.com^
 ||xruporn.com^
@@ -205564,6 +206489,7 @@
 ||xsph.ru^
 ||xspiegel.de^
 ||xsrs.com^
+||xss-whatsapp.com^
 ||xstarlive.com^
 ||xstars.cam^
 ||xstars.pro^
@@ -207093,6 +208019,7 @@
 ||xxxarchive.xyz^
 ||xxxasex.com^
 ||xxxasian-videos.com^
+||xxxasian.icu^
 ||xxxasian.name^
 ||xxxasianclip.tk^
 ||xxxasiangallery.tk^
@@ -207868,6 +208795,7 @@
 ||xxxmilfpussysex.com^
 ||xxxmilfs.com^
 ||xxxmilfs.net^
+||xxxmilfs.top^
 ||xxxmilfsclips.com^
 ||xxxmissav.com^
 ||xxxmm.vip^
@@ -208772,6 +209700,7 @@
 ||xxxvideohd.info^
 ||xxxvideohd.sex^
 ||xxxvideohd.wiki^
+||xxxvideohd.xyz^
 ||xxxvideohindi.com^
 ||xxxvideohindi.fans^
 ||xxxvideoindian.click^
@@ -210197,6 +211126,7 @@
 ||yjxsfmy.com^
 ||ykard.com^
 ||ykaryzbamfvme.site^
+||ykbweb-whatsapp.com^
 ||ykdh.shop^
 ||ykdnrpe.com^
 ||ykdtmw.cn^
@@ -210517,6 +211447,7 @@
 ||youjiz.lol^
 ||youjiz.quest^
 ||youjizz-mobile.com^
+||youjizz-pornos.biz^
 ||youjizz.best^
 ||youjizz.bond^
 ||youjizz.casa^
@@ -210590,6 +211521,7 @@
 ||young-teen-pussy.com^
 ||young-teen.org^
 ||young-webcam.net^
+||young-whatsapp.com^
 ||young-xxx.net^
 ||young18.net^
 ||young18gfs.com^
@@ -211452,6 +212384,7 @@
 ||yummybikinimodel.com^
 ||yummycdn.com^
 ||yummycouple.com^
+||yummygirl.com^
 ||yummygirl.xxx^
 ||yummygirlstore.com^
 ||yummymembership.com^
@@ -212393,6 +213326,7 @@
 ||zdfwmkfxwrlht.online^
 ||zdhd01.cfd^
 ||zdhhh.com^
+||zdhweb-whatsapp.com^
 ||zdjsg.com^
 ||zdmxehlpvvtta.site^
 ||zdn.ro^
@@ -212419,6 +213353,7 @@
 ||zebawy.com^
 ||zebawysex.com^
 ||zeblaitjiznqv.space^
+||zebra-whatsapp.com^
 ||zebrafans.com^
 ||zebragirls.com^
 ||zebraicrudista.com^
@@ -213545,6 +214480,7 @@
 ||zova.at^
 ||zovaderzodochter.nl^
 ||zovidree.com^
+||zovira85.mosswren.vip^
 ||zovjwq.datingzonee.com^
 ||zovkox.magiconneccts.com^
 ||zovkox.wellyoudate.com^
@@ -213859,6 +214795,7 @@
 ||zwebarvheahx.com^
 ||zweiporn.com^
 ||zweirad-handel.com^
+||zweiradzentrum.com^
 ||zwergspitzpomeranian.com^
 ||zwfnfd.icu^
 ||zwftdkfbbjyydg.com^
