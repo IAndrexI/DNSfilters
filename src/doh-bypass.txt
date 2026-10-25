@@ -908,6 +908,7 @@
 74.208.64.80.traefik.me
 76.theartieschaffer.com
 76d58ed8bc4a1b98a5b6247fcbb687f4607273ca.com
+77.mishutkin.click
 771.masi.ir.he6fhd.ru
 7713.info
 774e8125b1288a33109e6996cc8e2a26.top
@@ -2087,6 +2088,7 @@ areas.fun
 argovpn.com
 argus1.jcconnell.com
 aridia.ru
+ariobarzanes.ir.igakwvwa.info
 arisaka.io
 ark-vpn.com
 ark.to
@@ -2105,6 +2107,7 @@ artclass.site
 artemis.bar
 arthi.rajmohan.nowhearthis.co.uk
 artiom.made.this.h0stname.net
+artmis.ir.igakwvwa.info
 arts.field.8tb.net
 arts.sage.thehitechhouse.com
 artsineducation.net
@@ -2785,6 +2788,7 @@ bityun.net
 bityun.org
 biubiuvpn.app
 biuspggy.com
+bixberry.com
 bixlimp.com
 bixnod.com
 bixorn.com
@@ -2956,6 +2960,7 @@ botvpntype.com
 bouquetberlin.org
 box.seidenstrabe.com
 boxpn.com
+bozorgmehr.ir.igakwvwa.info
 bpn.wtf
 bqinoiq.com
 bqkqixr.com
@@ -9214,8 +9219,10 @@ ir-ir.macauley.info
 ir-ir.my-pv.info
 ir-ir.naganuma.info
 ir-ir.pbdjarum.info
+ir-ir.radio-zvez.info
 ir-ir.rebol.info
 ir-ir.simpleelegance-us.info
+ir-ir.xn--ds-bja.info
 ir.ariely.info
 ir.ataman.info
 ir.atcfirealarms.co.uk
@@ -9694,6 +9701,7 @@ karnuvia.ru
 karo-vpn.xyz
 kasco.alhosein.co.uk
 kastino.ru
+kasu85.tidelark.cc
 katakanachart.com
 katonetwork.com
 kaveh-ahangar.ir.aysghfkzcxg.info
@@ -10350,6 +10358,7 @@ lestfvpn.com
 lesuo.top
 letlab.online
 letmeoutletmeout.xyz
+letosu66.tidelark.cc
 lets-connect-kuailian.com
 lets-go-connect.com
 lets-letsvpn.com
@@ -10636,6 +10645,7 @@ luminalos.click
 luminalos.click.cdn.cloudflare.net
 luminalos.shop
 luminalos.shop.cdn.cloudflare.net
+luminaproxy.com
 luminati.io
 luminatinet.com
 lumiproxy.com
@@ -10710,6 +10720,7 @@ maka61.tidelark.cc
 makomako.easterndns.com
 malanser.ru
 male21.mosswren.vip
+male58.mosswren.vip
 maleyu.org
 mallocapp.com
 mallocprivacy.com
@@ -11508,6 +11519,7 @@ netvora.space
 netvpn.app
 netvpn.us
 networkvpnapp.com
+netyield.io
 neuroquantum.me
 new-cloud-184.guesstheanimal.org
 new-hawk-387.conwordable.com
@@ -11873,6 +11885,7 @@ nwps.fi
 nxodtkmk.cc
 ny.pramanik.com
 nyfwbixj.com
+nyka85.mosswren.vip
 nylole24.copperfinch.top
 nym.com
 nym.dev
@@ -12423,6 +12436,7 @@ pirateproxy.tv
 piro.live
 pirzjdlz.com
 piscatorial.karrozzin.cloud-ip.cc
+pishi.nanaz.co.uk
 pisk.loan
 pistonbeacon.com
 pistonvector.com
@@ -14680,6 +14694,7 @@ supervpn.lat
 supervpn.net
 supervpn.pro
 supervpn.top
+supora40.tidelark.cc
 support.infinityhalo.co.uk
 support.warning.cx
 supported.testing4fun.xyz
@@ -15133,6 +15148,7 @@ tokna.s3-us-west-1.amazonaws.com
 toksa.s3-sa-east-1.amazonaws.com
 tokvpn.help
 tokyo.559299366.xyz
+toleka79.mosswren.vip
 tolveno.ru
 tommattinglyda.site
 tonvpn.com
@@ -16903,6 +16919,7 @@ world.grade.mbyrne.net
 world.prep.micatonetwork.net
 world.real.pagano.ch
 worldgravityapp.com
+worldmaster.varomax.co.uk
 worldnod.com
 worldnod.top
 worldunlocked.org
