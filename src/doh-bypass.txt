@@ -1108,6 +1108,7 @@ academi.edu.pl
 academi.edu.pl.cdn.cloudflare.net
 academic.internetbowser.com
 academiq.academy.cdn.cloudflare.net
+academyfreetutors.org
 acceleration-is-hot.global.ssl.fastly.net
 acceleration.global.ssl.fastly.net
 accelerationis-monkey.global.ssl.fastly.net
@@ -3369,6 +3370,7 @@ ccdns.services
 ccyykk.top
 cdiiceyn.com
 cdn-7xf.pages.dev
+cdn-bright-sdk.b-cdn.net
 cdn-earnapp.b-cdn.net
 cdn.benzcls.co.uk
 cdn.mangoseason4.co.uk
@@ -5434,6 +5436,7 @@ dns.miyun1.com
 dns.mnet-online.de
 dns.mni.li
 dns.mochalka.com
+dns.moklav.co.jp
 dns.molinero.dev
 dns.momou.ch
 dns.moog.sh
@@ -6133,6 +6136,7 @@ doh.excdn.eu.org
 doh.fatucloud.gosprout.org
 doh.ffmuc.net
 doh.flashstart.com
+doh.fullhosting.ru
 doh.funil.de
 doh.funtopia.tv
 doh.futa.app
@@ -14841,6 +14845,7 @@ spells.myaddr.dev
 spherefields.com
 spicevpn.com
 spide.network
+spider.cloud
 spidervpn.org
 split-tool.com
 split.clean.abrdns.com
