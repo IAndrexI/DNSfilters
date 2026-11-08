@@ -10090,6 +10090,7 @@ khanacademy.mom.cdn.cloudflare.net
 khanda-makoni.lolauth.info
 khande-bar-lab-mizanam.lolauth.info
 khandeliants-vps.duckdns.org
+khare-gol.golabkashan.info
 khaste.delroba.co.uk
 khaterate.2nafare.info
 khiar.telbet.app
@@ -10936,6 +10937,7 @@ loungef2x-t.global.ssl.fastly.net
 loungef2x.github.io
 loungef2x.global.ssl.fastly.net
 loungef2x.web.app
+loveyou.jojeh.info
 lowpricedvpn.info
 loxch.com
 loxirant.forum
@@ -14839,6 +14841,7 @@ sparkstrail.com
 spbyjzu.cn
 spearhead.bury.abrdns.com
 speed-speed.co.uk
+speed.foriran.co.uk
 speed.runserver.co.uk
 speedcat.info
 speedcatjc.com
@@ -17597,6 +17600,7 @@ xendria.ru
 xendro.ru
 xenergy.cc
 xenodiagnosis.karrozzin.cloud-ip.cc
+xenon.foriran.co.uk
 xenorit.xyz
 xenpiro.ru
 xentiro.ru
