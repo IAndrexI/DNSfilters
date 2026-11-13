@@ -110,6 +110,7 @@
 1088456706.rsc.cdn77.org
 1098192377.rsc.cdn77.org
 10bestvpn.co.uk
+11.new1.ramkal12.uk
 1102711472.rsc.cdn77.org
 1102964304.rsc.cdn77.org
 1105736500.rsc.cdn77.org
@@ -379,6 +380,7 @@
 159.195.59.55.sslip.io
 159.195.59.55.traefik.me
 1592193657.rsc.cdn77.org
+16.new1.ramkal12.uk
 1606341993.rsc.cdn77.org
 1608145414.rsc.cdn77.org
 1609125303.rsc.cdn77.org
@@ -406,6 +408,7 @@
 1687580184.rsc.cdn77.org
 16yd.com
 17.masi.ir.he6fhd.ru
+17.new1.ramkal12.uk
 1703947877.rsc.cdn77.org
 1708683720.rsc.cdn77.org
 1710638455.rsc.cdn77.org
@@ -586,6 +589,7 @@
 23081r.cn
 233jms.com
 233py.com
+236f1.mmd1.meli-n12.info
 24.theartieschaffer.com
 24032949.xyz
 24checklifeapp.ru
@@ -664,6 +668,7 @@
 33pwyl3u.com
 33sorryto.ir
 35.theartieschaffer.com
+3621.mmd1.meli-n12.info
 3658729.ritebooks.com
 365ads9.com
 365ld250904.com
@@ -840,6 +845,7 @@
 6032d9bb53d549be8367e88ad95273fa.top
 61.ir.mmd.yayayajd.co.uk
 61.masi.ir.he6fhd.ru
+61.new1.ramkal12.uk
 615ad0384e04cd707039f12eee38e280d18b3db5.com
 621.mmd1.meli-n12.info
 62599ae90134ca5e1e6ccef7f0990ab3.top
@@ -5187,6 +5193,7 @@ dns.dewei.dev
 dns.dgea.fr
 dns.dhemant.observer
 dns.diarbagus.id
+dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dimantus.com
 dns.dionperera.com
@@ -5958,6 +5965,7 @@ dns1.api110.com
 dns1.blackrandcrf.ru
 dns1.conne.net
 dns1.dedyn.io
+dns1.digitale-gesellschaft.ch
 dns1.feear.se
 dns1.gms.net.id
 dns1.in-berlin.de
@@ -5998,6 +6006,7 @@ dns2.anuar.me
 dns2.bortus.io
 dns2.cbio.top
 dns2.cybrespace.net
+dns2.digitale-gesellschaft.ch
 dns2.fawz.de
 dns2.feear.se
 dns2.gms.net.id
@@ -8454,6 +8463,7 @@ graef.in
 graf.mywire.org
 graltexo.com
 gram.blog
+gram.prxtg.top
 gramercy.luminiferous.abrdns.com
 grammarhelpers.com
 grandcinemachat.org
@@ -8647,6 +8657,7 @@ halopebble.com
 hamishegi.ir.gole-baghche.info
 hammerhead-shark.wifizone.org
 hammerhead.iot64.de
+hamrah.coudflare.ww.qavi-13.co.uk
 hamrah.mci.ir.pugfhtrdyted.info
 hamsconfederal.top
 hamster67.loseyourip.com
@@ -11087,6 +11098,7 @@ logos.karrozzin.cloud-ip.cc
 logs.danamas.net
 lohex.xyz
 lokiproxy.com
+lol-lock.godserver52.info
 lol.sanluix.org
 loli.xianyu1.workers.dev
 lolo89.larchmere.xyz
@@ -11924,6 +11936,7 @@ myplanet22.duckdns.org
 myprivateproxy.net
 myprivatevpn.org
 myprivityvpn.softether.net
+myprotectedvpn.com
 myproxy.ca
 myproxy.lol
 myproxy.name
@@ -13059,6 +13072,7 @@ pineappled.org
 ping-khoob.ir.paeez-amad.info
 pingbeehive.com
 pingbi.xyz
+pingguovpn.com
 pingmybee.net
 pinguproxy.com
 pingvpn.com
@@ -13581,6 +13595,7 @@ proxyhub.in
 proxyhub.me
 proxyisp.com
 proxyist.com
+proxyita.xyz
 proxyium.com
 proxyium.com.in
 proxyium.org
@@ -15747,6 +15762,7 @@ tf8jqyca.com
 tfckwhed.com
 tg.getsurfvpn.com
 tg.proxynet.tech
+tg.prxtg.top
 tg.wequ.lat
 tg1-ru4.chadvpn.shop
 tg1-ru5.chadvpn.shop
@@ -16749,6 +16765,7 @@ varkotim.study
 vasalshim.mamadgoli.co.uk
 vashvpn.help
 vasiliysoldatkin.ru
+vasl-sho-eshgh-kon.ir.bcsadwtgd.info
 vasl-sho.mohearn.co.uk
 vasle-sho-binam.ebimarh.info
 vasle.goooalir.co.uk
@@ -17473,6 +17490,7 @@ vyprvpn.com
 vzrsy.com
 w--e.giize.com
 w-w-w-w.ir
+w.prxtg.top
 w2fe9j5f.com
 w6wgmwa4bd.execute-api.us-east-1.amazonaws.com
 wabs8nuc.com
