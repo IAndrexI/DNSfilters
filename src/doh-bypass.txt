@@ -6930,6 +6930,7 @@ edgevpn.help
 edgex-102.xyz
 edgex.trafficmanager.net
 edgy-dns.com
+editingvpn.xyz
 editionvpn.xyz
 editor.codingwizard.website
 editorialescelistina.click
@@ -7628,6 +7629,7 @@ figdon.com
 figure.run
 fild16fffexdst.online
 file.clean.abrdns.com
+filebanyanproxy.com
 filemahoganyproxy.com
 files-ded.com
 files.ajh.boats.cdn.cloudflare.net
@@ -8436,6 +8438,7 @@ gopjbvpn.com
 goproxy.asia
 gorinosa.any64.de
 gorira.f5.si
+gospodar-vpn-bot.online
 gossr.pw
 gostarlight.xyz
 gotoproxy.com
@@ -10988,6 +10991,7 @@ lilt-pupu.sbs
 lilt-pupu.top
 liltpupu.com
 limaklhc6.info
+limbusvpn.com
 lime.samonte.ovh
 limejetco.com
 limevpn.com
@@ -11241,7 +11245,9 @@ m9ynqi6d.com
 ma.hastim.co.uk
 ma.smartjz.cn
 mabuktogel.business
+mabuktogel.marketing
 mabuktogel.properties
+mabuktogel.solutions
 mad4todo.com
 madeinchile.io
 madeinchina1987.zapto.org
@@ -13417,6 +13423,7 @@ project-cyber.com
 project-evoex.de
 projectsgoeasy.ru
 prompt.flight.abrdns.com
+promptxvpn.com
 prontovpn.help
 pronyx.ru
 proof.major.archanet.org
@@ -13584,6 +13591,7 @@ proxycreator-shadowbrowser.f5.si
 proxycroxy.site
 proxycroxyid.id
 proxydb.net
+proxydetect.online
 proxydrop.com
 proxydude.faith
 proxydude.xyz
@@ -17178,6 +17186,7 @@ vpnbenben.com
 vpnbo.lol
 vpnbook.com
 vpnboost.help
+vpnbooster.xyz
 vpnbot.mom
 vpnbox.f2p.ms
 vpnbrains.com
@@ -17204,6 +17213,7 @@ vpnconfig.mom
 vpnconnect.help
 vpnconnection.help
 vpnconvergence.xyz
+vpncoordinates.xyz
 vpncreate.com
 vpncrmerp.co.cc
 vpnd.help
@@ -17232,6 +17242,7 @@ vpnfi.help
 vpnfig.com
 vpnfly.mom
 vpnforllm.com
+vpnforrussia.online
 vpngame.com
 vpngame.help
 vpngame.net
