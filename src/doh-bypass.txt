@@ -3158,6 +3158,8 @@ brazilproxy.info
 brd-sdk-app-packages.s3.amazonaws.com
 breakwall.net
 breatheandbend.yoga
+breeze.paperteapot.com
+breeze.velvetwindow.cc
 breezeridge.heronglade.space
 bridgeschoolboulder.org
 bright-vpn.help
@@ -6980,6 +6982,7 @@ edgecache.online
 edgecache.xyz
 edgedcircles.com
 edgehub.fyi
+edgespindle.org
 edgevpn.help
 edgex-102.xyz
 edgex.trafficmanager.net
@@ -8184,6 +8187,7 @@ gammesfeld.eu
 garage-van.com
 garden.baumgardner.us
 gardeningtools04u5h91.baumgardner.us
+gardenkite.heronglade.space
 gardenparty.me
 gardeshgar.miandoabs.info
 garlandisd.nseuropa.org
@@ -9727,6 +9731,7 @@ iohnhbly.com
 iomlelco.com
 ion.pm
 ionprox.com
+ionvpn.online
 iopgn.com
 iopl.xyz
 iosap2-static.b-cdn.net
@@ -12014,6 +12019,7 @@ my-proxy.com
 my-safe-net.com
 my.8484848.cn
 my.englishpapers.online
+my.home.ir.bcsadwtgd.info
 my.soft98.co.uk
 my.worksheetsforteachers.org
 my1337jog.run
@@ -12328,6 +12334,7 @@ nexitallyhh.com
 nexitallyig.com
 nexitallyjc.com
 nexitallysafe.com
+nexora.logmanfi.info
 nexotari.hair
 nexproxys.com
 nexravom.hair
@@ -12710,6 +12717,7 @@ obereza.ru
 obeshbarmak.kz
 obfusgated.com
 obhodvpn.help
+objectpeak.org
 obokicygo.tattoo
 obscura.net
 obscurenamelab.shop
@@ -12897,6 +12905,8 @@ orbit.craft.kuede.info
 orbitbasalt.com
 orbitqgr7v.info
 orbitzinc.com
+orchid.paperteapot.com
+orchid.velvetwindow.cc
 order.registration.abrdns.com
 ordns.he.net
 ore-dns.bitdefender.net
@@ -13008,6 +13018,7 @@ paku.f5.si
 pakupaku.bounceme.net
 paladinvpn.com
 paleoy.com
+paltronicsvpn.com
 pan.yuhui.eu.org
 pancakes.group
 pandaexpert.xyz
@@ -13244,6 +13255,7 @@ pihole3.hoerli.net
 pihole4.hoerli.net
 pilor.net
 pilvoro.ru
+pine.heronglade.space
 pineappled.org
 ping-khoob.ir.paeez-amad.info
 pingbeehive.com
@@ -13433,6 +13445,7 @@ polisitogel.webcam
 polnira.ru
 polo57.quietfjord.click
 pomiraq.ru
+poneny87.sorrelbay.xyz
 pongbeeu.com
 ponghive.org
 ponyny28.tidelark.cc
@@ -14454,6 +14467,7 @@ rimalmotors.com
 rimany75.pebblewisp.xyz
 rimavet.baby
 rimi88.fernlark.xyz
+rimira82.ashwren.xyz
 ring.clean.abrdns.com
 ringvpn.com
 rini.id.vn
@@ -15641,6 +15655,7 @@ subscrbersktech.infotechnology.com
 subscribe.vcsa.aeroantenna.com
 subscribesktech.jumpingcrab.com
 sudo.rm-rf.cloud
+sudoaptupdate-y-sudoaptupgrade-y.logmanfi.info
 sudoukayo.dtdns.org
 suinfra.com
 suissl.com
