@@ -427,6 +427,7 @@ et-ad-lgsmartad-com.aws-prd.net
 et-info-lgsmartad-com.aws-prd.net
 et-rdx2-lgtvsdp-com.aws-prd.net
 eu7-info-lgsmartad-com.aws-prd.net
+eu7-rdx2-lgtvsdp-com.aws-prd.net
 event-tracking.samsung.com
 events.app-performance.music.amazon.dev
 fast.samsungsingapore.demdex.net
@@ -964,6 +965,7 @@ sponsored-ads-eu.amazon.nl
 sponsored-ads-eu.amazon.pl
 sponsored-ads-eu.amazon.sa
 sponsored-ads-eu.amazon.se
+sponsored-ads-euc-1.amazon-adsystem.com
 sponsored-ads-fe.amazon-adsystem.com
 sponsored-ads-na.amazon-adsystem.com
 sponsored-ads.amazon.ae
