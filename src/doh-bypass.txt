@@ -2009,6 +2009,7 @@ ams.core.access.zznet.fun
 ams01-n.surf-p.com
 ams1.startpage.com
 ams2.startpage.com
+ams2.tlgfast.com
 amvpn.help
 amysecure.com
 amytele.co
@@ -3629,6 +3630,7 @@ chart.train.topone.cl
 chart.words.lasvegasanonymous.org
 chasa.pages.dev
 chasenbc.net
+chat.appnormoor.com
 chatgptpro.host
 chatgptpro.website
 chatgptspro.online
@@ -6259,6 +6261,7 @@ dogvpn.me
 doh-01.spectrum.com
 doh-02.spectrum.com
 doh-03.spectrum.com
+doh-1.seby.io
 doh-2.seby.io
 doh-ca.naftalie.net
 doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
@@ -6520,6 +6523,7 @@ dopojieban.com
 doprivate.net
 doproapp.com
 dopure.net
+doq.ffmuc.net
 doqifei.com
 doqihao.com
 doqingfeng.com
@@ -6550,6 +6554,7 @@ dot-security-systems.com
 dot.360.cn
 dot.886675.xyz
 dot.asecdns.com
+dot.centraleu.pi-dns.com
 dot.cleardns.io
 dot.cox.net
 dot.ffmuc.net
@@ -7346,6 +7351,7 @@ fancy.v6.army
 fancy1.v6.army
 fandogh.co.uk
 fangzhou.date
+fanqiejc.com
 fansblowair.ik.spacejamhd.com
 fanscloud.net
 fantagia.net
@@ -8814,6 +8820,8 @@ happydata.info
 happykuailian.com
 happykuailian.net
 harbor-lane-bistro.com
+harborwinter.paperteapot.com
+harborwinter.velvetwindow.cc
 hardenglish.buzz
 hardenglish.buzz.cdn.cloudflare.net
 hardmath.buzz
@@ -9904,6 +9912,7 @@ irckyb7t9a.com
 ire.danielfreyr.com
 irgrdns.nullapp.xyz
 iriczcsx.com
+irl.firemedia.digital
 irluxcars.site
 iro.varfootball2.co.uk
 irogallery.golgoli1.co.uk
@@ -10436,6 +10445,7 @@ kfk31.ir.ir.ir.meli-n12.info
 kfkxdwfk3.easterndns.com
 kfwjq7a3.com
 kgkt5w6.com
+khaje-hafez-shirazi.logmanfi.info
 khajujawegifwqaiugwa.tcp64.de
 khal33.me
 khalije-ta-abad-fars.ir.pugfhtrdyted.info
@@ -11632,6 +11642,7 @@ mechanikdns.kozow.com
 media.benzcls.co.uk
 media.logic.postie.org
 media.mangoseason2.co.uk
+media.maxim-api.com
 media.music.orienta.com.br
 media.network
 media10.happtg.org
@@ -12009,6 +12020,7 @@ msstore-submissions.s3.us-east-1.amazonaws.com
 mstfuofk.cc
 msudom.com
 mswdzouo.cc
+mt-sw.alex-photo-notes.pl
 mtagprox.com
 mtdhbqbf.com
 mtkidjkn.com
@@ -15721,6 +15733,7 @@ sulone58.tidelark.cc
 sumi59.mosswren.vip
 sumi71.mosswren.vip
 summer.bury.abrdns.com
+summit.tealbriar.xyz
 summitag.org
 sun.paperteapot.com
 sun.velvetwindow.cc
@@ -17835,6 +17848,7 @@ vzrsy.com
 w--e.giize.com
 w-w-w-w.ir
 w.prxtg.top
+w1.hiesen-proxy.ru
 w2fe9j5f.com
 w6wgmwa4bd.execute-api.us-east-1.amazonaws.com
 wabs8nuc.com
@@ -18145,6 +18159,7 @@ wordarooz.com
 wordcloud.page
 words.facts.skardafamily.com
 work.blackonstuff.com
+work.deal-market.xyz
 work.idea.salman.pk
 work.mishutkin.click
 workbypass.com
