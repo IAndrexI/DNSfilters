@@ -2138,6 +2138,7 @@ api-tel.xyz
 api.97531246.xyz
 api.bcsdny.com.de
 api.black.riseup.net
+api.calilnegociosimobiliarios.shop
 api.cloudflareclient.com
 api.du-just-link.com
 api.fatibara.com
@@ -2204,6 +2205,7 @@ appstoff.info
 apptopay.xyz
 appx-kuailian.com
 appxiazai9.com
+aptupdate.appnormoor.info
 aptutorfinder.com
 aptvpn.org
 apworld.navigogroup.cl
@@ -3212,6 +3214,7 @@ brooklyndancefestival.org
 bropay.org
 brothislinkfire.chickenkiller.com
 brovpn.io
+browgatis.bujanoci.net
 browpay.biz
 browpay.info
 browpay.net
@@ -3503,6 +3506,7 @@ cdn-7xf.pages.dev
 cdn-bright-sdk.b-cdn.net
 cdn-earnapp.b-cdn.net
 cdn.benzcls.co.uk
+cdn.divpal.com
 cdn.mangoseason4.co.uk
 cdn.refined.pro
 cdn.streamr.com
@@ -3624,6 +3628,7 @@ chaoyue.shop
 chapelhill.mywire.org
 chapternap.org
 char.anotelinopalk.co.uk
+char.ionox.co.uk
 charmingbest.com
 chart.craft.mylogisoft.com
 chart.train.topone.cl
@@ -3642,6 +3647,7 @@ cheaptextingapp.com
 cheapv2.net
 check.peer2profit.site
 check.ragpets.com
+checker-domain.ir
 checkout.steampower.online
 checkproxy.top
 cheddar-chute.com
@@ -4650,8 +4656,10 @@ dagecloud.com
 dageyun.com
 dageyun.info
 dageyun.net
+dageyunjc.com
 dageyunpro.com
 dagljcdy.com
+dah.ionox.co.uk
 dailyproxylist24.blogspot.com
 dailyvpn.io
 dainaamaito.easterndns.com
@@ -4671,6 +4679,7 @@ dansereau.xyz
 daowli5ih5tw2.cloudfront.net
 darikon.my
 dark-proxy.ru
+dark.qavi-13.co.uk
 dark1.globalmymusic.co.uk
 dark2.globalmymusic.co.uk
 dark3.globalmymusic.co.uk
@@ -6186,6 +6195,7 @@ do-kuailian.com.cn
 do-not-block.store
 do.anotelinopalk.co.uk
 do.dnscrypt.uk
+do.ionox.co.uk
 do.shimul.me
 do789.net
 do91.net
@@ -8769,6 +8779,7 @@ hackkcah.xyz
 hadaf.golgoli2.co.uk
 hades001.spv.gg
 haf.anotelinopalk.co.uk
+haf.ionox.co.uk
 haffnetworkam.com
 haffnetworkat.com
 haffnetworkca.com
@@ -8834,6 +8845,7 @@ harvest-moon-market.com
 harvestinflate.com
 hash.anotelinopalk.co.uk
 hashemis1.duckdns.org
+hasht.ionox.co.uk
 hat.global.ssl.fastly.net
 hauntbanjo.org
 hauxcore.de
@@ -9824,6 +9836,8 @@ ipvpn.help
 iq4nrowd.online
 iqbbhmzh.com
 iqia.org
+ir-countdown.lewisj.co.uk
+ir-immortals.sponsorafuture.co.uk
 ir-ir-ir.grumpyoldmen.info
 ir-ir.ariely.info
 ir-ir.ataman.info
@@ -9882,6 +9896,7 @@ ir.mhanna.info
 ir.mohearn.co.uk
 ir.my-pv.info
 ir.naganuma.info
+ir.ourmainlands.co.uk
 ir.panhandleflyers.info
 ir.pbdjarum.info
 ir.pcspeedyfix.co.uk
@@ -10426,6 +10441,7 @@ kerlix.xyz
 kern-avo.ru
 kernavo.ru
 kernelvpn.xyz
+ketab.info
 ketri.samavar.co.uk
 kettleextend.com
 kevinai.org
@@ -10445,6 +10461,7 @@ kfk31.ir.ir.ir.meli-n12.info
 kfkxdwfk3.easterndns.com
 kfwjq7a3.com
 kgkt5w6.com
+kgs.steampower.online
 khaje-hafez-shirazi.logmanfi.info
 khajujawegifwqaiugwa.tcp64.de
 khal33.me
@@ -11762,6 +11779,7 @@ minds.plant.theseks.net
 minecraft.info.north-kazakhstan.su.cdn.cloudflare.net
 minilla.store
 minionisland.com
+minios3.calilnegociosimobiliarios.shop
 miniprox.com
 miniprox.info
 minoritymath.buzz
@@ -11937,6 +11955,7 @@ moh2.benzcls.co.uk
 mohamedadel.cfd
 mohandes.davooti.info
 moheme.naaab.lol
+mohsen.helps.help
 moidns.hopto.org
 moise-et-maurice-gardent-la-maison.schneiderus.org
 moist.vercel.app
@@ -12304,6 +12323,7 @@ nebulaservices.xyz
 nebulo.surge.sh
 nectar39.quest
 needeep.org
+nega52.ashwren.xyz
 neibu.911s5.net
 neiy32pibn.online
 neka57.mossharbor.xyz
@@ -12459,6 +12479,7 @@ nintendogames.net
 niovf.ipv64.net
 nirboredom.klinikkenoj.dk
 nirbytes.com
+nirbytesovercloaked.ho-danone.id
 nirglint.klinikkenoj.dk
 nirselenite.klinikkenoj.dk
 nitter.ujwie.co
@@ -12524,6 +12545,7 @@ nodtart.com
 nodun.cn
 nogfdb.ipv64.net
 noh.anotelinopalk.co.uk
+noh.ionox.co.uk
 nohumguitar.com
 noip4.de
 nolagvpn.com
@@ -12806,6 +12828,7 @@ odvr.nic.cz
 odyxighs.com
 oeck.com
 ofer.ox.sjtech.org
+off.namenewok.info
 office.heimtec.com
 office.pramanik.org
 official-vpn.info
@@ -12845,6 +12868,8 @@ oleg.loan
 olegofriend.ru
 olipa.ru
 olivaro.ru
+olivesail.paperteapot.com
+olivesail.velvetwindow.cc
 olviro.ru
 olydra.ru
 olympicproxy.net
@@ -13481,6 +13506,7 @@ pn.do.6x.sl.t.9b.80-55-83-16.ir
 png.lgi.cfe.8vr.xj.f8.b.128-273-66.ir
 pngheader.amerid.abrdns.com
 pnj.anotelinopalk.co.uk
+pnj.ionox.co.uk
 pns2.sadraidc.com
 poatvpn.com
 pocketnerve.com
@@ -13528,6 +13554,7 @@ pork.icu
 pork.immo
 porkssr.com
 porsorate.co.uk
+portainer.calilnegociosimobiliarios.shop
 portal.app.dontdrinkthekoolaid.duckdns.org
 portal.dont-let-securly-block-this.duckdns.org
 portal.flashspder.info
@@ -13650,6 +13677,7 @@ pro-tower.com
 pro.shecan.ir
 pro0oxy.blogspot.com
 proariel.dns-dynamic.net
+professor.hasratepaeiz.website
 programs.mangorefreshers.com
 prohashing.com
 proigor.com
@@ -14341,6 +14369,7 @@ ravoapp.com
 rayneau.fr
 rayobyte.com
 rayvpn.help
+razo11.kelpmoor.xyz
 razord.top
 razori60.mosswren.vip
 rb750gr3.ulfhednar.ru
@@ -14913,6 +14942,7 @@ sdwkhwt4.com
 sdxnblze.com
 se-gate.anyhome.fr
 se.anotelinopalk.co.uk
+se.ionox.co.uk
 se3v5tjfff3aet.me
 seagrav.com
 seaofseals.org
@@ -15162,6 +15192,7 @@ shinevpn.com
 shinevpn.net
 shinevpn.org
 shipboard.ir
+shish.ionox.co.uk
 shitblocker.com
 shiva-app.io
 shiyongvpn.com
@@ -16833,6 +16864,7 @@ unsavory.bury.abrdns.com
 untraceable.us
 untracer.com
 uoltqswr.com
+up.samavar.co.uk
 updatedproxies.com
 updateelixir.com
 upherb.xyz
@@ -17913,6 +17945,7 @@ waydnes.ru
 wayen.eu
 wb-letsvpn.com
 wbcadd4mkdq.info.north-kazakhstan.su.cdn.cloudflare.net
+wbs.regmail.org
 wbzby2a2k9.com
 wcomes.com
 wdefrgthjyu.evils.in
@@ -18631,6 +18664,7 @@ ydihh84ntwoj.info.north-kazakhstan.su.cdn.cloudflare.net
 ydtreard.com
 ydyasrhc.com
 yek.anotelinopalk.co.uk
+yek.ionox.co.uk
 yeke-jahan.mohearn.co.uk
 yellowflashvpn.com
 yellowproxy.net
